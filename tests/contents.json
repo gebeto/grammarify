@@ -1,0 +1,987 @@
+[
+    {
+        "key": "a-little-a-few-exercise-1",
+        "title": "A Little / Little / A Few / Few",
+        "description": "Choose: a little / little / a few / few"
+    },
+    {
+        "key": "adjectives-and-prepositions-exercise-1",
+        "title": "Adjectives and Prepositions Exercise 1",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "adverbs-or-adjectives-exercise-1",
+        "title": "Adverbs and Adjectives 1",
+        "description": ""
+    },
+    {
+        "key": "articles-exercise-1",
+        "title": "Articles with Geographical Names 1",
+        "description": "Put in 'the' or -"
+    },
+    {
+        "key": "articles-exercise-2",
+        "title": "Articles with Geographical Names 2",
+        "description": "Put in 'the' or -"
+    },
+    {
+        "key": "as-and-like-exercise-1",
+        "title": "As and Like",
+        "description": "Choose 'as' or 'like'"
+    },
+    {
+        "key": "bed-home-work-town-exercise-1",
+        "title": "Bed / home / work / town",
+        "description": "Fill the gap with 'the' or use - if you don't need an article."
+    },
+    {
+        "key": "causatives-exercise-1",
+        "title": "Causatives 1",
+        "description": "Change the sentences so they use the structure 'have something done' or 'get something done'."
+    },
+    {
+        "key": "causatives-exercise-2",
+        "title": "Causatives 2",
+        "description": "Change the sentences so that they use the structure 'have someone do something' or 'get someone to do something'. Start with 'I'."
+    },
+    {
+        "key": "comparative-adjectives-exercise-1",
+        "title": "Comparative Adjectives",
+        "description": "Make the comparative form. If it's possible, use 'er'. If not, use 'more'."
+    },
+    {
+        "key": "could-have-should-have-would-have-exercise-1",
+        "title": "Could have should have would have",
+        "description": "Make the correct past modal form (use could have / would have / should have + past participle)"
+    },
+    {
+        "key": "do-does-am-is-are-exercise-1",
+        "title": "Present simple questions",
+        "description": "Choose: do / does / is / are"
+    },
+    {
+        "key": "either-and-neither-exercise-1",
+        "title": "Either and Neither Exercise 1",
+        "description": "Put in 'of' or '-'"
+    },
+    {
+        "key": "either-and-neither-exercise-2",
+        "title": "Either and Neither Exercise 2",
+        "description": "Choose 'either' or 'neither'"
+    },
+    {
+        "key": "embedded-questions-in-statements-exercise-1",
+        "title": "Embedded Questions in Statements",
+        "description": "Change the normal question into an embedded question. Start with 'I don't know'."
+    },
+    {
+        "key": "ergative-unaccusative-verbs-exercise-1",
+        "title": "Unaccusative Verbs 1",
+        "description": "Is the sentence correct or wrong? For correct sentences, write -. For wrong sentences, write the correct version. All sentences are past simple."
+    },
+    {
+        "key": "even-exercise-1",
+        "title": "Even",
+        "description": "Change the sentences so that they include 'even'."
+    },
+    {
+        "key": "ever-and-never-exercise-1",
+        "title": "Ever and Never Exercise 1",
+        "description": "Put in 'ever' or 'never'"
+    },
+    {
+        "key": "first-conditional-exercise-1",
+        "title": "First Conditional Form",
+        "description": "Make the first conditional"
+    },
+    {
+        "key": "first-second-third-conditionals-exercise",
+        "title": "First / second / third conditionals",
+        "description": "Make the first, second or third conditional"
+    },
+    {
+        "key": "future-continuous-exercise-1",
+        "title": "Future Continuous Positive",
+        "description": "Make the future continuous"
+    },
+    {
+        "key": "future-continuous-exercise-2",
+        "title": "Future Continuous Negative",
+        "description": "Make the future continuous negative"
+    },
+    {
+        "key": "future-continuous-exercise-3",
+        "title": "Future Continuous Questions",
+        "description": "Make future continuous questions"
+    },
+    {
+        "key": "future-perfect-continuous-exercise-1",
+        "title": "Future Perfect Continuous Positive",
+        "description": "Make the future perfect continuous positive"
+    },
+    {
+        "key": "future-perfect-continuous-exercise-2",
+        "title": "Future Perfect Continuous Negative",
+        "description": "Make the future perfect continuous negative form"
+    },
+    {
+        "key": "future-perfect-continuous-exercise-3",
+        "title": "Future Perfect Continuous Questions",
+        "description": "Make the future perfect continuous question form"
+    },
+    {
+        "key": "future-perfect-continuous-exercise-4",
+        "title": "Future Perfect Continuous Mixed Exercise",
+        "description": "Make the future perfect continuous. Choose the positive, negative or question form."
+    },
+    {
+        "key": "future-perfect-exercise-1",
+        "title": "Future Perfect Positive",
+        "description": "Make the future perfect positive"
+    },
+    {
+        "key": "future-perfect-exercise-2",
+        "title": "Future Perfect Negative",
+        "description": "Make the future perfect negative"
+    },
+    {
+        "key": "future-perfect-exercise-3",
+        "title": "Future Perfect Questions",
+        "description": "Make future perfect questions"
+    },
+    {
+        "key": "future-perfect-exercise-4",
+        "title": "Future Perfect Mixed Exercise",
+        "description": "Make the future perfect"
+    },
+    {
+        "key": "future-tenses-form-mixed-exercise-1",
+        "title": "Future All Tenses",
+        "description": "Make the correct tense."
+    },
+    {
+        "key": "gerunds-and-infinitives-exercise-1",
+        "title": "Gerunds and Infinitives 1",
+        "description": "Put the verb into either the gerund (-ing) or the infinitive (with 'to'):"
+    },
+    {
+        "key": "gerunds-and-infinitives-exercise-2",
+        "title": "Gerunds and Infinitives 2",
+        "description": "Put the verb into the gerund or the infinitive:"
+    },
+    {
+        "key": "gerunds-and-infinitives-exercise-3",
+        "title": "Gerunds and Infinitives 3",
+        "description": "Put the verb into the gerund or the infinitive"
+    },
+    {
+        "key": "gerunds-and-infinitives-exercise-4",
+        "title": "Gerunds and Infinitives 4",
+        "description": "Put the verb into the gerund or the infinitive:"
+    },
+    {
+        "key": "indefinite-pronouns-exercise-1",
+        "title": "Indefinite Pronouns Exercise 1",
+        "description": "Put in somebody / something / somewhere / anybody / anything / anywhere / nobody / nothing / nowhere / everybody / everything / everywhere."
+    },
+    {
+        "key": "indirect-questions-exercise-1",
+        "title": "Indirect Questions Exercise 1 (Present Simple Tense)",
+        "description": "Change the direct questions into indirect questions. Use 'can you tell me'."
+    },
+    {
+        "key": "indirect-questions-exercise-2",
+        "title": "Indirect Questions Exercise 2 (Past Simple Tense)",
+        "description": "Change the direct questions into indirect questions. Use 'do you know'."
+    },
+    {
+        "key": "indirect-questions-exercise-3",
+        "title": "Indirect Questions Exercise 3 (Modal Verbs)",
+        "description": "Change the direct questions into indirect questions. Use 'could you tell me'."
+    },
+    {
+        "key": "infinitives-of-purpose-exercise-1",
+        "title": "Infinitives of Purpose Exercise 1",
+        "description": "Change these sentences so that they have an infinitive of purpose (to + infinitive)"
+    },
+    {
+        "key": "inversion-exercise-1",
+        "title": "Inversion 1",
+        "description": "Change the normal sentence into one with inversion. For example: \"We had hardly arrived when Julie burst into the house\" becomes \"Hardly had we arrived when Julie burst into the house\"."
+    },
+    {
+        "key": "irregular-verbs-exercise-1",
+        "title": "Irregular Verbs - Past Simple 1",
+        "description": "Change the verb into the past simple"
+    },
+    {
+        "key": "irregular-verbs-exercise-2",
+        "title": "Irregular Verbs - Past Simple 2",
+        "description": "Make the past simple"
+    },
+    {
+        "key": "irregular-verbs-exercise-3",
+        "title": "Irregular Verbs - Past Participle 1",
+        "description": "Make the past participle"
+    },
+    {
+        "key": "irregular-verbs-exercise-4",
+        "title": "Irregular Verbs - Past Participle 2",
+        "description": ""
+    },
+    {
+        "key": "it-and-there-exercise-1",
+        "title": "It and There",
+        "description": "Choose 'it' or 'there'."
+    },
+    {
+        "key": "let-or-make-exercise-1",
+        "title": "Let or Make 1",
+        "description": "Put in 'let' or 'make' in the correct form."
+    },
+    {
+        "key": "linking-words-contrast-exercise-1",
+        "title": "Linking Words Contrast 1",
+        "description": "Choose 'despite', 'however' or 'although'."
+    },
+    {
+        "key": "linking-words-reason-exercise-2",
+        "title": "Linking Words Reason 1",
+        "description": "Choose the correct word or phrase to fill the space."
+    },
+    {
+        "key": "make-or-do-exercise-1",
+        "title": "Make or Do 1",
+        "description": "Put in the correct form of 'make' or 'do'"
+    },
+    {
+        "key": "make-or-do-exercise-2",
+        "title": "Make or Do 2",
+        "description": "Put in the correct form of 'make' or 'do'"
+    },
+    {
+        "key": "make-or-do-exercise-3",
+        "title": "Make or Do 3",
+        "description": "Put in the correct form of 'make' or 'do'"
+    },
+    {
+        "key": "make-or-do-exercise-4",
+        "title": "Make or Do 4",
+        "description": "Put in the correct form of 'make' or 'do':"
+    },
+    {
+        "key": "modal-verbs-of-ability-exercise-1",
+        "title": "Modals of Ability 1",
+        "description": "Put in 'can', 'can't', 'could' or 'couldn't'. If none of these is possible use 'be able to' in the correct tense."
+    },
+    {
+        "key": "modal-verbs-of-obligation-exercise-1",
+        "title": "Modals of Obligation 1",
+        "description": "Put in 'mustn't' or 'don't / doesn't have to'"
+    },
+    {
+        "key": "modal-verbs-of-probability-exercise-1",
+        "title": "Modals of Probability 1",
+        "description": "Put in 'must + infinitive' or 'must + have + past participle':"
+    },
+    {
+        "key": "modal-verbs-of-probability-exercise-2",
+        "title": "Modals of Probability 2",
+        "description": "put in 'must' or 'can't'"
+    },
+    {
+        "key": "no-and-not-exercise-1",
+        "title": "No and Not Exercise 1",
+        "description": "Put in 'no' or 'not'"
+    },
+    {
+        "key": "no-and-not-exercise-2",
+        "title": "No or Not Exercise 2",
+        "description": "Put in 'no' or 'not'"
+    },
+    {
+        "key": "noun-identification-exercise-1",
+        "title": "Nouns Exercise 1",
+        "description": "Write down the nouns from the sentences."
+    },
+    {
+        "key": "nouns-common-and-proper-exercise-1",
+        "title": "Common or Proper Nouns 1",
+        "description": "Are these nouns common nouns or proper nouns? Write 'common' or 'proper' in the box."
+    },
+    {
+        "key": "nouns-countable-and-uncountable-exercise-1",
+        "title": "Countable or Uncountable Nouns 1",
+        "description": "Are these nouns usually countable or uncountable? Write 'countable' or 'uncountable' in the box."
+    },
+    {
+        "key": "order-of-adjectives-exercise-1",
+        "title": "",
+        "description": ""
+    },
+    {
+        "key": "participle-adjectives-exercise-1",
+        "title": "Participle Adjectives 1",
+        "description": "Choose the correct adjective:"
+    },
+    {
+        "key": "participle-adjectives-exercise-2",
+        "title": "Participle Adjectives 2",
+        "description": "Choose the correct adjective:"
+    },
+    {
+        "key": "participle-clauses-exercise-1",
+        "title": "Participle Clauses 1",
+        "description": "Make a reduced relative clause. These sentences all need an active clause."
+    },
+    {
+        "key": "participle-clauses-exercise-2",
+        "title": "Participle Clauses 2",
+        "description": "Make a reduced relative clause. These sentences all need a passive clause."
+    },
+    {
+        "key": "passive-exercise-1",
+        "title": "Passive 1 (present simple)",
+        "description": "Make these active present simple sentences passive. You don't need to repeat 'somebody'."
+    },
+    {
+        "key": "passive-exercise-2",
+        "title": "Passive 2 (past simple)",
+        "description": "Make the passive form with the past simple. You don't need to repeat 'somebody'."
+    },
+    {
+        "key": "passive-exercise-3",
+        "title": "Passive 3 (present perfect)",
+        "description": "Make these present perfect sentences passive. You don't need to repeat 'somebody'."
+    },
+    {
+        "key": "passive-exercise-4",
+        "title": "Passive 4 (future simple)",
+        "description": "Change these future simple sentences into the passive. You don't need to repeat 'somebody'."
+    },
+    {
+        "key": "passive-exercise-5",
+        "title": "Passive 5 (mixed tenses)",
+        "description": "Change these active sentences to passive.  Choose if you need the agent or not."
+    },
+    {
+        "key": "passive-subordinate-clauses-exercise-1",
+        "title": "Passive with subordinate clauses",
+        "description": "Make the subordinate clauses passive."
+    },
+    {
+        "key": "passive-verbs-two-objects-exercise-1",
+        "title": "Passive 6 (two objects)",
+        "description": "Change the active sentence into the passive. There are two answers for each question."
+    },
+    {
+        "key": "past-continuous-exercise-1",
+        "title": "Past Continuous - Positive and Negative",
+        "description": "Make the positive or negative past continuous"
+    },
+    {
+        "key": "past-continuous-exercise-2",
+        "title": "Past Continuous - Questions",
+        "description": "Make past continuous 'wh' or 'yes / no' questions"
+    },
+    {
+        "key": "past-continuous-exercise-3",
+        "title": "Past Continuous - Mixed Exercise 1",
+        "description": "Make the correct form of the past continuous"
+    },
+    {
+        "key": "past-continuous-exercise-4",
+        "title": "Past Continuous - Mixed Exercise 2",
+        "description": "Make the correct form of the past continuous"
+    },
+    {
+        "key": "past-perfect-continuous-exercise-1",
+        "title": "Past Perfect Continuous Positive",
+        "description": "Make the past perfect continuous"
+    },
+    {
+        "key": "past-perfect-continuous-exercise-2",
+        "title": "Past Perfect Continuous Negative",
+        "description": ""
+    },
+    {
+        "key": "past-perfect-continuous-exercise-3",
+        "title": "Past Perfect Continuous Questions",
+        "description": "Make the past perfect continuous"
+    },
+    {
+        "key": "past-perfect-continuous-past-simple-exercise-1",
+        "title": "Past Perfect Continuous or Past Simple",
+        "description": "Make the past simple or the past perfect continuous."
+    },
+    {
+        "key": "past-perfect-exercise-1",
+        "title": "Past Perfect - Positive and Negative",
+        "description": "Make the positive or negative past perfect simple"
+    },
+    {
+        "key": "past-perfect-exercise-2",
+        "title": "Past Perfect - Questions",
+        "description": "Make the past perfect simple  - 'wh' or 'yes/no' questions"
+    },
+    {
+        "key": "past-perfect-exercise-3",
+        "title": "Choose past simple or past perfect 1",
+        "description": "Choose the past simple or the past perfect tense"
+    },
+    {
+        "key": "past-simple-exercise-1",
+        "title": "Past Simple 'Be' Positive and Negative",
+        "description": "Make the past simple with 'be'"
+    },
+    {
+        "key": "past-simple-exercise-10",
+        "title": "Past Simple - Mixed Exercise 4",
+        "description": "Make the past simple, positive, negative or question"
+    },
+    {
+        "key": "past-simple-exercise-2",
+        "title": "Past Simple 'Be' Questions",
+        "description": ""
+    },
+    {
+        "key": "past-simple-exercise-3",
+        "title": "Past Simple 'Be' Mixed Exercise 1",
+        "description": "Make the past simple with 'be' - it could be positive, negative or question"
+    },
+    {
+        "key": "past-simple-exercise-4",
+        "title": "Past Simple - Negative",
+        "description": "Make the past simple negative"
+    },
+    {
+        "key": "past-simple-exercise-5",
+        "title": "Past Simple - 'Yes / No' Questions",
+        "description": "Make past simple questions"
+    },
+    {
+        "key": "past-simple-exercise-6",
+        "title": "Past Simple - 'Wh' Questions",
+        "description": "Make past simple questions"
+    },
+    {
+        "key": "past-simple-exercise-7",
+        "title": "Past Simple 'Be' Mixed Exercise 1",
+        "description": "Make the past simple with 'be' - it could be positive, negative or question"
+    },
+    {
+        "key": "past-simple-exercise-8",
+        "title": "Past Simple - Mixed Exercise 2",
+        "description": "Make the past simple, positive, negative or question"
+    },
+    {
+        "key": "past-simple-exercise-9",
+        "title": "Past Simple - Mixed Exercise 3",
+        "description": "Make the past simple, positive, negative or question"
+    },
+    {
+        "key": "past-simple-past-continuous-exercise-1",
+        "title": "Choose Past Simple or Past Continuous 1",
+        "description": "Make the past simple or past continuous"
+    },
+    {
+        "key": "past-simple-past-continuous-exercise-2",
+        "title": "Choose Past Simple or Past Continuous 2",
+        "description": "Make the past simple or past continuous tense"
+    },
+    {
+        "key": "past-simple-present-perfect-1",
+        "title": "Choose Past Simple or Present Perfect 1",
+        "description": "Change the verb into the correct form of the past simple or present perfect"
+    },
+    {
+        "key": "past-simple-present-perfect-2",
+        "title": "Choose Past Simple or Present Perfect 2",
+        "description": "Make the correct form of the past simple or the present perfect"
+    },
+    {
+        "key": "past-simple-present-perfect-3",
+        "title": "Choose past simple or present perfect 3",
+        "description": "Make the correct form of the past simple or the present perfect"
+    },
+    {
+        "key": "past-simple-present-perfect-4",
+        "title": "Choose past simple or present perfect 4",
+        "description": "Choose the past simple or the present perfect tense:"
+    },
+    {
+        "key": "phrasal-verbs-exercise-1",
+        "title": "Phrasal Verbs 1",
+        "description": "Put in the correct phrasal verb (choose from the Phrasal Verbs 1 list)"
+    },
+    {
+        "key": "phrasal-verbs-exercise-2",
+        "title": "Phrasal Verbs 2",
+        "description": "Put in the correct phrasal verb (choose from the 'Phrasal Verbs 2 list)"
+    },
+    {
+        "key": "phrasal-verbs-exercise-3",
+        "title": "",
+        "description": ""
+    },
+    {
+        "key": "phrasal-verbs-exercise-4",
+        "title": "Phrasal Verbs 4",
+        "description": "Choose the correct phrasal verb: look out / bring in / open up / check out / move on / put out / look around / be caught up / go in / break down / get off / keep up / put down / reach out / go off"
+    },
+    {
+        "key": "possessive-pronouns-and-possessive-adjectives-exercise-1",
+        "title": "Possessive adjectives and possessive pronouns exercise 1",
+        "description": "Choose the correct word."
+    },
+    {
+        "key": "preposition-collocations-exercise-1",
+        "title": "Preposition Collocations 1",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "prepositions-of-place-exercise-1",
+        "title": "Prepositions of Place 1",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "prepositions-of-place-exercise-2",
+        "title": "Prepositions of Place 2",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "present-continuous-exercise-1",
+        "title": "Present Continuous - Positive and Negative 1",
+        "description": "Make the present continuous, positive or negative"
+    },
+    {
+        "key": "present-continuous-exercise-2",
+        "title": "Present Continuous - Positive and Negative 2",
+        "description": "Make the present continuous"
+    },
+    {
+        "key": "present-continuous-exercise-3",
+        "title": "Present Continuous - Questions 1",
+        "description": "Make the present continuous - 'yes / no' or 'wh' questions"
+    },
+    {
+        "key": "present-continuous-exercise-4",
+        "title": "Present Continuous - Questions 2",
+        "description": "Make the present continuous - 'yes / no' or 'wh' questions."
+    },
+    {
+        "key": "present-continuous-exercise-5",
+        "title": "Present Continuous - Mixed Exercise 1",
+        "description": "Make the present continuous - positive, negative or question"
+    },
+    {
+        "key": "present-continuous-exercise-6",
+        "title": "Present Continuous - Mixed Exercise 2",
+        "description": "Make the present continuous - positive, negative or question"
+    },
+    {
+        "key": "present-continuous-exercise-7",
+        "title": "Present Continuous - Mixed Exercise 3",
+        "description": "Make the present continuous - positive, negative or question"
+    },
+    {
+        "key": "present-perfect-continuous-exercise-1",
+        "title": "Present Perfect Continuous - Positive and Negative",
+        "description": "Make the present perfect continuous"
+    },
+    {
+        "key": "present-perfect-continuous-exercise-2",
+        "title": "Present Perfect Continuous - Questions",
+        "description": "Make the present perfect continuous, 'wh' or 'yes / no' questions"
+    },
+    {
+        "key": "present-perfect-exercise-1",
+        "title": "Present Perfect - Positive 1",
+        "description": "Make the positive present perfect"
+    },
+    {
+        "key": "present-perfect-exercise-2",
+        "title": "Present Perfect - Negative 1",
+        "description": "Make the negative present perfect"
+    },
+    {
+        "key": "present-perfect-exercise-3",
+        "title": "Present Perfect - Questions 1",
+        "description": "Make present perfect 'yes / no' or 'wh' questions"
+    },
+    {
+        "key": "present-perfect-exercise-4",
+        "title": "Present Perfect - Mixed Exercise 1",
+        "description": "Make the present perfect - it could be positive, negative or question."
+    },
+    {
+        "key": "present-perfect-exercise-5",
+        "title": "Present Perfect - Mixed Exercise 2",
+        "description": "Make the present perfect - positive, negative or question"
+    },
+    {
+        "key": "present-perfect-present-perfect-continuous-1",
+        "title": "Choose present perfect simple or continuous 1",
+        "description": ""
+    },
+    {
+        "key": "present-perfect-present-perfect-continuous-2",
+        "title": "Choose present perfect simple or continuous 2",
+        "description": ""
+    },
+    {
+        "key": "present-perfect-present-perfect-continuous-3",
+        "title": "Choose present perfect simple or continuous 3",
+        "description": ""
+    },
+    {
+        "key": "present-simple-exercise-1",
+        "title": "Present Simple Positive with other verbs exercise 1",
+        "description": "Make positive present simple sentences"
+    },
+    {
+        "key": "present-simple-exercise-10",
+        "title": "Present Simple 'Be' Negative",
+        "description": "Make the negative with 'be'"
+    },
+    {
+        "key": "present-simple-exercise-11",
+        "title": "Present Simple 'Be' Positive",
+        "description": "Put in am / is / are"
+    },
+    {
+        "key": "present-simple-exercise-12",
+        "title": "Present Simple 'Be' Yes / No Questions",
+        "description": "Make a question with 'be'"
+    },
+    {
+        "key": "present-simple-exercise-13",
+        "title": "Present Simple 'Be' Wh Questions",
+        "description": "Make a question with 'be'"
+    },
+    {
+        "key": "present-simple-exercise-14",
+        "title": "Present Simple 'Be' Mixed Exercise 1",
+        "description": "Make the present simple (it could be positive, negative or question form)"
+    },
+    {
+        "key": "present-simple-exercise-15",
+        "title": "Present Simple 'Be' Mixed Exercise 2",
+        "description": "Make present simple sentences with 'be'"
+    },
+    {
+        "key": "present-simple-exercise-16",
+        "title": "Present Simple Mixed Exercise 'Be' and Other Verbs",
+        "description": "Make the present simple"
+    },
+    {
+        "key": "present-simple-exercise-2",
+        "title": "Present Simple Other Verbs Positive Exercise 2",
+        "description": "Make positive present simple sentences"
+    },
+    {
+        "key": "present-simple-exercise-3",
+        "title": "Present Simple Negative Other Verbs Exercise 1",
+        "description": "Make negative present simple sentences"
+    },
+    {
+        "key": "present-simple-exercise-4",
+        "title": "Present Simple Negative Other Verbs Exercise 2",
+        "description": "Make the negative present simple"
+    },
+    {
+        "key": "present-simple-exercise-5",
+        "title": "Present Simple Yes / No Questions",
+        "description": "Make present simple questions"
+    },
+    {
+        "key": "present-simple-exercise-6",
+        "title": "Present Simple 'Wh' Questions",
+        "description": "Make present simple 'wh' questions"
+    },
+    {
+        "key": "present-simple-exercise-7",
+        "title": "Present Simple Other Verbs Mixed Exercise 1",
+        "description": "Make the present simple. Choose positive, negative or question."
+    },
+    {
+        "key": "present-simple-exercise-8",
+        "title": "Present Simple Other Verbs Mixed Exercise 2",
+        "description": "Make the present simple (choose positive, negative or question)"
+    },
+    {
+        "key": "present-simple-exercise-9",
+        "title": "Present Simple Other Verbs Mixed Exercise 3",
+        "description": "Make the present simple tense (choose positive, negative or question)"
+    },
+    {
+        "key": "present-simple-future-simple-exercise-1",
+        "title": "Present Simple or Future Simple",
+        "description": "Change the verb into either the present simple or the future simple"
+    },
+    {
+        "key": "present-simple-present-continuous-1",
+        "title": "Choose Present Continuous or Present Simple 1",
+        "description": "Choose the present simple or the present continuous - it could be positive, negative or question"
+    },
+    {
+        "key": "present-simple-present-continuous-2",
+        "title": "Choose Present Continuous or Present Simple 2",
+        "description": "Choose the present simple or present continuous - it could be positive, negative or question"
+    },
+    {
+        "key": "present-simple-present-continuous-3",
+        "title": "Choose Present Continuous or Present Simple 3",
+        "description": "Choose the present simple or the present continuous. Watch out for stative verbs."
+    },
+    {
+        "key": "present-simple-spelling-exercise",
+        "title": "Present Simple Spelling Changes",
+        "description": "Put the verb into the present simple. Be careful about the spelling!"
+    },
+    {
+        "key": "privacy-policy",
+        "title": "Adjectives and Prepositions Exercise 1",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "purpose-exercise",
+        "title": "Purpose",
+        "description": "Choose 'to + infinitive', 'for + verb-ing' or 'for + noun'."
+    },
+    {
+        "key": "question-tags-exercise-1",
+        "title": "Tag Questions - Present Simple",
+        "description": "Put in the correct tag question"
+    },
+    {
+        "key": "reconfirm-thank-you",
+        "title": "Adjectives and Prepositions Exercise 1",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "relative-clauses-exercise-1",
+        "title": "Relative Clauses 1",
+        "description": "Add the phrase in brackets to the sentence using 'that' or 'who' and a relative clause: "
+    },
+    {
+        "key": "relative-clauses-exercise-2",
+        "title": "Relative Clauses 2",
+        "description": "Add the phrase in brackets to the sentence using a relative clause. Use 'that' or no pronoun:"
+    },
+    {
+        "key": "relative-clauses-exercise-3",
+        "title": "Relative Clauses 3",
+        "description": "Add the phrase in brackets to the sentence using a relative clause. If it's possible, you should drop the relative pronoun:"
+    },
+    {
+        "key": "relative-clauses-exercise-4",
+        "title": "Relative Clauses 4",
+        "description": "Add the phrase in brackets to the sentence using a relative clause. If it's possible, you should drop the relative pronoun:"
+    },
+    {
+        "key": "reported-speech-exercise-1",
+        "title": "Reported Statements 1",
+        "description": "Change the direct speech into reported speech. Use 'she said' at the beginning of each answer. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-10",
+        "title": "Reported Statements 4 (Present Continuous)",
+        "description": "Make the direct speech into reported speech. Use 'he told me' at the beginning of your answer. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-11",
+        "title": "Reported Statements 5 (Present Perfect)",
+        "description": "Make reported speech from the direct speech. Use 'she said' at the beginning of each. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-12",
+        "title": "Reported Statements 6 (Present Simple)",
+        "description": "Change the direct speech into reported speech. Use 'she said' at the beginning of each answer. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-2",
+        "title": "Reported Questions 1",
+        "description": "Make reported questions.  Use 'she asked me' at the beginning of each answer. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-3",
+        "title": "Reported Requests and Orders 1",
+        "description": "Make reported requests or orders. Start each sentence with 'she asked me' or 'she told me'. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-4",
+        "title": "Reported Speech Mixed Exercise 1",
+        "description": "Make reported speech. Start all your answers with 'she', and use the past simple of 'ask', 'say' or 'tell'. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-5",
+        "title": "Reported Speech Mixed Exercise 2",
+        "description": "Make reported speech. Start all your answers with 'she', and use the past simple of 'ask', 'say' or 'tell'. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-6",
+        "title": "Reported Speech Questions 2 (Wh questions)",
+        "description": "Make reported questions. Start your answer with 'she asked me'. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-7",
+        "title": "Reported Speech Questions 3 (Yes/No Questions)",
+        "description": "Make reported questions. Start each answer with 'she asked me'. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-8",
+        "title": "Reported Statements 2 (Future Simple)",
+        "description": "Make reported statements. Start each sentence with 'she said' (don't use 'that'). It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reported-speech-exercise-9",
+        "title": "Reported Statements 3 (Past Simple)",
+        "description": "Make reported statements. Remember, with the past simple you can change to the past perfect or keep to the past simple. In this exercise you should change to the past perfect. Start each sentence with 'he told me'. It's the same day, so you don't need to change the time expressions."
+    },
+    {
+        "key": "reporting-verbs-exercise-1",
+        "title": "Reporting Verbs 1",
+        "description": "Make a new sentence with the same meaning using the reporting verb in brackets."
+    },
+    {
+        "key": "say-or-tell-exercise-1",
+        "title": "Say and Tell Exercise 1",
+        "description": "Put in 'said' or 'told'"
+    },
+    {
+        "key": "second-conditional-exercise-1",
+        "title": "Second Conditional Form",
+        "description": "Make the second conditional"
+    },
+    {
+        "key": "simple-future-exercise-1",
+        "title": "Future Simple Positive",
+        "description": "Make the future simple"
+    },
+    {
+        "key": "simple-future-exercise-2",
+        "title": "Future Simple Negative",
+        "description": "Make the future simple"
+    },
+    {
+        "key": "simple-future-exercise-3",
+        "title": "Future Simple Questions",
+        "description": "Make the future simple"
+    },
+    {
+        "key": "so-and-such-exercise-1",
+        "title": "So and Such Exercise 1",
+        "description": "Put in 'so' or 'such'"
+    },
+    {
+        "key": "so-and-such-exercise-2",
+        "title": "So and Such Exercise 2",
+        "description": "Put in 'so' or 'such'"
+    },
+    {
+        "key": "so-too-neither-either-exercise-1",
+        "title": "So do I Exercise 1",
+        "description": "Imagine you're having a conversation with Jenny. What she says is also true for you. Write 'so --- I' or 'neither ---I', choosing the correct auxiliary verb."
+    },
+    {
+        "key": "some-and-any-exercise-1",
+        "title": "Some and Any Exercise 1",
+        "description": "Choose 'some' or 'no article'. If you need 'no article', put -."
+    },
+    {
+        "key": "some-and-any-exercise-2",
+        "title": "Some and Any Exercise 2",
+        "description": "Choose 'some' or 'any':"
+    },
+    {
+        "key": "stative-verbs-exercise",
+        "title": "Stative Verbs 1",
+        "description": "Choose the present simple or present continuous. This exercise includes the verbs see, think, have, be, and taste, which are sometimes stative."
+    },
+    {
+        "key": "subject-object-pronouns-exercise-1",
+        "title": "Subject and Object Pronouns Exercise 1",
+        "description": "Choose the correct pronoun."
+    },
+    {
+        "key": "subject-questions-exercise-1",
+        "title": "Subject and Object Questions 1",
+        "description": "Make object or subject questions."
+    },
+    {
+        "key": "subjects-and-objects-exercise-1",
+        "title": "Subjects and Objects 1",
+        "description": "Write the subject or the object in the box"
+    },
+    {
+        "key": "superlatives-exercise-1",
+        "title": "Superlatives with 'the' 1",
+        "description": "Fill the gap with 'the' if it's necessary. If you can choose either, then use 'no article' (-)."
+    },
+    {
+        "key": "superlatives-exercise-2",
+        "title": "Superlatives with 'the' 2",
+        "description": "If it's possible to choose between 'the' and 'no article', put 'the'. Otherwise, put 'no article' (-)."
+    },
+    {
+        "key": "there-is-there-are-exercise-1",
+        "title": "There is / there are",
+        "description": "Change these (strange!) sentences so that you use 'there + the correct tenses of be'"
+    },
+    {
+        "key": "third-conditional-exercise-1",
+        "title": "Third Conditional Form",
+        "description": "Make the third conditional"
+    },
+    {
+        "key": "this-that-these-those-exercise-1",
+        "title": "This That These Those Exercise 1",
+        "description": "Choose this or that or these or those."
+    },
+    {
+        "key": "time-prepositions-exercise-1",
+        "title": "Prepositions of Time 1",
+        "description": "Put in the correct preposition (choose in / on / at). If no preposition is needed put in -."
+    },
+    {
+        "key": "time-prepositions-exercise-2",
+        "title": "Prepositions of Time 2",
+        "description": "Put in the correct preposition (choose in / on / at). If no preposition is needed put in -."
+    },
+    {
+        "key": "used-to-exercise-1",
+        "title": "Used to Exercise 1",
+        "description": "Make an affirmative sentence, negative sentence or question using 'used to + infinitive':"
+    },
+    {
+        "key": "used-to-exercise-2",
+        "title": "Used to Exercise 2",
+        "description": "If it's possible, make a sentence with 'would + infinitive'. If it's not possible, use 'used to + infinitive':"
+    },
+    {
+        "key": "used-to-exercise-3",
+        "title": "Be Used To Exercise 1",
+        "description": "Make sentences using 'be used to + verb-ing' or 'be used to + noun / pronoun'. You need to choose the correct tense:"
+    },
+    {
+        "key": "verbs-and-prepositions-exercise-1",
+        "title": "Prepositions after Verbs 1",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "verbs-and-prepositions-exercise-2",
+        "title": "Prepositions after Verbs 2",
+        "description": "Put in the correct preposition"
+    },
+    {
+        "key": "wish-exercise-1",
+        "title": "Wish Exercise 1",
+        "description": "I wish things were different! Make sentences using 'wish' + past simple about the things I don't like. You can put in 'that' if you want, or leave it out."
+    },
+    {
+        "key": "zero-conditional-exercise-1",
+        "title": "Zero Conditional Form",
+        "description": "Make the zero conditional"
+    }
+]

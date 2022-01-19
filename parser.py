@@ -57,4 +57,19 @@ def parse_tests():
 			json.dump(data, open(f"tests/{filename}.json", "w"), indent=4)
 
 
-parse_tests()
+def generate_contents():
+	urls = json.load(open("tests/index.json"))
+	result = []
+	for url in urls:
+		filename = get_page_title(url)
+		filepath = f"tests/{filename}.json"
+		if os.path.exists(filepath):
+			data = json.load(open(filepath))
+			result.append({
+				"key": filename,
+				"title": data["title"],
+				"description": data["description"],
+			})
+	json.dump(result, open("tests/contents.json", "w"), indent=4)
+
+generate_contents()
