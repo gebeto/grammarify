@@ -1,0 +1,510 @@
+{
+    "title": "Indefinite Pronouns Exercise 1",
+    "description": "Put in somebody / something / somewhere / anybody / anything / anywhere / nobody / nothing / nowhere / everybody / everything / everywhere.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She wants to live"
+                },
+                {
+                    "type": "input",
+                    "answer": "somewhere",
+                    "answerList": [
+                        "somewhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "by the sea (in a certain place)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She put"
+                },
+                {
+                    "type": "input",
+                    "answer": "everything",
+                    "answerList": [
+                        "everything"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "in the box, all the things that she had."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does"
+                },
+                {
+                    "type": "input",
+                    "answer": "anybody",
+                    "answerList": [
+                        "anybody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "have a phone charger? (I don't know if a person has a charger or not.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We went"
+                },
+                {
+                    "type": "input",
+                    "answer": "nowhere",
+                    "answerList": [
+                        "nowhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "this weekend. We stayed at home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She didn't bring"
+                },
+                {
+                    "type": "input",
+                    "answer": "anything",
+                    "answerList": [
+                        "anything"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "to the party."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is there"
+                },
+                {
+                    "type": "input",
+                    "answer": "anything",
+                    "answerList": [
+                        "anything"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "in the room?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: What's wrong? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Nothing",
+                    "answerList": [
+                        "Nothing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ", I'm fine."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Nobody",
+                    "answerList": [
+                        "Nobody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "lives in that house. It's empty."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would you like to go"
+                },
+                {
+                    "type": "input",
+                    "answer": "anywhere",
+                    "answerList": [
+                        "anywhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "this weekend? (I don't expect a particular answer.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Everybody",
+                    "answerList": [
+                        "Everybody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "was really friendly, all the managers and even the CEO."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Everything",
+                    "answerList": [
+                        "Everything"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "is going really well and so I'm really happy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I know"
+                },
+                {
+                    "type": "input",
+                    "answer": "nobody",
+                    "answerList": [
+                        "nobody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "in this company. It's my first day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you go"
+                },
+                {
+                    "type": "input",
+                    "answer": "anywhere",
+                    "answerList": [
+                        "anywhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "during the summer? (I don't know if you did or not.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She doesn't want"
+                },
+                {
+                    "type": "input",
+                    "answer": "anybody",
+                    "answerList": [
+                        "anybody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "to help her."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She loves"
+                },
+                {
+                    "type": "input",
+                    "answer": "everybody",
+                    "answerList": [
+                        "everybody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". She's a really kind person."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I must have left my keys"
+                },
+                {
+                    "type": "input",
+                    "answer": "somewhere",
+                    "answerList": [
+                        "somewhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They looked"
+                },
+                {
+                    "type": "input",
+                    "answer": "everywhere",
+                    "answerList": [
+                        "everywhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "for the money. They looked in all the places in the house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would you like"
+                },
+                {
+                    "type": "input",
+                    "answer": "something",
+                    "answerList": [
+                        "something"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "to drink? (This is an offer, not a real question.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Nowhere",
+                    "answerList": [
+                        "Nowhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "in the UK has hot weather today. It's cold all over the country."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Nothing",
+                    "answerList": [
+                        "Nothing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "unusual happened. It was a very ordinary day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I gave the children"
+                },
+                {
+                    "type": "input",
+                    "answer": "something",
+                    "answerList": [
+                        "something"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "to eat because they were hungry."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wish"
+                },
+                {
+                    "type": "input",
+                    "answer": "somebody",
+                    "answerList": [
+                        "somebody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "would clean this mess up!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Somebody",
+                    "answerList": [
+                        "Somebody"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "came to the door earlier but I don't know who it was."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd love to travel"
+                },
+                {
+                    "type": "input",
+                    "answer": "everywhere",
+                    "answerList": [
+                        "everywhere"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "- all over the whole world!"
+                }
+            ]
+        }
+    ]
+}

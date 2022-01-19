@@ -1,0 +1,466 @@
+{
+    "title": "Present Simple 'Be' Negative",
+    "description": "Make the negative with 'be'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m not",
+                    "answerList": [
+                        "'m not",
+                        "am not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) cold."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) French."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) an accountant."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) my brother."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) from Berlin."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) warm outside."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m not",
+                    "answerList": [
+                        "'m not",
+                        "am not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) hungry."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Ian and Jill"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) on the bus."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) Spanish."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) in the bathroom."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) thirsty."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) sunny."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) a teacher."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) at school."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) from Australia."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m not",
+                    "answerList": [
+                        "'m not",
+                        "am not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) a nurse."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) sleepy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) at home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) from China."
+                }
+            ]
+        }
+    ]
+}

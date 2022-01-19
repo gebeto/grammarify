@@ -1,0 +1,366 @@
+{
+    "title": "Passive with subordinate clauses",
+    "description": "Make the subordinate clauses passive.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I want someone to love me."
+                },
+                {
+                    "type": "input",
+                    "answer": "I want to be loved!",
+                    "answerList": [
+                        "I want to be loved!"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It seems that someone cleaned the office on Tuesday."
+                },
+                {
+                    "type": "input",
+                    "answer": "It seems that the office was cleaned on Tuesday.",
+                    "answerList": [
+                        "It seems that the office was cleaned on Tuesday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amy thinks that someone is reading to her son."
+                },
+                {
+                    "type": "input",
+                    "answer": "Amy thinks that her son is being read to.",
+                    "answerList": [
+                        "Amy thinks that her son is being read to."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't like people seeing me in my pyjamas."
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't like being seen in my pyjamas.",
+                    "answerList": [
+                        "I don't like being seen in my pyjamas."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My little niece loves people chasing her."
+                },
+                {
+                    "type": "input",
+                    "answer": "My little niece loves being chased.",
+                    "answerList": [
+                        "My little niece loves being chased."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I understand that someone hit Greg."
+                },
+                {
+                    "type": "input",
+                    "answer": "I understand that Greg was hit.",
+                    "answerList": [
+                        "I understand that Greg was hit."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is it the case that someone sent the report on time?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is it the case that the report was sent on time?",
+                    "answerList": [
+                        "Is it the case that the report was sent on time?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We avoided people seeing us."
+                },
+                {
+                    "type": "input",
+                    "answer": "We avoided being seen.",
+                    "answerList": [
+                        "We avoided being seen."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think that someone built the house in 1814."
+                },
+                {
+                    "type": "input",
+                    "answer": "I think that the house was built in 1814.",
+                    "answerList": [
+                        "I think that the house was built in 1814."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I understand that someone fired John."
+                },
+                {
+                    "type": "input",
+                    "answer": "I understand that John was fired.",
+                    "answerList": [
+                        "I understand that John was fired."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I like someone looking after me when I'm ill."
+                },
+                {
+                    "type": "input",
+                    "answer": "I like being looked after when I'm ill.",
+                    "answerList": [
+                        "I like being looked after when I'm ill."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She hates people laughing at her."
+                },
+                {
+                    "type": "input",
+                    "answer": "She hates being laughed at.",
+                    "answerList": [
+                        "She hates being laughed at."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It seems that someone lost the papers."
+                },
+                {
+                    "type": "input",
+                    "answer": "It seems that the papers were lost.",
+                    "answerList": [
+                        "It seems that the papers were lost."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He thinks that someone is teasing Lucy."
+                },
+                {
+                    "type": "input",
+                    "answer": "He thinks that Lucy is being teased.",
+                    "answerList": [
+                        "He thinks that Lucy is being teased."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I hope someone will examine me soon."
+                },
+                {
+                    "type": "input",
+                    "answer": "I hope to be examined soon.",
+                    "answerList": [
+                        "I hope to be examined soon."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John would like someone to promote him."
+                },
+                {
+                    "type": "input",
+                    "answer": "John would like to be promoted.",
+                    "answerList": [
+                        "John would like to be promoted."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cat enjoys someone tickling him."
+                },
+                {
+                    "type": "input",
+                    "answer": "The cat enjoys being tickled.",
+                    "answerList": [
+                        "The cat enjoys being tickled."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They claim that someone stole the money."
+                },
+                {
+                    "type": "input",
+                    "answer": "They claim that the money was stolen.",
+                    "answerList": [
+                        "They claim that the money was stolen."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We imagined that the storm damaged the car."
+                },
+                {
+                    "type": "input",
+                    "answer": "We imagined that the car was damaged by the storm.",
+                    "answerList": [
+                        "We imagined that the car was damaged by the storm."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I believe that some is preparing food."
+                },
+                {
+                    "type": "input",
+                    "answer": "I believe that food is being prepared.",
+                    "answerList": [
+                        "I believe that food is being prepared."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+{
+    "title": "Past Perfect - Questions",
+    "description": "Make the past perfect simple  - 'wh' or 'yes/no' questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had you gone",
+                    "answerList": [
+                        "Had you gone",
+                        "Had you been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/go) there before we went together?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had she seen",
+                    "answerList": [
+                        "Had she seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/see) the film already?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answer": "had he forgotten",
+                    "answerList": [
+                        "had he forgotten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/forget) about the meeting?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had it been",
+                    "answerList": [
+                        "Had it been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(it/be) cold all week?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had I read",
+                    "answerList": [
+                        "Had I read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I/read) the book before the class?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrived"
+                },
+                {
+                    "type": "input",
+                    "answer": "had we eaten",
+                    "answerList": [
+                        "had we eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/eat) already?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answer": "had you been",
+                    "answerList": [
+                        "had you been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/be) when I saw you?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had they travelled",
+                    "answerList": [
+                        "Had they travelled",
+                        "Had they traveled"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/travel) by bullet train before?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had John met",
+                    "answerList": [
+                        "Had John met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(John/meet) Lucy before they worked together?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had you done",
+                    "answerList": [
+                        "Had you done"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) your homework before I saw you?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answer": "had she worked",
+                    "answerList": [
+                        "had she worked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/work)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had I paid",
+                    "answerList": [
+                        "Had I paid"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I/pay) the bill before we left?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had we visited",
+                    "answerList": [
+                        "Had we visited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/visit) my parents already that winter?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you called,"
+                },
+                {
+                    "type": "input",
+                    "answer": "had they eaten",
+                    "answerList": [
+                        "had they eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/eat) dinner?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How"
+                },
+                {
+                    "type": "input",
+                    "answer": "had he managed",
+                    "answerList": [
+                        "had he managed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/manage) to fix the cooker?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Had my sister been",
+                    "answerList": [
+                        "Had my sister been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my sister/be) sick for a long time?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much"
+                },
+                {
+                    "type": "input",
+                    "answer": "had she studied",
+                    "answerList": [
+                        "had she studied"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/study) before the exam?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "had you cooked",
+                    "answerList": [
+                        "had you cooked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/cook) for dinner that night?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When"
+                },
+                {
+                    "type": "input",
+                    "answer": "had they arrived",
+                    "answerList": [
+                        "had they arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/arrive)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How many coffees"
+                },
+                {
+                    "type": "input",
+                    "answer": "had she drunk",
+                    "answerList": [
+                        "had she drunk"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/drink) before the interview?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "title": "Future Continuous Negative",
+    "description": "Make the future continuous negative",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be reading",
+                    "answerList": [
+                        "won't be reading",
+                        "will not be reading"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/read)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, you"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be sleeping",
+                    "answerList": [
+                        "won't be sleeping",
+                        "will not be sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/sleep) will you?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be working",
+                    "answerList": [
+                        "won't be working",
+                        "will not be working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be watching",
+                    "answerList": [
+                        "won't be watching",
+                        "will not be watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/watch) a film."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be snowing",
+                    "answerList": [
+                        "won't be snowing",
+                        "will not be snowing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/snow)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, Ann and Tom"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be cooking",
+                    "answerList": [
+                        "won't be cooking",
+                        "will not be cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/cook)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be playing",
+                    "answerList": [
+                        "won't be playing",
+                        "will not be playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) computer games."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be studying",
+                    "answerList": [
+                        "won't be studying",
+                        "will not be studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, you"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be crying",
+                    "answerList": [
+                        "won't be crying",
+                        "will not be crying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/cry)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrives, David"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be using",
+                    "answerList": [
+                        "won't be using",
+                        "will not be using"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/use) the internet."
+                }
+            ]
+        }
+    ]
+}

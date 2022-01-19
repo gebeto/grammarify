@@ -1,0 +1,226 @@
+{
+    "title": "Either and Neither Exercise 2",
+    "description": "Choose 'either' or 'neither'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: I don\u2019t like pizza. B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither",
+                    "answerList": [
+                        "Neither"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "do I."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David doesn\u2019t live in London and I don\u2019t"
+                },
+                {
+                    "type": "input",
+                    "answer": "either",
+                    "answerList": [
+                        "either"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John doesn\u2019t want an ice cream and the children don\u2019t"
+                },
+                {
+                    "type": "input",
+                    "answer": "either",
+                    "answerList": [
+                        "either"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda isn\u2019t French and"
+                },
+                {
+                    "type": "input",
+                    "answer": "neither",
+                    "answerList": [
+                        "neither"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "is Lukas."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She doesn\u2019t have a job at the moment and"
+                },
+                {
+                    "type": "input",
+                    "answer": "neither",
+                    "answerList": [
+                        "neither"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "do I."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They haven\u2019t eaten breakfast and Jane hasn\u2019t"
+                },
+                {
+                    "type": "input",
+                    "answer": "either",
+                    "answerList": [
+                        "either"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She hasn\u2019t studied Latin and"
+                },
+                {
+                    "type": "input",
+                    "answer": "neither",
+                    "answerList": [
+                        "neither"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "have I."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You won\u2019t go to the party and"
+                },
+                {
+                    "type": "input",
+                    "answer": "neither",
+                    "answerList": [
+                        "neither"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "will Lucy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John isn\u2019t going to the meeting and I\u2019m not"
+                },
+                {
+                    "type": "input",
+                    "answer": "either",
+                    "answerList": [
+                        "either"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The weather isn\u2019t good in London and it isn\u2019t good in Scotland"
+                },
+                {
+                    "type": "input",
+                    "answer": "either",
+                    "answerList": [
+                        "either"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        }
+    ]
+}

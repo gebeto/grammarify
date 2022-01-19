@@ -1,0 +1,310 @@
+{
+    "title": "Relative Clauses 2",
+    "description": "Add the phrase in brackets to the sentence using a relative clause. Use 'that' or no pronoun:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought the computer (her brother had recommended the computer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She bought the computer her brother had recommended",
+                    "answerList": [
+                        "She bought the computer her brother had recommended",
+                        "She bought the computer that her brother had recommended"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He lost the money (I had given him the money)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He lost the money I had given him",
+                    "answerList": [
+                        "He lost the money I had given him",
+                        "He lost the money that I had given him"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called the taxi company (Julie often uses the taxi company)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We called the taxi company Julie often uses",
+                    "answerList": [
+                        "We called the taxi company Julie often uses",
+                        "We called the taxi company that Julie often uses"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John met a girl (I used to employ the girl)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John met a girl I used to employ",
+                    "answerList": [
+                        "John met a girl I used to employ",
+                        "John met a girl that I used to employ"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy called the doctor (my mother knows the doctor)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy called the doctor my mother knows",
+                    "answerList": [
+                        "Lucy called the doctor my mother knows",
+                        "Lucy called the doctor that my mother knows"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He brought a woman (I used to often meet the woman)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He brought a woman I used to often meet",
+                    "answerList": [
+                        "He brought a woman I used to often meet",
+                        "He brought a woman that I used to often meet"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We employed the lawyer (Julie recommended the lawyer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We employed the lawyer Julie recommended",
+                    "answerList": [
+                        "We employed the lawyer Julie recommended",
+                        "We employed the lawyer that Julie recommended"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The fruit is on the table (I bought the fruit)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The fruit I bought is on the table",
+                    "answerList": [
+                        "The fruit I bought is on the table",
+                        "The fruit that I bought is on the table"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The wallet belongs to John (Lucy found the wallet in the garden)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The wallet Lucy found in the garden belongs to John",
+                    "answerList": [
+                        "The wallet Lucy found in the garden belongs to John",
+                        "The wallet that Lucy found in the garden belongs to John"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food was delicious (David cooked the food)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The food David cooked was delicious",
+                    "answerList": [
+                        "The food David cooked was delicious",
+                        "The food that David cooked was delicious"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car was stolen (my father gave me the car)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The car my father gave me was stolen",
+                    "answerList": [
+                        "The car my father gave me was stolen",
+                        "The car that my father gave me was stolen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man was arrested (I reported the man to the police)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The man I reported to the police was arrested",
+                    "answerList": [
+                        "The man I reported to the police was arrested",
+                        "The man that I reported to the police was arrested"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The doctor was right (Lucy asked the doctor about her problem)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The doctor Lucy asked about her problem was right",
+                    "answerList": [
+                        "The doctor Lucy asked about her problem was right",
+                        "The doctor that Lucy asked about her problem was right"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The waitress was very pretty (my brother dated the waitress)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The waitress my brother dated was very pretty",
+                    "answerList": [
+                        "The waitress my brother dated was very pretty",
+                        "The waitress that my brother dated was very pretty"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The secretary is in the office (the boss likes the secretary)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The secretary the boss likes is in the office.",
+                    "answerList": [
+                        "The secretary the boss likes is in the office.",
+                        "The secretary that the boss likes is in the office."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We ate the fruit (I bought the fruit)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We ate the fruit I bought",
+                    "answerList": [
+                        "We ate the fruit I bought",
+                        "We ate the fruit that I bought"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,431 @@
+{
+    "title": "Future Perfect Mixed Exercise",
+    "description": "Make the future perfect",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have left",
+                    "answerList": [
+                        "will have left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) by six."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will you have finished",
+                    "answerList": [
+                        "Will you have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/finish) the report by the deadline?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When"
+                },
+                {
+                    "type": "input",
+                    "answer": "will we have done",
+                    "answerList": [
+                        "will we have done"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/do) everything?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have finished",
+                    "answerList": [
+                        "will have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) her exams by then, so we can go out for dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have read",
+                    "answerList": [
+                        "will have read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) the book before the next class."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have finished",
+                    "answerList": [
+                        "won't have finished",
+                        "will not have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/finish) work by seven."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you have completed",
+                    "answerList": [
+                        "will you have completed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/complete) the work?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have arrived",
+                    "answerList": [
+                        "will have arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) by dinner time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been",
+                    "answerList": [
+                        "will have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in London for three years next week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will she have got",
+                    "answerList": [
+                        "Will she have got"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/get) home by lunch time?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will you have done",
+                    "answerList": [
+                        "Will you have done"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) everything by seven?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have eaten",
+                    "answerList": [
+                        "won't have eaten",
+                        "will not have eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) before we come, so we'll be hungry."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will he have finished",
+                    "answerList": [
+                        "Will he have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/finish) his exams when we go on holiday?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will we have arrived",
+                    "answerList": [
+                        "Will we have arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/arrive) by the time it gets dark?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you have known",
+                    "answerList": [
+                        "will you have known"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/know) your boyfriend when you get married?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have completed",
+                    "answerList": [
+                        "won't have completed",
+                        "will not have completed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/complete) the project by July."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have finished",
+                    "answerList": [
+                        "won't have finished",
+                        "will not have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/finish) the essay by the weekend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answer": "will she have finished",
+                    "answerList": [
+                        "will she have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/finish) the cleaning by six?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you have been",
+                    "answerList": [
+                        "will you have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/be) in this company when you retire?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have gone",
+                    "answerList": [
+                        "won't have gone",
+                        "will not have gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) at six."
+                }
+            ]
+        }
+    ]
+}

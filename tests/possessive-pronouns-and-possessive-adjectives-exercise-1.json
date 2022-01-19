@@ -1,0 +1,446 @@
+{
+    "title": "Possessive adjectives and possessive pronouns exercise 1",
+    "description": "Choose the correct word.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is this cup"
+                },
+                {
+                    "type": "input",
+                    "answer": "yours",
+                    "answerList": [
+                        "yours"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(your / yours)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The coffee is"
+                },
+                {
+                    "type": "input",
+                    "answer": "mine",
+                    "answerList": [
+                        "mine"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my / mine)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That coat is"
+                },
+                {
+                    "type": "input",
+                    "answer": "mine",
+                    "answerList": [
+                        "mine"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my / mine)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He lives in"
+                },
+                {
+                    "type": "input",
+                    "answer": "her",
+                    "answerList": [
+                        "her"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(her / hers) house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You might want"
+                },
+                {
+                    "type": "input",
+                    "answer": "your",
+                    "answerList": [
+                        "your"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(your / yours) phone."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The new car is"
+                },
+                {
+                    "type": "input",
+                    "answer": "theirs",
+                    "answerList": [
+                        "theirs"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(their / theirs)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She cooked"
+                },
+                {
+                    "type": "input",
+                    "answer": "our",
+                    "answerList": [
+                        "our"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(our / ours) food."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Don't stand on"
+                },
+                {
+                    "type": "input",
+                    "answer": "my",
+                    "answerList": [
+                        "my"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my / mine) foot!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She gave him"
+                },
+                {
+                    "type": "input",
+                    "answer": "her",
+                    "answerList": [
+                        "her"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(her / hers) suitcase."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I met"
+                },
+                {
+                    "type": "input",
+                    "answer": "their",
+                    "answerList": [
+                        "their"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(their / theirs) mother."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is this"
+                },
+                {
+                    "type": "input",
+                    "answer": "their",
+                    "answerList": [
+                        "their"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(their / theirs) coffee?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is the flat"
+                },
+                {
+                    "type": "input",
+                    "answer": "hers",
+                    "answerList": [
+                        "hers"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(her / hers)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The grey scarf is"
+                },
+                {
+                    "type": "input",
+                    "answer": "mine",
+                    "answerList": [
+                        "mine"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my / mine)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That red bike is"
+                },
+                {
+                    "type": "input",
+                    "answer": "ours",
+                    "answerList": [
+                        "ours"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(our / ours)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We should take"
+                },
+                {
+                    "type": "input",
+                    "answer": "our",
+                    "answerList": [
+                        "our"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(our / ours) coats."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That is"
+                },
+                {
+                    "type": "input",
+                    "answer": "my",
+                    "answerList": [
+                        "my"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my / mine) car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He dropped"
+                },
+                {
+                    "type": "input",
+                    "answer": "my",
+                    "answerList": [
+                        "my"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(my / mine) bag."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are these phones"
+                },
+                {
+                    "type": "input",
+                    "answer": "theirs",
+                    "answerList": [
+                        "theirs"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(their / theirs)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "These cakes are"
+                },
+                {
+                    "type": "input",
+                    "answer": "ours",
+                    "answerList": [
+                        "ours"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(our / ours)!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are those children"
+                },
+                {
+                    "type": "input",
+                    "answer": "yours",
+                    "answerList": [
+                        "yours"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(your / yours)?"
+                }
+            ]
+        }
+    ]
+}

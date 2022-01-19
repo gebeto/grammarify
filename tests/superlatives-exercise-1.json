@@ -1,0 +1,226 @@
+{
+    "title": "Superlatives with 'the' 1",
+    "description": "Fill the gap with 'the' if it's necessary. If you can choose either, then use 'no article' (-).",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Everest is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "highest mountain in the world."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "oldest person in your family?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This dress was"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "cheapest."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which language do you think is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "easiest to learn."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This book is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "most serious one on the topic."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think that one over there is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "strongest horse."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This film is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "shortest."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "fastest runner in her school."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That suitcase is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "lightest."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Out of all the cities in Europe, London is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "biggest."
+                }
+            ]
+        }
+    ]
+}

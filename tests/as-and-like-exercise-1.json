@@ -1,0 +1,498 @@
+{
+    "title": "As and Like",
+    "description": "Choose 'as' or 'like'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She works"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a teacher (it's her job)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm very"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my mother.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie loves mangoes"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "much"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "I do."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He arrived"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "I was leaving."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He works in a bank,"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his father."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I used a tea towel"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an oven glove and I burned it!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Your perfume smells"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "flowers."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "As",
+                    "answerList": [
+                        "As"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it was cold, I took a scarf."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He works"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a hairdresser (it's his job)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That woman looks"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my grandmother."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please do it"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She hates chocolate"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "much"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "John."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Like",
+                    "answerList": [
+                        "Like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the other students, Paul failed the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "London is just"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "busy"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Tokyo."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She often plays sports,"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tennis or football."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda works"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a lawyer (it's her job)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This room is just"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "hot"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the other room."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You look"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your sister."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She studied really hard,"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We are"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "intelligent"
+                },
+                {
+                    "type": "input",
+                    "answer": "as",
+                    "answerList": [
+                        "as"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you."
+                }
+            ]
+        }
+    ]
+}

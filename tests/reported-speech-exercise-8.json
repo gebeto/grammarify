@@ -1,0 +1,367 @@
+{
+    "title": "Reported Statements 2 (Future Simple)",
+    "description": "Make reported statements. Start each sentence with 'she said' (don't use 'that'). It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll go to the cinema later.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she would go to the cinema later.",
+                    "answerList": [
+                        "She said she would go to the cinema later."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We'll meet the children at six.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they would meet the children at six.",
+                    "answerList": [
+                        "She said they would meet the children at six."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She'll be late.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she would be late.",
+                    "answerList": [
+                        "She said she would be late."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy will definitely come.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Lucy would definitely come.",
+                    "answerList": [
+                        "She said Lucy would definitely come."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I will stop smoking on Tuesday.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she would stop smoking on Tuesday.",
+                    "answerList": [
+                        "She said she would stop smoking on Tuesday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John won't do it.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said John wouldn't do it.",
+                    "answerList": [
+                        "She said John wouldn't do it."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They won't be able to arrive early.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they wouldn't be able to arrive early.",
+                    "answerList": [
+                        "She said they wouldn't be able to arrive early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I won't come with you.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she wouldn't come with me.",
+                    "answerList": [
+                        "She said she wouldn't come with me."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He won't remember to buy milk.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said he wouldn't remember to buy milk.",
+                    "answerList": [
+                        "She said he wouldn't remember to buy milk."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"It won't rain later I'm sure.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said it wouldn't rain later she was sure.",
+                    "answerList": [
+                        "She said it wouldn't rain later she was sure."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"The Conservatives will win the next election.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said the Conservatives would win the next election.",
+                    "answerList": [
+                        "She said the Conservatives would win the next election."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"The girl will never pass the exam.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said the girl would never pass the exam.",
+                    "answerList": [
+                        "She said the girl would never pass the exam."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John will arrive before David.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said John would arrive before David.",
+                    "answerList": [
+                        "She said John would arrive before David."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"It will be cold tonight.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said it would be cold tonight.",
+                    "answerList": [
+                        "She said it would be cold tonight."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jenny will cook dinner.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Jenny would cook dinner.",
+                    "answerList": [
+                        "She said Jenny would cook dinner."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We will get married next year.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they would get married next year.",
+                    "answerList": [
+                        "She said they would get married next year.",
+                        "She said they would get married the following year."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I won't be able to afford a new car.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she wouldn't be able to afford a new car.",
+                    "answerList": [
+                        "She said she wouldn't be able to afford a new car."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She won't want to attend the meeting.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she wouldn't want to attend the meeting.",
+                    "answerList": [
+                        "She said she wouldn't want to attend the meeting."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Richard won't drink coffee.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Richard wouldn't drink coffee.",
+                    "answerList": [
+                        "She said Richard wouldn't drink coffee."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I won't vote at the next election.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she wouldn't vote at the next election.",
+                    "answerList": [
+                        "She said she wouldn't vote at the next election."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

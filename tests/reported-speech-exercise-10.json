@@ -1,0 +1,386 @@
+{
+    "title": "Reported Statements 4 (Present Continuous)",
+    "description": "Make the direct speech into reported speech. Use 'he told me' at the beginning of your answer. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We're working.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they were working.",
+                    "answerList": [
+                        "He told me they were working.",
+                        "He told me that they were working."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's coming to the party.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me she was coming to the party.",
+                    "answerList": [
+                        "He told me she was coming to the party.",
+                        "He told me that he was coming to the party."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's talking on the telephone.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me she was talking on the telephone.",
+                    "answerList": [
+                        "He told me she was talking on the telephone.",
+                        "He told me that she was talking on the telephone."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy is reading a book in front of the fire.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me Lucy was reading a book in front of the fire.",
+                    "answerList": [
+                        "He told me Lucy was reading a book in front of the fire.",
+                        "He told me that Lucy was reading a book in front of the fire."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm not going out.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he wasn't going out.",
+                    "answerList": [
+                        "He told me he wasn't going out.",
+                        "He told me that he wasn't going out."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We are not visiting Paris during our trip.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they weren't visiting Paris during their trip.",
+                    "answerList": [
+                        "He told me they weren't visiting Paris during their trip.",
+                        "He told me that they weren't visiting Paris during their trip."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm listening to my new CD.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he was listening to his new CD.",
+                    "answerList": [
+                        "He told me he was listening to his new CD.",
+                        "He told me that he was listening to his new CD."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John is working in a bar for the summer.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me John was working in a bar for the summer.",
+                    "answerList": [
+                        "He told me John was working in a bar for the summer.",
+                        "He told me that John was working in a bar for the summer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm not going to go on holiday.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he wasn't going to go on holiday.",
+                    "answerList": [
+                        "He told me he wasn't going to go on holiday.",
+                        "He told me that he wasn't going to go on holiday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He isn't living in Beijing.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he wasn't living in Beijing.",
+                    "answerList": [
+                        "He told me he wasn't living in Beijing.",
+                        "He told me that he wasn't living in Beijing."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm taking the train to Berlin.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he was taking the train to Berlin.",
+                    "answerList": [
+                        "He told me he was taking the train to Berlin.",
+                        "He told me that he was taking the train to Berlin."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She is never coming back.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me she was never coming back.",
+                    "answerList": [
+                        "He told me she was never coming back.",
+                        "He told me that she was never coming back."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jill is studying a lot.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me Jill was studying a lot.",
+                    "answerList": [
+                        "He told me Jill was studying a lot.",
+                        "He told me that Jill was studying a lot."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm not meeting Julie.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he wasn't meeting Julie.",
+                    "answerList": [
+                        "He told me he wasn't meeting Julie.",
+                        "He told me that he wasn't meeting Julie."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We aren't renting a flat.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they weren't renting a flat.",
+                    "answerList": [
+                        "He told me they weren't renting a flat.",
+                        "He told me that they weren't renting a flat."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They are visiting the museum.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they were visiting the museum.",
+                    "answerList": [
+                        "He told me they were visiting the museum.",
+                        "He told me that they were were visiting the museum."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's eating dinner.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me she was eating dinner.",
+                    "answerList": [
+                        "He told me she was eating dinner.",
+                        "He told me that she was eating dinner."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We aren't going to the library.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they weren't going to the library.",
+                    "answerList": [
+                        "He told me they weren't going to the library.",
+                        "He told me that they weren't going to the library."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm coming.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he was coming.",
+                    "answerList": [
+                        "He told me he was coming.",
+                        "He told me that he was coming."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm sleeping.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he was sleeping.",
+                    "answerList": [
+                        "He told me he was sleeping.",
+                        "He told me that he was sleeping."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

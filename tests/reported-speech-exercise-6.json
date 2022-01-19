@@ -1,0 +1,366 @@
+{
+    "title": "Reported Speech Questions 2 (Wh questions)",
+    "description": "Make reported questions. Start your answer with 'she asked me'. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Why is Julie sad?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me why Julie was sad.",
+                    "answerList": [
+                        "She asked me why Julie was sad."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What's for dinner?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what was for dinner.",
+                    "answerList": [
+                        "She asked me what was for dinner."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who is the woman in the red dress?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me who the woman in the red dress was.",
+                    "answerList": [
+                        "She asked me who the woman in the red dress was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How is your grandmother?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how my grandmother was.",
+                    "answerList": [
+                        "She asked me how my grandmother was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"When is the party?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me when the party was.",
+                    "answerList": [
+                        "She asked me when the party was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How much is the rent on your flat?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how much the rent on my flat was.",
+                    "answerList": [
+                        "She asked me how much the rent on my flat was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where are the glasses?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where the glasses were.",
+                    "answerList": [
+                        "She asked me where the glasses were."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How is the weather in Chicago?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how the weather in Chicago was.",
+                    "answerList": [
+                        "She asked me how the weather in Chicago was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who is the Prime Minister of Canada?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me who the Prime Minister of Canada was.",
+                    "answerList": [
+                        "She asked me who the Prime Minister of Canada was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do you usually go swimming?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where I usually went swimming.",
+                    "answerList": [
+                        "She asked me where I usually went swimming."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What does Luke do at the weekend?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what Luke did at the weekend.",
+                    "answerList": [
+                        "She asked me what Luke did at the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do your parents live?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where my parents lived.",
+                    "answerList": [
+                        "She asked me where my parents lived."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who do you go running with?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me who I went running with.",
+                    "answerList": [
+                        "She asked me who I went running with."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"When does Lucy get up?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me when Lucy got up.",
+                    "answerList": [
+                        "She asked me when Lucy got up."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How much TV do you watch?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how much TV I watched.",
+                    "answerList": [
+                        "She asked me how much TV I watched."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How many books do they own?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how many books they owned.",
+                    "answerList": [
+                        "She asked me how many books they owned."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where does John work?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where John worked.",
+                    "answerList": [
+                        "She asked me where John worked."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What do the children study on Fridays?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what the children studied on Fridays.",
+                    "answerList": [
+                        "She asked me what the children studied on Fridays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Why do you study English?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me why I studied English.",
+                    "answerList": [
+                        "She asked me why I studied English."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where is the post office?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where the post office was.",
+                    "answerList": [
+                        "She asked me where the post office was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

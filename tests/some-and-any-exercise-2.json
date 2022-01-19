@@ -1,0 +1,443 @@
+{
+    "title": "Some and Any Exercise 2",
+    "description": "Choose 'some' or 'any':",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have we got"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "bread? (A real question, I have no idea.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Any",
+                    "answerList": [
+                        "Any",
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "student will tell you that they don't have enough money. (It doesn't matter which student.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We've got"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "furniture, but we still need a table."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "new clothes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You can buy beer in"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "pub. (It doesn't matter which pub.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can I have"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "more juice? (I expect you will say 'yes'.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you buy"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "juice? (I have no idea, this is a real question.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can speak"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "French."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would you like"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tea? (An offer - I think you will say 'yes'.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In London in the winter there's hardly"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sunlight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Go into"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "shop on the high street and ask. (It doesn't matter which shop.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would you like"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "more meat? (An offer - I think you will say 'yes'.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "money in my handbag."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you buy"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "chicken? (I expect you will say 'yes', because we talked about it before.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't have"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sunblock with me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She never drinks"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "water."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you have"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sugar? (I expect you will say 'yes', because usually you have sugar.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's hard in a new city without"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "friends."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I didn't find"
+                },
+                {
+                    "type": "input",
+                    "answer": "any",
+                    "answerList": [
+                        "any"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "problems."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you give me"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "paper? (A request - I expect you will say 'yes'.)"
+                }
+            ]
+        }
+    ]
+}

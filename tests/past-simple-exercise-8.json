@@ -1,0 +1,435 @@
+{
+    "title": "Past Simple - Mixed Exercise 2",
+    "description": "Make the past simple, positive, negative or question",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't drink",
+                    "answerList": [
+                        "didn't drink",
+                        "did not drink"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) any beer last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "got on",
+                    "answerList": [
+                        "got on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get on) the bus in the centre of the city."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time"
+                },
+                {
+                    "type": "input",
+                    "answer": "did he get up",
+                    "answerList": [
+                        "did he get up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/get up) yesterday?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you get off",
+                    "answerList": [
+                        "did you get off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/get off) the train?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't change",
+                    "answerList": [
+                        "didn't change",
+                        "did not change"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/change) trains at Victoria."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "woke up",
+                    "answerList": [
+                        "woke up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wake up) very late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "did he give",
+                    "answerList": [
+                        "did he give"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/give) his mother for Christmas?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "received",
+                    "answerList": [
+                        "received"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(receive) \u00a3300 when my uncle died."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't use",
+                    "answerList": [
+                        "didn't use",
+                        "did not use"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/use) the computer last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did she make",
+                    "answerList": [
+                        "Did she make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/make) good coffee?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Paris."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "read",
+                    "answerList": [
+                        "read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) the newspaper yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't watch",
+                    "answerList": [
+                        "didn't watch",
+                        "did not watch"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/watch) TV."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't study",
+                    "answerList": [
+                        "didn't study",
+                        "did not study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study) for the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did he call",
+                    "answerList": [
+                        "Did he call"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/call) you?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did I forget",
+                    "answerList": [
+                        "Did I forget"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I/forget) something?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time"
+                },
+                {
+                    "type": "input",
+                    "answer": "did the film start",
+                    "answerList": [
+                        "did the film start"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the film/start)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a shower."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you come",
+                    "answerList": [
+                        "did you come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/come)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did he go",
+                    "answerList": [
+                        "Did he go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/go) to the party?"
+                }
+            ]
+        }
+    ]
+}

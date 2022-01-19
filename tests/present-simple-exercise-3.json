@@ -1,0 +1,386 @@
+{
+    "title": "Present Simple Negative Other Verbs Exercise 1",
+    "description": "Make negative present simple sentences",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / like coffee)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't like coffee.",
+                    "answerList": [
+                        "I don't like coffee.",
+                        "I do not like coffee."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / live in Paris)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't live in Paris.",
+                    "answerList": [
+                        "I don't live in Paris.",
+                        "I do not live in Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / come from Spain)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't come from Spain.",
+                    "answerList": [
+                        "She doesn't come from Spain.",
+                        "She does not come from Spain."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / not / work in a bank)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John doesn't work in a bank.",
+                    "answerList": [
+                        "John doesn't work in a bank.",
+                        "John does not work in a bank."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / get up at eight o'clock)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't get up at eight o'clock.",
+                    "answerList": [
+                        "They don't get up at eight o'clock.",
+                        "They do not  get up at eight o'clock."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go to the cinema every Friday)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't go to the cinema every Friday.",
+                    "answerList": [
+                        "We don't go to the cinema every Friday.",
+                        "We do not go to the cinema every Friday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / read the newspaper every day)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't read the newspaper every day.",
+                    "answerList": [
+                        "You don't read the newspaper every day.",
+                        "You do not read the newspaper every day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / go to school in France)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't go to school in France.",
+                    "answerList": [
+                        "He doesn't go to school in France.",
+                        "He does not go to school in France."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / watch TV in the evening)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't watch TV in the evening.",
+                    "answerList": [
+                        "We don't watch TV in the evening.",
+                        "We do not watch TV in the evening."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / have a shower in the morning)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't have a shower in the morning.",
+                    "answerList": [
+                        "I don't have a shower in the morning.",
+                        "I do not have a shower in the morning."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / drink tea every afternoon)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't drink tea every afternoon.",
+                    "answerList": [
+                        "She doesn't drink tea every afternoon.",
+                        "She does not drink tea every afternoon."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / visit their parents at the weekend)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't visit their parents at the weekend.",
+                    "answerList": [
+                        "They don't visit their parents at the weekend.",
+                        "They do not visit their parents at the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / study English very often)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't study English very often.",
+                    "answerList": [
+                        "You don't study English very often.",
+                        "You do not study English very often."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / not / rain here in the summer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "It doesn't rain here in the summer.",
+                    "answerList": [
+                        "It doesn't rain here in the summer.",
+                        "It does not rain here in the summer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go out on Tuesday nights)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't go out on Tuesday nights.",
+                    "answerList": [
+                        "We don't go out on Tuesday nights.",
+                        "We do not go out on Tuesday nights."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / like cabbage)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't like cabbage.",
+                    "answerList": [
+                        "He doesn't like cabbage.",
+                        "He does not like cabbage."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the sun / not / go round the earth)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The sun doesn't go round the earth.",
+                    "answerList": [
+                        "The sun doesn't go round the earth.",
+                        "The sun does not go round the earth."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / play the piano)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't play the piano.",
+                    "answerList": [
+                        "She doesn't play the piano.",
+                        "She does not play the piano."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / smoke)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't smoke.",
+                    "answerList": [
+                        "I don't smoke.",
+                        "I do not smoke."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie and Lucy / not / play football)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Julie and Lucy don't play football.",
+                    "answerList": [
+                        "Julie and Lucy don't play football.",
+                        "Julie and Lucy do not play football."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

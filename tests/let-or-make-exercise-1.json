@@ -1,0 +1,446 @@
+{
+    "title": "Let or Make 1",
+    "description": "Put in 'let' or 'make' in the correct form.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John's mother used to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "him clean up his room."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher doesn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "let",
+                    "answerList": [
+                        "let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her students use their mobile phones in class."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie's father doesn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "let",
+                    "answerList": [
+                        "let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her use his car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The professor often"
+                },
+                {
+                    "type": "input",
+                    "answer": "makes",
+                    "answerList": [
+                        "makes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the students do a lot of homework."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The policeman"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the teenagers pick up the litter they had dropped."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My mother never"
+                },
+                {
+                    "type": "input",
+                    "answer": "let",
+                    "answerList": [
+                        "let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me stay out late when I was young."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The guard"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her get off the train because she didn't have a ticket."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy might"
+                },
+                {
+                    "type": "input",
+                    "answer": "let",
+                    "answerList": [
+                        "let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you borrow her laptop if you ask her nicely."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The comedian really"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us laugh last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When people are late, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "makes",
+                    "answerList": [
+                        "makes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me really annoyed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Doing a lot of exercise"
+                },
+                {
+                    "type": "input",
+                    "answer": "lets",
+                    "answerList": [
+                        "lets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me eat as many cakes as I like!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss often"
+                },
+                {
+                    "type": "input",
+                    "answer": "makes",
+                    "answerList": [
+                        "makes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us work late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Joan's new job has"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her very happy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This card"
+                },
+                {
+                    "type": "input",
+                    "answer": "lets",
+                    "answerList": [
+                        "lets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you travel on any bus in the city."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My current job"
+                },
+                {
+                    "type": "input",
+                    "answer": "lets",
+                    "answerList": [
+                        "lets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me work wherever I want."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Your photos"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me want to visit Columbia - it looks very beautiful."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Speaking English"
+                },
+                {
+                    "type": "input",
+                    "answer": "lets",
+                    "answerList": [
+                        "lets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you communicate with lots of different people."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Robert doesn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "let",
+                    "answerList": [
+                        "let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his children watch TV."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That film"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me cry - it was so sad."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The professor"
+                },
+                {
+                    "type": "input",
+                    "answer": "let",
+                    "answerList": [
+                        "let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us hand in our essays a day late last term."
+                }
+            ]
+        }
+    ]
+}

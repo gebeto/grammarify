@@ -1,0 +1,446 @@
+{
+    "title": "Make or Do 4",
+    "description": "Put in the correct form of 'make' or 'do':",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much money does a waitress"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the laundry today? We have no clean clothes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She spent the evening watching black and white films and"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her nails."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did their new business"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a profit last year?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "some very positive comments about Susie's work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's so much paperwork to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "! I'll be here all night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The CEO of the company"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "some interesting observations during his visit to our department."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd like to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Julie an offer of a job. It would be full time in our office."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There was a man sitting on the pier earlier. He was"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a painting of the boats."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This lecture is so boring! Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an escape during the break and go to the cafe."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "William"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an excuse to the teacher about why he was late, but she didn't believe him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Stop talking and"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "some work!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Alison can't come tonight. She's already"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "plans."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm going to work all weekend. I really want to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "some progress on this project."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you please"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sure that the money has gone into the correct bank account?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It takes Lizzie an hour a day to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the washing up. She would love to have a dishwasher."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I offered the job to Ian, and said he had until Monday to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his mind up."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In the morning she gets up, has a shower and gets dressed, then"
+                },
+                {
+                    "type": "input",
+                    "answer": "makes",
+                    "answerList": [
+                        "makes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the bed. After that she goes downstairs and has breakfast."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John and Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "their way through the crowded streets to their hotel."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Graham"
+                },
+                {
+                    "type": "input",
+                    "answer": "did",
+                    "answerList": [
+                        "did"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "really well in the tennis competition. He came second out of over a hundred people."
+                }
+            ]
+        }
+    ]
+}

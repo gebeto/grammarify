@@ -1,0 +1,386 @@
+{
+    "title": "Present Perfect - Positive 1",
+    "description": "Make the positive present perfect",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / study / French)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I've studied French.",
+                    "answerList": [
+                        "I've studied French.",
+                        "I have studied French."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / eat / octopus)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's eaten octopus.",
+                    "answerList": [
+                        "She's eaten octopus.",
+                        "She has eaten octopus."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / go / to Scotland)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They've gone to Scotland.",
+                    "answerList": [
+                        "They've gone to Scotland.",
+                        "They have gone to Scotland."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / read / that book)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We've read that book.",
+                    "answerList": [
+                        "We've read that book.",
+                        "We have read that book."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(He / live / here for three years)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's lived here for three years.",
+                    "answerList": [
+                        "He's lived here for three years.",
+                        "He has lived here for three years."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(You / know / David for ten years)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You've known David for ten years.",
+                    "answerList": [
+                        "You've known David for ten years.",
+                        "You have known David for ten years."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / be / here for two weeks)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We've been here for two weeks.",
+                    "answerList": [
+                        "We've been here for two weeks.",
+                        "We have been here for two weeks."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / lose / my keys)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I've lost my keys.",
+                    "answerList": [
+                        "I've lost my keys.",
+                        "I have lost my keys."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(He / drink / too much coffee)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's drunk too much coffee.",
+                    "answerList": [
+                        "He's drunk too much coffee.",
+                        "He has drunk too much coffee."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / miss / the train)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They've missed the train.",
+                    "answerList": [
+                        "They've missed the train.",
+                        "They have missed the train."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / go / to Peru)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's gone to Peru.",
+                    "answerList": [
+                        "She's gone to Peru.",
+                        "She has gone to Peru."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / eat / too much chocolate)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We've eaten too much chocolate.",
+                    "answerList": [
+                        "We've eaten too much chocolate.",
+                        "We have eaten too much chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / have / breakfast this morning)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I've had breakfast this morning.",
+                    "answerList": [
+                        "I've had breakfast this morning.",
+                        "I have had breakfast this morning."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / miss / the train)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John's missed the train.",
+                    "answerList": [
+                        "John's missed the train.",
+                        "John has missed the train."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / cook / breakfast)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy's cooked breakfast.",
+                    "answerList": [
+                        "Lucy's cooked breakfast.",
+                        "Lucy has cooked breakfast."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / write / to the politician)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They've written to the politician.",
+                    "answerList": [
+                        "They've written to the politician.",
+                        "They have written to the politician."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(You / find / your wallet)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You've found your wallet.",
+                    "answerList": [
+                        "You've found your wallet.",
+                        "You have found your wallet."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / meet / his mother)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I've met his mother.",
+                    "answerList": [
+                        "I've met his mother.",
+                        "I have met his mother."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / try / roller-skating)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We've tried roller-skating.",
+                    "answerList": [
+                        "We've tried roller-skating.",
+                        "We have tried roller-skating."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / pass / the exam)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's passed the exam.",
+                    "answerList": [
+                        "She's passed the exam.",
+                        "She has passed the exam."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

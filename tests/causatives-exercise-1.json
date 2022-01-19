@@ -1,0 +1,366 @@
+{
+    "title": "Causatives 1",
+    "description": "Change the sentences so they use the structure 'have something done' or 'get something done'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I washed my car. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had my car washed.",
+                    "answerList": [
+                        "I had my car washed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I cut my hair. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my hair cut.",
+                    "answerList": [
+                        "I got my hair cut."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I typed the documents. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the documents typed.",
+                    "answerList": [
+                        "I had the documents typed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I fixed the washing machine. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the washing machine fixed.",
+                    "answerList": [
+                        "I got the washing machine fixed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I cut the grass. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the grass cut.",
+                    "answerList": [
+                        "I had the grass cut."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I painted my bedroom. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my bedroom painted.",
+                    "answerList": [
+                        "I got my bedroom painted."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I repaired my fridge. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had my fridge repaired.",
+                    "answerList": [
+                        "I had my fridge repaired."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I tidied my garden. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my garden tidied.",
+                    "answerList": [
+                        "I got my garden tidied."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I edited the article. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the article edited.",
+                    "answerList": [
+                        "I had the article edited."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I cleaned the carpets. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the carpets cleaned.",
+                    "answerList": [
+                        "I got the carpets cleaned."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I cleaned the windows. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the windows cleaned.",
+                    "answerList": [
+                        "I had the windows cleaned."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I checked my teeth. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my teeth checked.",
+                    "answerList": [
+                        "I got my teeth checked."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I printed the photo. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the photo printed.",
+                    "answerList": [
+                        "I had the photo printed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I made the necklace. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the necklace made.",
+                    "answerList": [
+                        "I got the necklace made."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I delivered the furniture. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the furniture delivered.",
+                    "answerList": [
+                        "I had the furniture delivered."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wrote the report. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the report written.",
+                    "answerList": [
+                        "I had the report written."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I repaired the roof. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the roof repaired.",
+                    "answerList": [
+                        "I got the roof repaired."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I built the shed. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the shed built.",
+                    "answerList": [
+                        "I got the shed built."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I dyed my hair. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my hair dyed.",
+                    "answerList": [
+                        "I got my hair dyed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent the money. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the money sent.",
+                    "answerList": [
+                        "I had the money sent."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

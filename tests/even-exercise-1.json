@@ -1,0 +1,366 @@
+{
+    "title": "Even",
+    "description": "Change the sentences so that they include 'even'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He hates dogs. Despite what I just said, he has two!"
+                },
+                {
+                    "type": "input",
+                    "answer": "He hates dogs. Even so, he has two!",
+                    "answerList": [
+                        "He hates dogs. Even so, he has two!"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If surprisingly Lucy came to the party, John still wouldn\u2019t be happy."
+                },
+                {
+                    "type": "input",
+                    "answer": "Even if Lucy came to the party, John still wouldn\u2019t be happy.",
+                    "answerList": [
+                        "Even if Lucy came to the party, John still wouldn\u2019t be happy."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He doesn't drink tea, despite the fact that he is English."
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't drink tea, even though he is English.",
+                    "answerList": [
+                        "He doesn't drink tea, even though he is English."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If surprisingly Kate fails the exam, she will still go to university."
+                },
+                {
+                    "type": "input",
+                    "answer": "Even if Kate fails the exam, she will still go to university.",
+                    "answerList": [
+                        "Even if Kate fails the exam, she will still go to university."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "New York City is surprisingly bigger than London."
+                },
+                {
+                    "type": "input",
+                    "answer": "New York City is even bigger than London.",
+                    "answerList": [
+                        "New York City is even bigger than London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She eats very healthily. Despite what I just said, she still gets ill a lot."
+                },
+                {
+                    "type": "input",
+                    "answer": "She eats very healthily. Even so, she still gets ill a lot.",
+                    "answerList": [
+                        "She eats very healthily. Even so, she still gets ill a lot."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He wasn\u2019t wearing a coat, despite the fact that it was really cold."
+                },
+                {
+                    "type": "input",
+                    "answer": "He wasn\u2019t wearing a coat, even though it was really cold.",
+                    "answerList": [
+                        "He wasn\u2019t wearing a coat, even though it was really cold."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "James is surprisingly taller than his brother."
+                },
+                {
+                    "type": "input",
+                    "answer": "James is even taller than his brother.",
+                    "answerList": [
+                        "James is even taller than his brother."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They missed the train despite the fact that they left very early."
+                },
+                {
+                    "type": "input",
+                    "answer": "They missed the train even though they left very early.",
+                    "answerList": [
+                        "They missed the train even though they left very early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If surprisingly I had plenty of money, I wouldn\u2019t buy a Porsche."
+                },
+                {
+                    "type": "input",
+                    "answer": "Even if I had plenty of money, I wouldn\u2019t buy a Porsche.",
+                    "answerList": [
+                        "Even if I had plenty of money, I wouldn\u2019t buy a Porsche."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If surprisingly the weather was horrible, we would still go to the park."
+                },
+                {
+                    "type": "input",
+                    "answer": "Even if the weather was horrible, we would still go to the park.",
+                    "answerList": [
+                        "Even if the weather was horrible, we would still go to the park."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has a good job. Despite what I just said, he can't afford to live in Tokyo."
+                },
+                {
+                    "type": "input",
+                    "answer": "He has a good job. Even so, he can't afford to live in Tokyo.",
+                    "answerList": [
+                        "He has a good job. Even so, he can't afford to live in Tokyo."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David is surprisingly older than me."
+                },
+                {
+                    "type": "input",
+                    "answer": "David is even older than me.",
+                    "answerList": [
+                        "David is even older than me."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She didn't have lunch despite the fact that she was hungry."
+                },
+                {
+                    "type": "input",
+                    "answer": "She didn't have lunch even though she was hungry.",
+                    "answerList": [
+                        "She didn't have lunch even though she was hungry."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy wouldn't take that job surprisingly if it paid really well."
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy wouldn't take that job even if it paid really well.",
+                    "answerList": [
+                        "Lucy wouldn't take that job even if it paid really well."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I love London. Despite what I just said, I would consider moving to another city."
+                },
+                {
+                    "type": "input",
+                    "answer": "I love London. Even so, I would consider moving to another city.",
+                    "answerList": [
+                        "I love London. Even so, I would consider moving to another city."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He doesn\u2019t study much, despite the fact that the exam is very soon."
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn\u2019t study much, even though the exam is very soon.",
+                    "answerList": [
+                        "He doesn\u2019t study much, even though the exam is very soon."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She doesn\u2019t eat sugar, despite the fact that she loves sweets."
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn\u2019t eat sugar, even though she loves sweets.",
+                    "answerList": [
+                        "She doesn\u2019t eat sugar, even though she loves sweets."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Scotland is surprisingly darker than England in the winter."
+                },
+                {
+                    "type": "input",
+                    "answer": "Scotland is even darker than England in the winter.",
+                    "answerList": [
+                        "Scotland is even darker than England in the winter."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He wouldn\u2019t be happy if surprisingly he had everything he wanted."
+                },
+                {
+                    "type": "input",
+                    "answer": "He wouldn\u2019t be happy even if he had everything he wanted.",
+                    "answerList": [
+                        "He wouldn\u2019t be happy even if he had everything he wanted."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

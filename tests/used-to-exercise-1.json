@@ -1,0 +1,186 @@
+{
+    "title": "Used to Exercise 1",
+    "description": "Make an affirmative sentence, negative sentence or question using 'used to + infinitive':",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / live in a flat when I was a child."
+                },
+                {
+                    "type": "input",
+                    "answer": "I used to live in a flat when I was a child",
+                    "answerList": [
+                        "I used to live in a flat when I was a child"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / go to the beach every summer?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Did we use to go to the beach every summer",
+                    "answerList": [
+                        "Did we use to go to the beach every summer"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / love eating chocolate, but now she hates it"
+                },
+                {
+                    "type": "input",
+                    "answer": "She used to love eating chocolate, but now she hates it",
+                    "answerList": [
+                        "She used to love eating chocolate but now she hates it"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / not / smoke"
+                },
+                {
+                    "type": "input",
+                    "answer": "He didn't use to smoke",
+                    "answerList": [
+                        "He didn't use to smoke"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / play tennis when I was at school"
+                },
+                {
+                    "type": "input",
+                    "answer": "I used to play tennis when I was at school",
+                    "answerList": [
+                        "I used to play tennis when I was at school"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / be able to speak French, but she has forgotten it all"
+                },
+                {
+                    "type": "input",
+                    "answer": "She used to be able to speak French, but she has forgotten it all",
+                    "answerList": [
+                        "She used to be able to speak French, but she has forgotten it all"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / play golf every weekend?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Did he use to play golf every weekend",
+                    "answerList": [
+                        "Did he use to play golf every weekend"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They both / have short hair"
+                },
+                {
+                    "type": "input",
+                    "answer": "They both used to have short hair",
+                    "answerList": [
+                        "They both used to have short hair"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie / study Portuguese"
+                },
+                {
+                    "type": "input",
+                    "answer": "Julie used to study Portuguese",
+                    "answerList": [
+                        "Julie used to study Portuguese"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / not / hate school"
+                },
+                {
+                    "type": "input",
+                    "answer": "I didn't use to hate school",
+                    "answerList": [
+                        "I didn't use to hate school"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

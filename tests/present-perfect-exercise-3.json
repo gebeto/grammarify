@@ -1,0 +1,366 @@
+{
+    "title": "Present Perfect - Questions 1",
+    "description": "Make present perfect 'yes / no' or 'wh' questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(You / read / War and Peace)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have you read War and Peace?",
+                    "answerList": [
+                        "Have you read War and Peace?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / be / late for a meeting)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has she been late for a meeting?",
+                    "answerList": [
+                        "Has she been late for a meeting?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(He / meet / your family yet)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has he met your family yet?",
+                    "answerList": [
+                        "Has he met your family yet?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / live / here as long as we have)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have they lived here as long as we have?",
+                    "answerList": [
+                        "Have they lived here as long as we have?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(You / go / to Australia)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have you gone to Australia?",
+                    "answerList": [
+                        "Have you gone to Australia?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / miss / the bus)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has she missed the bus?",
+                    "answerList": [
+                        "Has she missed the bus?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / meet / you before)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have I met you before?",
+                    "answerList": [
+                        "Have I met you before?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / take / the exam)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have they taken the exam?",
+                    "answerList": [
+                        "Have they taken the exam?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / work / in this company for fifteen years)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has she worked in this company for fifteen years?",
+                    "answerList": [
+                        "Has she worked in this company for fifteen years?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How long / she / live in London)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long has she lived in London?",
+                    "answerList": [
+                        "How long has she lived in London?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Where / you / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where have you been?",
+                    "answerList": [
+                        "Where have you been?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How much coffee / you / drink today)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How much coffee have you drunk today?",
+                    "answerList": [
+                        "How much coffee have you drunk today?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(What / you / do today)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What have you done today?",
+                    "answerList": [
+                        "What have you done today?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How long / he / work here)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long has he worked here?",
+                    "answerList": [
+                        "How long has he worked here?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Why / you / bring that)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why have you brought that?",
+                    "answerList": [
+                        "Why have you brought that?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How many times / you / visit Scotland)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How many times have you visited Scotland?",
+                    "answerList": [
+                        "How many times have you visited Scotland?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How many books / you / read this week)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How many books have you read this week?",
+                    "answerList": [
+                        "How many books have you read this week?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How long / you study English)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long have you studied English?",
+                    "answerList": [
+                        "How long have you studied English?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(How much food / you / buy)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How much food have you bought?",
+                    "answerList": [
+                        "How much food have you bought?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / go / to the USA)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have they gone to the USA?",
+                    "answerList": [
+                        "Have they gone to the USA?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

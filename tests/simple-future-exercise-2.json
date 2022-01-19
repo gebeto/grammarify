@@ -1,0 +1,236 @@
+{
+    "title": "Future Simple Negative",
+    "description": "Make the future simple",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm afraid I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't",
+                    "answerList": [
+                        "won't",
+                        "will not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) able to come tomorrow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Because of the train strike, the meeting"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't take",
+                    "answerList": [
+                        "won't take",
+                        "will not take"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/take) place at 9 o'clock.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Go and tidy your room! B: I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't do",
+                    "answerList": [
+                        "won't do",
+                        "will not do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/do) it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If it rains, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't go",
+                    "answerList": [
+                        "won't go",
+                        "will not go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the beach."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In my opinion, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't pass",
+                    "answerList": [
+                        "won't pass",
+                        "will not pass"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/pass) the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: I'm driving to the party, would you like a lift?B: Okay, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't take",
+                    "answerList": [
+                        "won't take",
+                        "will not take"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/take) the bus, I'll come with you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't buy",
+                    "answerList": [
+                        "won't buy",
+                        "will not buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/buy) the car if he can't afford it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've tried everything but he"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't eat",
+                    "answerList": [
+                        "won't eat",
+                        "will not eat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "According to the weather forecast, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't snow",
+                    "answerList": [
+                        "won't snow",
+                        "will not snow"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/snow) tomorrow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: I'm really hungryB: In that case we"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't wait",
+                    "answerList": [
+                        "won't wait",
+                        "will not wait"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/wait) for John."
+                }
+            ]
+        }
+    ]
+}

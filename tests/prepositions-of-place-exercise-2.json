@@ -1,0 +1,447 @@
+{
+    "title": "Prepositions of Place 2",
+    "description": "Put in the correct preposition",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The wine is"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the bottle."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Pass me the dictionary, it's"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the bookshelf."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jennifer is"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Berlin is"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Germany."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You have something"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your face."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Turn left"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the traffic lights."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She was listening to classical music"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the radio."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has a house"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on",
+                        "by"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the river."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The answer is"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the bottom of the page."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie will be"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the plane now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are a lot of magnets"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the fridge."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She lives"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "London."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John is"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a taxi. He's coming."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'll meet you"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the airport."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She stood"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the window and looked out."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cat is"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the house somewhere."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why are you calling so late? I'm already"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "bed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I waited for Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the station."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There was a picture of a flower"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her T-shirt."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has a house"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Japan."
+                }
+            ]
+        }
+    ]
+}

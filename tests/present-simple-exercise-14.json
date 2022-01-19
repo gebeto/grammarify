@@ -1,0 +1,383 @@
+{
+    "title": "Present Simple 'Be' Mixed Exercise 1",
+    "description": "Make the present simple (it could be positive, negative or question form)",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / French)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's French.",
+                    "answerList": [
+                        "He's French.",
+                        "He is French."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / cold)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We aren't cold.",
+                    "answerList": [
+                        "We aren't cold.",
+                        "We are not cold."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / a footballer)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is he a footballer?",
+                    "answerList": [
+                        "Is he a footballer?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / John)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where's John?",
+                    "answerList": [
+                        "Where's John?",
+                        "Where is John?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / German)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're German.",
+                    "answerList": [
+                        "We're German.",
+                        "We are German."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / a journalist)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He isn't a journalist.",
+                    "answerList": [
+                        "He isn't a journalist.",
+                        "He is not a journalist."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / singers)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We aren't singers.",
+                    "answerList": [
+                        "We aren't singers.",
+                        "We are not singers."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / a nurse)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you a nurse?",
+                    "answerList": [
+                        "Are you a nurse?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / from Libya)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're from Libya.",
+                    "answerList": [
+                        "They're from Libya.",
+                        "They are from Libya."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / David)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where's David?",
+                    "answerList": [
+                        "Where's David?",
+                        "Where is David?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / your mother)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How's your mother?",
+                    "answerList": [
+                        "How's your mother?",
+                        "How is your mother?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / thirsty)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're thirsty.",
+                    "answerList": [
+                        "We're thirsty.",
+                        "We are thirsty."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / the film)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long's the film?",
+                    "answerList": [
+                        "How long's the film?",
+                        "How long is the film?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how often / you in London)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How often are you in London?",
+                    "answerList": [
+                        "How often are you in London?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / handsome)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's handsome.",
+                    "answerList": [
+                        "He's handsome.",
+                        "He is handsome."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / English)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not English.",
+                    "answerList": [
+                        "I'm not English.",
+                        "I am not English."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / a doctor)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You aren't a doctor.",
+                    "answerList": [
+                        "You aren't a doctor.",
+                        "You are not a doctor."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / Italian)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She isn't Italian.",
+                    "answerList": [
+                        "She isn't Italian.",
+                        "She is not Italian."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / my brother)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's my brother.",
+                    "answerList": [
+                        "He's my brother.",
+                        "He is my brother."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / Egyptian)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You aren't Egyptian.",
+                    "answerList": [
+                        "You aren't Egyptian.",
+                        "You are not Egyptian."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

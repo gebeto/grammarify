@@ -1,0 +1,368 @@
+{
+    "title": "Reported Speech Mixed Exercise 2",
+    "description": "Make reported speech. Start all your answers with 'she', and use the past simple of 'ask', 'say' or 'tell'. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Did you arrive before seven?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I had arrived before seven.",
+                    "answerList": [
+                        "She asked me if I had arrived before seven.",
+                        "She asked me if I arrived before seven."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How was your holiday?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how my holiday had been.",
+                    "answerList": [
+                        "She asked me how my holiday had been."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I would have visited the hospital, if I had known you were sick.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she would have visited the hospital, if she had known I was sick.",
+                    "answerList": [
+                        "She said that she would have visited the hospital, if she had known I was sick."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't touch!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me not to touch.",
+                    "answerList": [
+                        "She told me not to touch."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you usually cook at home?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I usually cooked at home.",
+                    "answerList": [
+                        "She asked me if I usually cooked at home."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They had never been to Scotland until last year.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that they had never been to Scotland until last year.",
+                    "answerList": [
+                        "She said that they had never been to Scotland until last year."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Make sure you arrive early!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me to arrive early.",
+                    "answerList": [
+                        "She told me to arrive early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I should have studied harder for the exam.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she should have studied harder for the exam.",
+                    "answerList": [
+                        "She said that she should have studied harder for the exam."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you mind telling me how to get to the art gallery, please?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how to get to the art gallery.",
+                    "answerList": [
+                        "She asked me how to get to the art gallery."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please don't forget my book.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me not to forget her book.",
+                    "answerList": [
+                        "She asked me not to forget her book."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Make sure you arrive at six!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me to arrive at six.",
+                    "answerList": [
+                        "She told me to arrive at six."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Remember to study hard!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me to remember to study hard.",
+                    "answerList": [
+                        "She told me to remember to study hard."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do you want to eat tonight?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where I wanted to eat tonight.",
+                    "answerList": [
+                        "She asked me where I wanted to eat tonight.",
+                        "She asked me where I wanted to eat that night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I usually drink coffee in the mornings.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she usually drank coffee in the mornings.",
+                    "answerList": [
+                        "She said that she usually drank coffee in the mornings."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you like studying English?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I liked studying English.",
+                    "answerList": [
+                        "She asked me if I liked studying English."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll come and help you on Saturday.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she would come and help me on Saturday.",
+                    "answerList": [
+                        "She said that she would come and help me on Saturday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please buy some bread on your way home.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to buy some bread on my way home.",
+                    "answerList": [
+                        "She asked me to buy some bread on my way home."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please give this to John.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to give this to John.",
+                    "answerList": [
+                        "She asked me to give this to John."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you give me the glass on the table, please?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to give her the glass on the table.",
+                    "answerList": [
+                        "She asked me to give her the glass on the table."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Come quickly!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me to come quickly.",
+                    "answerList": [
+                        "She told me to come quickly."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

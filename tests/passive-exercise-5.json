@@ -1,0 +1,366 @@
+{
+    "title": "Passive 5 (mixed tenses)",
+    "description": "Change these active sentences to passive.  Choose if you need the agent or not.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Government is planning a new road near my house."
+                },
+                {
+                    "type": "input",
+                    "answer": "A new road is being planned near my house",
+                    "answerList": [
+                        "A new road is being planned near my house"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandfather built this house in 1943."
+                },
+                {
+                    "type": "input",
+                    "answer": "This house was built in 1943 by my grandfather",
+                    "answerList": [
+                        "This house was built in 1943 by my grandfather"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Picasso was painting Guernica at that time."
+                },
+                {
+                    "type": "input",
+                    "answer": "Guernica was being painted at that time by Picasso",
+                    "answerList": [
+                        "Guernica was being painted at that time by Picasso"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cleaner has cleaned the office."
+                },
+                {
+                    "type": "input",
+                    "answer": "The office has been cleaned",
+                    "answerList": [
+                        "The office has been cleaned"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He had written three books before 1867."
+                },
+                {
+                    "type": "input",
+                    "answer": "Three books had been written before 1867",
+                    "answerList": [
+                        "Three books had been written before 1867"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John will tell you later."
+                },
+                {
+                    "type": "input",
+                    "answer": "You will be told later by John",
+                    "answerList": [
+                        "You will be told later by John"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "By this time tomorrow we will have signed the deal."
+                },
+                {
+                    "type": "input",
+                    "answer": "By this time tomorrow the deal will have been signed",
+                    "answerList": [
+                        "By this time tomorrow the deal will have been signed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody should do the work."
+                },
+                {
+                    "type": "input",
+                    "answer": "The work should be done",
+                    "answerList": [
+                        "The work should be done"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The traffic might have delayed Jimmy."
+                },
+                {
+                    "type": "input",
+                    "answer": "Jimmy might have been delayed by the traffic",
+                    "answerList": [
+                        "Jimmy might have been delayed by the traffic"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "People speak Portuguese in Brazil."
+                },
+                {
+                    "type": "input",
+                    "answer": "Portuguese is spoken in Brazil",
+                    "answerList": [
+                        "Portuguese is spoken in Brazil"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Everybody loves Mr Brown."
+                },
+                {
+                    "type": "input",
+                    "answer": "Mr Brown is loved by everybody",
+                    "answerList": [
+                        "Mr Brown is loved by everybody"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They are building a new stadium near the station."
+                },
+                {
+                    "type": "input",
+                    "answer": "A new stadium is being built near the station",
+                    "answerList": [
+                        "A new stadium is being built near the station"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The wolf ate the princess."
+                },
+                {
+                    "type": "input",
+                    "answer": "The princess was eaten by the wolf",
+                    "answerList": [
+                        "The princess was eaten by the wolf"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At six o'clock someone was telling a story."
+                },
+                {
+                    "type": "input",
+                    "answer": "At six o'clock a story was being told",
+                    "answerList": [
+                        "At six o'clock a story was being told"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has drunk all the milk!"
+                },
+                {
+                    "type": "input",
+                    "answer": "All the milk has been drunk",
+                    "answerList": [
+                        "All the milk has been drunk"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I had cleaned all the windows before the storm."
+                },
+                {
+                    "type": "input",
+                    "answer": "All the windows had been cleaned before the storm",
+                    "answerList": [
+                        "All the windows had been cleaned before the storm"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A workman will repair the computer tomorrow."
+                },
+                {
+                    "type": "input",
+                    "answer": "The computer will be repaired tomorrow",
+                    "answerList": [
+                        "The computer will be repaired tomorrow"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "By next year the students will have studied the passive."
+                },
+                {
+                    "type": "input",
+                    "answer": "By next year the passive will have been studied by the students",
+                    "answerList": [
+                        "By next year the passive will have been studied by the students"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "James might cook dinner."
+                },
+                {
+                    "type": "input",
+                    "answer": "Dinner might be cooked by James",
+                    "answerList": [
+                        "Dinner might be cooked by James"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody must have taken my wallet."
+                },
+                {
+                    "type": "input",
+                    "answer": "My wallet must have been taken",
+                    "answerList": [
+                        "My wallet must have been taken"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

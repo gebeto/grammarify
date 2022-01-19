@@ -1,0 +1,186 @@
+{
+    "title": "Participle Clauses 2",
+    "description": "Make a reduced relative clause. These sentences all need a passive clause.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The television was stolen (the television was bought twenty years ago)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The television bought twenty years ago was stolen.",
+                    "answerList": [
+                        "The television bought twenty years ago was stolen."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I often buy cheese (the cheese is imported from Paris)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I often buy cheese imported from Paris.",
+                    "answerList": [
+                        "I often buy cheese imported from Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The bread is in the kitchen (the bread was brought by John)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The bread brought by John is in the kitchen.",
+                    "answerList": [
+                        "The bread brought by John is in the kitchen."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We live in a house (the house was built by my grandfather)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We live in a house built by my grandfather.",
+                    "answerList": [
+                        "We live in a house built by my grandfather."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The money has been given to charity (the money was found in the street)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The money found in the street has been given to charity.",
+                    "answerList": [
+                        "The money found in the street has been given to charity."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We all praised the cake (the cake was baked by my mother)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We all praised the cake baked by my mother.",
+                    "answerList": [
+                        "We all praised the cake baked by my mother."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The robber ran away (the robber was seen by David)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The robber seen by David ran away.",
+                    "answerList": [
+                        "The robber seen by David ran away."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really loved the flowers (the flowers were grown in London)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I really loved the flowers grown in London.",
+                    "answerList": [
+                        "I really loved the flowers grown in London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The coffee is very strong (the coffee is drunk in Turkey)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The coffee drunk in Turkey is very strong.",
+                    "answerList": [
+                        "The coffee drunk in Turkey is very strong."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't know much about the games (the games are played by children nowadays)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know much about the games played by children nowadays.",
+                    "answerList": [
+                        "I don't know much about the games played by children nowadays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

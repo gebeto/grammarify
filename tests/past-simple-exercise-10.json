@@ -1,0 +1,423 @@
+{
+    "title": "Past Simple - Mixed Exercise 4",
+    "description": "Make the past simple, positive, negative or question",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answer": "did she go",
+                    "answerList": [
+                        "did she go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/go)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you do",
+                    "answerList": [
+                        "did you do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "worked",
+                    "answerList": [
+                        "worked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in a bank."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't call",
+                    "answerList": [
+                        "didn't call",
+                        "did not call"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/call) me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did you wear",
+                    "answerList": [
+                        "Did you wear"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/wear) your red dress?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't read",
+                    "answerList": [
+                        "didn't read",
+                        "did not read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/read) that book."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did you go",
+                    "answerList": [
+                        "Did you go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/go)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did she study",
+                    "answerList": [
+                        "Did she study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/study) last night?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did we arrive",
+                    "answerList": [
+                        "Did we arrive"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/arrive) last?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you meet",
+                    "answerList": [
+                        "did you meet"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/meet) ?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did they come",
+                    "answerList": [
+                        "Did they come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/come) to the party?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't meet",
+                    "answerList": [
+                        "didn't meet",
+                        "did not meet"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did she go",
+                    "answerList": [
+                        "Did she go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/go)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "met",
+                    "answerList": [
+                        "met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) a friend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you like",
+                    "answerList": [
+                        "did you like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/like)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't forget",
+                    "answerList": [
+                        "didn't forget",
+                        "did not forget"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/forget) your book."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "did he do",
+                    "answerList": [
+                        "did he do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/do) at the weekend?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't like",
+                    "answerList": [
+                        "didn't like",
+                        "did not like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/like) chocolate."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you buy",
+                    "answerList": [
+                        "did you buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/buy) yesterday?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Did you have",
+                    "answerList": [
+                        "Did you have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/have) a good holiday?"
+                }
+            ]
+        }
+    ]
+}

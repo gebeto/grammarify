@@ -1,0 +1,366 @@
+{
+    "title": "Reported Speech Questions 3 (Yes/No Questions)",
+    "description": "Make reported questions. Start each answer with 'she asked me'. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Am I late?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if she was late.",
+                    "answerList": [
+                        "She asked me if she was late."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is it cold outside?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if it was cold outside.",
+                    "answerList": [
+                        "She asked me if it was cold outside."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are they in Paris?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if they were in Paris.",
+                    "answerList": [
+                        "She asked me if they were in Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the bus stop near the shopping centre?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if the bus stop was near the shopping centre.",
+                    "answerList": [
+                        "She asked me if the bus stop was near the shopping centre."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the milk fresh?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if the milk was fresh.",
+                    "answerList": [
+                        "She asked me if the milk was fresh."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are you a doctor?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I was a doctor.",
+                    "answerList": [
+                        "She asked me if I was a doctor."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are James and Lucy from France?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if James and Lucy were from France.",
+                    "answerList": [
+                        "She asked me if James and Lucy were from France."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is my brother in the garden?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if her brother was in the garden.",
+                    "answerList": [
+                        "She asked me if her brother was in the garden."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the weather good in Shanghai in the summer?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if the weather was good in Shanghai in the summer.",
+                    "answerList": [
+                        "She asked me if the weather was good in Shanghai in the summer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does Julie drink tea?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if Julie drank tea.",
+                    "answerList": [
+                        "She asked me if Julie drank tea."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you like chocolate?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I liked chocolate.",
+                    "answerList": [
+                        "She asked me if I liked chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do they own a flat?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if they owned a flat.",
+                    "answerList": [
+                        "She asked me if they owned a flat."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does David go to the cinema often?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if David went to the cinema often.",
+                    "answerList": [
+                        "She asked me if David went to the cinema often."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do the children study Chinese?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if the children studied Chinese.",
+                    "answerList": [
+                        "She asked me if the children studied Chinese."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do they go on holiday every summer?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if they went on holiday every summer.",
+                    "answerList": [
+                        "She asked me if they went on holiday every summer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does your sister live in Stockholm?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if my sister lived in Stockholm.",
+                    "answerList": [
+                        "She asked me if my sister lived in Stockholm."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do I talk too much?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if she talked too much.",
+                    "answerList": [
+                        "She asked me if she talked too much."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does Jennifer want a new job?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if Jennifer wanted a new job.",
+                    "answerList": [
+                        "She asked me if Jennifer wanted a new job."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does it rain a lot in London?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if it rained a lot in London.",
+                    "answerList": [
+                        "She asked me if it rained a lot in London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is John at home?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if John was at home.",
+                    "answerList": [
+                        "She asked me if John was at home."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

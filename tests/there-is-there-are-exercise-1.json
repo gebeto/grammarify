@@ -1,0 +1,366 @@
+{
+    "title": "There is / there are",
+    "description": "Change these (strange!) sentences so that you use 'there + the correct tenses of be'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Two apples are on the table."
+                },
+                {
+                    "type": "input",
+                    "answer": "There are two apples on the table.",
+                    "answerList": [
+                        "There are two apples on the table."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A boy doesn't exist in the street."
+                },
+                {
+                    "type": "input",
+                    "answer": "There isn't a boy in the street.",
+                    "answerList": [
+                        "There isn't a boy in the street."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does an ATM exist near here?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is there an ATM near here?",
+                    "answerList": [
+                        "Is there an ATM near here?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A party will exist tomorrow."
+                },
+                {
+                    "type": "input",
+                    "answer": "There will be a party tomorrow.",
+                    "answerList": [
+                        "There will be a party tomorrow."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A lot of illnesses existed in the 14th century."
+                },
+                {
+                    "type": "input",
+                    "answer": "There were a lot of illnesses in the 14th century.",
+                    "answerList": [
+                        "There were a lot of illnesses in the 14th century."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Hardly any people were at the meeting."
+                },
+                {
+                    "type": "input",
+                    "answer": "There were hardly any people at the meeting.",
+                    "answerList": [
+                        "There were hardly any people at the meeting."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A Starbucks is next to the bank."
+                },
+                {
+                    "type": "input",
+                    "answer": "There's a Starbucks next to the bank.",
+                    "answerList": [
+                        "There's a Starbucks next to the bank."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does a table exist in the garden?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is there a table in the garden?",
+                    "answerList": [
+                        "Is there a table in the garden?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A bath doesn't exist in my flat."
+                },
+                {
+                    "type": "input",
+                    "answer": "There isn't a bath in my flat.",
+                    "answerList": [
+                        "There isn't a bath in my flat."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does a train exist to Glasgow tonight?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is there a train to Glasgow tonight?",
+                    "answerList": [
+                        "Is there a train to Glasgow tonight?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does somewhere to get coffee exist in the station?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is there somewhere to get coffee in the station?",
+                    "answerList": [
+                        "Is there somewhere to get coffee in the station?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A lot of mountains exist in Switzerland."
+                },
+                {
+                    "type": "input",
+                    "answer": "There are a lot of mountains in Switzerland.",
+                    "answerList": [
+                        "There are a lot of mountains in Switzerland."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Many mosquitoes didn't exist near the lake."
+                },
+                {
+                    "type": "input",
+                    "answer": "There weren't many mosquitoes near the lake.",
+                    "answerList": [
+                        "There weren't many mosquitoes near the lake."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Will biscuits exist at the meeting?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Will there be biscuits at the meeting?",
+                    "answerList": [
+                        "Will there be biscuits at the meeting?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Any bread doesn't exist in the kitchen."
+                },
+                {
+                    "type": "input",
+                    "answer": "There isn't any bread in the kitchen.",
+                    "answerList": [
+                        "There isn't any bread in the kitchen."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does a good clothes shop exist in this town?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is there a good clothes shop in this town?",
+                    "answerList": [
+                        "Is there a good clothes shop in this town?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did good teachers exist at your school?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were there good teachers at your school?",
+                    "answerList": [
+                        "Were there good teachers at your school?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A police station exists nearby."
+                },
+                {
+                    "type": "input",
+                    "answer": "There's a police station nearby.",
+                    "answerList": [
+                        "There's a police station nearby."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did a lot of people exist in the restaurant?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were there a lot of people in the restaurant?",
+                    "answerList": [
+                        "Were there a lot of people in the restaurant?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "No flowers exist in the hall."
+                },
+                {
+                    "type": "input",
+                    "answer": "There are no flowers in the hall.",
+                    "answerList": [
+                        "There are no flowers in the hall."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

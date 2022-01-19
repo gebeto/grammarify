@@ -1,0 +1,236 @@
+{
+    "title": "Future Perfect Continuous Negative",
+    "description": "Make the future perfect continuous negative form",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been studying",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been studying",
+                        "will not have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study), so she\u00e2\u20ac\u2122ll want to study tomorrow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been working",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been working",
+                        "will not have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work), so we\u00e2\u20ac\u2122ll have lots of energy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been exercising",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been exercising",
+                        "will not have been exercising"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(exercise), so they might want to go for a walk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been watching",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been watching",
+                        "will not have been watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) TV all afternoon."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been working",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been working",
+                        "will not have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) here for long when I change jobs."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been learning",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been learning",
+                        "will not have been learning"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) about computers for long when you start your new job."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been living",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been living",
+                        "will not have been living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London for six years next week, four years at most."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been drinking",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been drinking",
+                        "will not have been drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) coffee all morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been studying",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been studying",
+                        "will not have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) Japanese for ten months when he takes the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "won\u00e2\u20ac\u2122t have been travelling",
+                    "answerList": [
+                        "won\u00e2\u20ac\u2122t have been travelling",
+                        "will not have been travelling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) for very long when we arrive in Paris."
+                }
+            ]
+        }
+    ]
+}

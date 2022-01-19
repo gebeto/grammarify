@@ -1,0 +1,226 @@
+{
+    "title": "Either and Neither Exercise 1",
+    "description": "Put in 'of' or '-'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Give me either"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "those cups. I don\u2019t mind."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Neither"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my parents went to university."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Neither"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "student passed the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You can take either"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the books."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Neither"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "boy did his homework."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Neither"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "them went to the party."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Either"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "restaurant is fine."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Either"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "jacket is good."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Either"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us could come early."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Neither"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my children can swim."
+                }
+            ]
+        }
+    ]
+}

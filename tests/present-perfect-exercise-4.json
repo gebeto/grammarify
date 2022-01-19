@@ -1,0 +1,376 @@
+{
+    "title": "Present Perfect - Mixed Exercise 1",
+    "description": "Make the present perfect - it could be positive, negative or question.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / keep a pet for three years)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You've kept a pet for three years.",
+                    "answerList": [
+                        "You've kept a pet for three years.",
+                        "You have kept a pet for three years."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / eat Thai food before)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have you eaten Thai food before?",
+                    "answerList": [
+                        "Have you eaten Thai food before?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / rain all day)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has it rained all day?",
+                    "answerList": [
+                        "Has it rained all day?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / we / forget to invite)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who have we forgotten to invite?",
+                    "answerList": [
+                        "Who have we forgotten to invite?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / hear that song already)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We haven't heard that song before.",
+                    "answerList": [
+                        "We haven't heard that song already.",
+                        "We have not heard that song already."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / forget his books)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He hasn't forgotten his books.",
+                    "answerList": [
+                        "He hasn't forgotten his books.",
+                        "He has not forgotten his books."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / steal all the chocolate)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's stolen all the chocolate.",
+                    "answerList": [
+                        "She's stolen all the chocolate.",
+                        "She has stolen all the chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / explain it well)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have I explained it well?",
+                    "answerList": [
+                        "Have I explained it well?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / he / meet recently)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who has he met recently?",
+                    "answerList": [
+                        "Who has he met recently?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / we / finish already)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How have we finished already?",
+                    "answerList": [
+                        "How have we finished already?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / study Latin)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's studied Latin.",
+                    "answerList": [
+                        "He's studied Latin.",
+                        "He has studied Latin."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / know him for three months)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I've known him for three months.",
+                    "answerList": [
+                        "I've known him for three months.",
+                        "I have known him for three months."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / study Arabic)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where have you studied Arabic?",
+                    "answerList": [
+                        "Where have you studied Arabic?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what countries / they / visit in Europe)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What countries have they visited in Europe?",
+                    "answerList": [
+                        "What countries have they visited in Europe?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / hurt his leg)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's hurt his leg.",
+                    "answerList": [
+                        "He's hurt his leg.",
+                        "He has hurt his leg."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / leave her phone in a taxi)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's left her phone in a taxi.",
+                    "answerList": [
+                        "She's left her phone in a taxi.",
+                        "She has left her phone in a taxi."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / lose our tickets)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We haven't lost our tickets.",
+                    "answerList": [
+                        "We haven't lost our tickets.",
+                        "We have not lost our tickets."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / call her mother)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has she called her mother?",
+                    "answerList": [
+                        "Has she called her mother?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / take a taxi)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has he taken a taxi?",
+                    "answerList": [
+                        "Has he taken a taxi?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / go / to the library today)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's gone to the library today.",
+                    "answerList": [
+                        "She's gone to the library today.",
+                        "She has gone to the library today."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

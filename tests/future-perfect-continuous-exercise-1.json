@@ -1,0 +1,236 @@
+{
+    "title": "Future Perfect Continuous Positive",
+    "description": "Make the future perfect continuous positive",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been working",
+                    "answerList": [
+                        "will have been working",
+                        "'ll have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work), so I'll be tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been playing",
+                    "answerList": [
+                        "will have been playing",
+                        "'ll have been playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis, so she'll be hungry."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been walking",
+                    "answerList": [
+                        "will have been walking",
+                        "'ll have been walking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(walk) all day, so we'll want to relax in the evening."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been cooking",
+                    "answerList": [
+                        "will have been cooking",
+                        "'ll have been cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook), so the kitchen will be warm."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been travelling",
+                    "answerList": [
+                        "will have been travelling",
+                        "'ll have been travelling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(travel), so they'll want to go to bed early."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been working",
+                    "answerList": [
+                        "will have been working",
+                        "'ll have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in this company for twenty years when I retire."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been seeing",
+                    "answerList": [
+                        "will have been seeing",
+                        "'ll have been seeing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) her boyfriend for three years when they get married."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been living",
+                    "answerList": [
+                        "will have been living",
+                        "'ll have been living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) here for ten years next month."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been studying",
+                    "answerList": [
+                        "will have been studying",
+                        "'ll have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) English for three years when he takes the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "will have been sleeping",
+                    "answerList": [
+                        "will have been sleeping",
+                        "'ll have been sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) for three hours at 10pm."
+                }
+            ]
+        }
+    ]
+}

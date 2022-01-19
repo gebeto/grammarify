@@ -1,0 +1,442 @@
+{
+    "title": "A Little / Little / A Few / Few",
+    "description": "Choose: a little / little / a few / few",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I have"
+                },
+                {
+                    "type": "input",
+                    "answer": "a little",
+                    "answerList": [
+                        "a little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "water left. There's enough to share."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I have"
+                },
+                {
+                    "type": "input",
+                    "answer": "a few",
+                    "answerList": [
+                        "a few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "good friends. I'm not lonely."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has"
+                },
+                {
+                    "type": "input",
+                    "answer": "little",
+                    "answerList": [
+                        "little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "education. He can't read or write, and he can hardly count."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answer": "few",
+                    "answerList": [
+                        "few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "people she really trusts. It's a bit sad."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We've got"
+                },
+                {
+                    "type": "input",
+                    "answer": "a little",
+                    "answerList": [
+                        "a little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "time at the weekend. Would you like to meet?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie gave us"
+                },
+                {
+                    "type": "input",
+                    "answer": "a few",
+                    "answerList": [
+                        "a few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "apples from her garden. Shall we share them?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has"
+                },
+                {
+                    "type": "input",
+                    "answer": "little",
+                    "answerList": [
+                        "little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "self-confidence. She has a lot of trouble talking to new people."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answer": "few",
+                    "answerList": [
+                        "few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "women politicians in the UK. Many people think there should be more."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's a great pity, but the hospital has"
+                },
+                {
+                    "type": "input",
+                    "answer": "little",
+                    "answerList": [
+                        "little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "medicine. They can't help many people."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've got"
+                },
+                {
+                    "type": "input",
+                    "answer": "a few",
+                    "answerList": [
+                        "a few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "cakes to give away. Would you like one?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's"
+                },
+                {
+                    "type": "input",
+                    "answer": "a little",
+                    "answerList": [
+                        "a little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "milk left in the fridge. It should be enough for our coffee."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Few",
+                    "answerList": [
+                        "Few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "children from this school go on to university, unfortunately."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you need information on English grammar? I have"
+                },
+                {
+                    "type": "input",
+                    "answer": "a few",
+                    "answerList": [
+                        "a few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "books on the topic if you would like to borrow them."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's lucky. She has"
+                },
+                {
+                    "type": "input",
+                    "answer": "few",
+                    "answerList": [
+                        "few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "problems."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "London has"
+                },
+                {
+                    "type": "input",
+                    "answer": "little",
+                    "answerList": [
+                        "little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sunshine in the winter. That's why so many British people go on holiday to sunny places!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's"
+                },
+                {
+                    "type": "input",
+                    "answer": "a little",
+                    "answerList": [
+                        "a little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "spaghetti left in the cupboard. Shall we eat it tonight?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answer": "few",
+                    "answerList": [
+                        "few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "programmes on television that I want to watch. I prefer to download a film or read a book."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has"
+                },
+                {
+                    "type": "input",
+                    "answer": "little",
+                    "answerList": [
+                        "little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "free time. He hardly ever even manages to call his mother!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, I have"
+                },
+                {
+                    "type": "input",
+                    "answer": "a few",
+                    "answerList": [
+                        "a few"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "problems at the moment."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are you thirsty? There's"
+                },
+                {
+                    "type": "input",
+                    "answer": "a little",
+                    "answerList": [
+                        "a little"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "juice left in this bottle, if you'd like it."
+                }
+            ]
+        }
+    ]
+}

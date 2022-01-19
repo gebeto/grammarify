@@ -1,0 +1,446 @@
+{
+    "title": "So and Such Exercise 1",
+    "description": "Put in 'so' or 'such'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They were"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "happy that they started dancing."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He speaks Chinese"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "well!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie is"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a good writer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She swims"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "quickly!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "late we missed the last train."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They have"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a big house that I got lost!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a sweet puppy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That was"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an interesting book."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The weather was"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "hot I stayed inside."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a teenager!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He was"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "handsome."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a beautiful day that we took a picnic to the park."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You're not usually"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tired! Is everything okay?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He doesn't often work"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a lot."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children have"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "many toys."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a bookworm!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I had"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a lot of work I couldn't go out."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You shouldn't drink"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "little in this weather."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "much money that she doesn't need to work again."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The shops had"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "few vegetables at that time that we grew our own."
+                }
+            ]
+        }
+    ]
+}

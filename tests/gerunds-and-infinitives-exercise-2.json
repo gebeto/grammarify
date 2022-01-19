@@ -1,0 +1,446 @@
+{
+    "title": "Gerunds and Infinitives 2",
+    "description": "Put the verb into the gerund or the infinitive:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She delayed"
+                },
+                {
+                    "type": "input",
+                    "answer": "getting",
+                    "answerList": [
+                        "getting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) out of bed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He demanded"
+                },
+                {
+                    "type": "input",
+                    "answer": "to speak",
+                    "answerList": [
+                        "to speak"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) to the manager."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I offered"
+                },
+                {
+                    "type": "input",
+                    "answer": "to help",
+                    "answerList": [
+                        "to help"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(help)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I miss"
+                },
+                {
+                    "type": "input",
+                    "answer": "going",
+                    "answerList": [
+                        "going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the beach."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We postponed"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(do)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd hate"
+                },
+                {
+                    "type": "input",
+                    "answer": "to arrive",
+                    "answerList": [
+                        "to arrive"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) too late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She admitted"
+                },
+                {
+                    "type": "input",
+                    "answer": "stealing",
+                    "answerList": [
+                        "stealing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(steal) the money."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I chose"
+                },
+                {
+                    "type": "input",
+                    "answer": "to work",
+                    "answerList": [
+                        "to work"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) here."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She waited"
+                },
+                {
+                    "type": "input",
+                    "answer": "to buy",
+                    "answerList": [
+                        "to buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a drink."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really appreciate"
+                },
+                {
+                    "type": "input",
+                    "answer": "being",
+                    "answerList": [
+                        "being"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) on holiday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I couldn't help"
+                },
+                {
+                    "type": "input",
+                    "answer": "laughing",
+                    "answerList": [
+                        "laughing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(laugh) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It seems"
+                },
+                {
+                    "type": "input",
+                    "answer": "to be",
+                    "answerList": [
+                        "to be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) raining."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I considered"
+                },
+                {
+                    "type": "input",
+                    "answer": "moving",
+                    "answerList": [
+                        "moving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(move) to Spain."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They practised"
+                },
+                {
+                    "type": "input",
+                    "answer": "speaking",
+                    "answerList": [
+                        "speaking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Finally I managed"
+                },
+                {
+                    "type": "input",
+                    "answer": "to finish",
+                    "answerList": [
+                        "to finish"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) the work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really can't stand"
+                },
+                {
+                    "type": "input",
+                    "answer": "waiting",
+                    "answerList": [
+                        "waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) for the bus."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, we can't afford"
+                },
+                {
+                    "type": "input",
+                    "answer": "to buy",
+                    "answerList": [
+                        "to buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a new car this year."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She risked"
+                },
+                {
+                    "type": "input",
+                    "answer": "being",
+                    "answerList": [
+                        "being"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd love"
+                },
+                {
+                    "type": "input",
+                    "answer": "to come",
+                    "answerList": [
+                        "to come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) with you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I prepared"
+                },
+                {
+                    "type": "input",
+                    "answer": "to go",
+                    "answerList": [
+                        "to go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) on holiday."
+                }
+            ]
+        }
+    ]
+}

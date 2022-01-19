@@ -1,0 +1,301 @@
+{
+    "title": "Relative Clauses 3",
+    "description": "Add the phrase in brackets to the sentence using a relative clause. If it's possible, you should drop the relative pronoun:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I broke the plate (the plate was a wedding present)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I broke the plate that was a wedding present",
+                    "answerList": [
+                        "I broke the plate that was a wedding present",
+                        "I broke the plate which was a wedding present"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The police arrested the man (I saw the man steal a handbag)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The police arrested the man I saw steal a handbag",
+                    "answerList": [
+                        "The police arrested the man I saw steal a handbag"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Queen fired the chef (we had met the chef)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The Queen fired the chef we had met",
+                    "answerList": [
+                        "The Queen fired the chef we had met"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She wrote to her friend (her friend lives in Vietnam)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She wrote to her friend that lives in Vietnam",
+                    "answerList": [
+                        "She wrote to her friend that lives in Vietnam",
+                        "She wrote to her friend who lives in Vietnam"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jill ate the sandwich (the sandwich had tomato and cheese inside)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Jill ate the sandwich that had tomato and cheese inside",
+                    "answerList": [
+                        "Jill ate the sandwich that had tomato and cheese inside",
+                        "Jill ate the sandwich which had tomato and cheese inside"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His friend lives in Scotland (his friend is a lawyer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "His friend that is a lawyer lives in Scotland",
+                    "answerList": [
+                        "His friend that is a lawyer lives in Scotland",
+                        "His friend who  is a lawyer lives in Scotland"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called the secretary (I went to school with the secretary)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We called the secretary I went to school with",
+                    "answerList": [
+                        "We called the secretary I went to school with"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The CD is in my bag (the CD has Spanish music)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The CD that has Spanish music is in my bag",
+                    "answerList": [
+                        "The CD that has Spanish music is in my bag",
+                        "The CD which has Spanish music is in my bag"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The book is very interesting (the book is about Japanese culture)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The book that is about Japanese culture is very interesting",
+                    "answerList": [
+                        "The book that is about Japanese culture is very interesting",
+                        "The book which is about Japanese culture is very interesting"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The bag was stolen (I bought the bag yesterday)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The bag I bought yesterday was stolen",
+                    "answerList": [
+                        "The bag I bought yesterday was stolen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He likes films (the films come from Asia)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He likes films that come from Asia",
+                    "answerList": [
+                        "He likes films that come from Asia",
+                        "He likes films which come from Asia"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My nephew broke the plate (I received the plate as a present)"
+                },
+                {
+                    "type": "input",
+                    "answer": "My nephew broke the plate I received as a present",
+                    "answerList": [
+                        "My nephew broke the plate I received as a present"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The chocolate was very old (we bought the chocolate last week)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The chocolate we bought last week was very old",
+                    "answerList": [
+                        "The chocolate we bought last week was very old"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The TV programme was very funny (Lucy recommended the TV programme)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The TV programme Lucy recommended was very funny",
+                    "answerList": [
+                        "The TV programme Lucy recommended was very funny"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The girl is on TV tonight (I met the girl yesterday)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The girl I met yesterday is on TV tonight",
+                    "answerList": [
+                        "The girl I met yesterday is on TV tonight"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They found the money (I dropped the money)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They found the money I dropped",
+                    "answerList": [
+                        "They found the money I dropped"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,556 @@
+{
+    "title": "Ever and Never Exercise 1",
+    "description": "Put in 'ever' or 'never'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This is the only time the children have"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "been to the theatre."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She hardly"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "gets up early."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "bought a car before."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tried Malaysian food."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "see Lucy?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food was as delicious as"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "come to the UK, give me a call!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They don't"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "eat meat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have you"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "been to New Zealand?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She was feeling better than"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "study at the weekend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Nobody"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "helps me!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "been to Barcelona."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "takes any exercise at all."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children had"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "been on an aeroplane."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "go to the cinema."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "saw such a big cake before!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They had"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "had such a wonderful meal."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have you"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "seen such a lovely picture?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She'd"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "spoken English before she came to London."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This is the best party I've"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "been to."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've"
+                },
+                {
+                    "type": "input",
+                    "answer": "never",
+                    "answerList": [
+                        "never"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "been to South America."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Doesn't she"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "come to London?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's wanted to be a writer"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "since she was a teenager."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I never"
+                },
+                {
+                    "type": "input",
+                    "answer": "ever",
+                    "answerList": [
+                        "ever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "want to see you again!"
+                }
+            ]
+        }
+    ]
+}

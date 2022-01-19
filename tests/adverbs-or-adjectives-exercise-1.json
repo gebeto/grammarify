@@ -1,0 +1,446 @@
+{
+    "title": "Adverbs and Adjectives 1",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John held the plate"
+                },
+                {
+                    "type": "input",
+                    "answer": "carefully",
+                    "answerList": [
+                        "carefully"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (careful / carefully)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julia is a"
+                },
+                {
+                    "type": "input",
+                    "answer": "careful",
+                    "answerList": [
+                        "careful"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "person. (careful / carefully)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I ran"
+                },
+                {
+                    "type": "input",
+                    "answer": "quickly",
+                    "answerList": [
+                        "quickly"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "to the station. (quick / quickly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The journey was"
+                },
+                {
+                    "type": "input",
+                    "answer": "quick",
+                    "answerList": [
+                        "quick"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (quick / quickly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You look"
+                },
+                {
+                    "type": "input",
+                    "answer": "tired",
+                    "answerList": [
+                        "tired"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". Didn't you sleep well? (tired / tiredly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The baby rubbed her eyes"
+                },
+                {
+                    "type": "input",
+                    "answer": "tiredly",
+                    "answerList": [
+                        "tiredly"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (tired / tiredly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She sang"
+                },
+                {
+                    "type": "input",
+                    "answer": "happily",
+                    "answerList": [
+                        "happily"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (happy / happily)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You sound"
+                },
+                {
+                    "type": "input",
+                    "answer": "happy",
+                    "answerList": [
+                        "happy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (happy / happily)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I speak English"
+                },
+                {
+                    "type": "input",
+                    "answer": "well",
+                    "answerList": [
+                        "well"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (well / good)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Her English is"
+                },
+                {
+                    "type": "input",
+                    "answer": "good",
+                    "answerList": [
+                        "good"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (well / good)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She cooks"
+                },
+                {
+                    "type": "input",
+                    "answer": "terribly",
+                    "answerList": [
+                        "terribly"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (terrible / terribly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He is a"
+                },
+                {
+                    "type": "input",
+                    "answer": "terrible",
+                    "answerList": [
+                        "terrible"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "cook. (terrible / terribly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The music was"
+                },
+                {
+                    "type": "input",
+                    "answer": "beautiful",
+                    "answerList": [
+                        "beautiful"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (beautiful / beautifully)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She plays the piano"
+                },
+                {
+                    "type": "input",
+                    "answer": "beautifully",
+                    "answerList": [
+                        "beautifully"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (beautiful / beautifully)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That was a"
+                },
+                {
+                    "type": "input",
+                    "answer": "clever",
+                    "answerList": [
+                        "clever"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "answer. (clever / cleverly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She answered"
+                },
+                {
+                    "type": "input",
+                    "answer": "cleverly",
+                    "answerList": [
+                        "cleverly"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (clever / cleverly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Your flat seems"
+                },
+                {
+                    "type": "input",
+                    "answer": "tidy",
+                    "answerList": [
+                        "tidy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "today. (tidy / tidily)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He put the dishes away"
+                },
+                {
+                    "type": "input",
+                    "answer": "tidily",
+                    "answerList": [
+                        "tidily"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (tidy / tidily)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He spoke"
+                },
+                {
+                    "type": "input",
+                    "answer": "warmly",
+                    "answerList": [
+                        "warmly"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ". (warm / warmly)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She is a very"
+                },
+                {
+                    "type": "input",
+                    "answer": "warm",
+                    "answerList": [
+                        "warm"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "person. (warm / warmly)"
+                }
+            ]
+        }
+    ]
+}

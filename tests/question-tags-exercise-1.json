@@ -1,0 +1,446 @@
+{
+    "title": "Tag Questions - Present Simple",
+    "description": "Put in the correct tag question",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's from a small town in China,"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't she",
+                    "answerList": [
+                        "isn't she"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They aren't on their way already,"
+                },
+                {
+                    "type": "input",
+                    "answer": "are they",
+                    "answerList": [
+                        "are they"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We're late again,"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't we",
+                    "answerList": [
+                        "aren't we"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm not the person with the tickets,"
+                },
+                {
+                    "type": "input",
+                    "answer": "am I",
+                    "answerList": [
+                        "am I"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie isn't an accountant,"
+                },
+                {
+                    "type": "input",
+                    "answer": "is she",
+                    "answerList": [
+                        "is she"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The weather is really bad today,"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't it",
+                    "answerList": [
+                        "isn't it"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's very handsome,"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't he",
+                    "answerList": [
+                        "isn't he"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They aren't in Mumbai at the moment,"
+                },
+                {
+                    "type": "input",
+                    "answer": "are they",
+                    "answerList": [
+                        "are they"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You aren't from Brazil,"
+                },
+                {
+                    "type": "input",
+                    "answer": "are you",
+                    "answerList": [
+                        "are you"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John's a very good student,"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't he",
+                    "answerList": [
+                        "isn't he"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I like chocolate very much,"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't I",
+                    "answerList": [
+                        "don't I"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She doesn't work in a hotel,"
+                },
+                {
+                    "type": "input",
+                    "answer": "does she",
+                    "answerList": [
+                        "does she"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They need some new clothes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't they",
+                    "answerList": [
+                        "don't they"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We live in a tiny flat,"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't we",
+                    "answerList": [
+                        "don't we"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She studies very hard every night,"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't she",
+                    "answerList": [
+                        "doesn't she"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David and Julie don't take Chinese classes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "do they",
+                    "answerList": [
+                        "do they"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I often come home late,"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't I",
+                    "answerList": [
+                        "don't I"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You don't like spicy food,"
+                },
+                {
+                    "type": "input",
+                    "answer": "do you",
+                    "answerList": [
+                        "do you"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She doesn't cook very often,"
+                },
+                {
+                    "type": "input",
+                    "answer": "does she",
+                    "answerList": [
+                        "does she"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We don't watch much TV,"
+                },
+                {
+                    "type": "input",
+                    "answer": "do we",
+                    "answerList": [
+                        "do we"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        }
+    ]
+}

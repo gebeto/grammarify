@@ -1,0 +1,236 @@
+{
+    "title": "Future Continuous Positive",
+    "description": "Make the future continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be working",
+                    "answerList": [
+                        "'ll be working",
+                        "will be working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in my office."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, you"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be lying",
+                    "answerList": [
+                        "'ll be lying",
+                        "will be lying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lie) on the beach."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be waiting",
+                    "answerList": [
+                        "'ll be waiting",
+                        "will be waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) for the train."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be shopping",
+                    "answerList": [
+                        "'ll be shopping",
+                        "will be shopping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(shop) in New York."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be raining",
+                    "answerList": [
+                        "'ll be raining",
+                        "will be raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be getting",
+                    "answerList": [
+                        "'ll be getting",
+                        "will be getting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) ready to go out."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be meeting",
+                    "answerList": [
+                        "'ll be meeting",
+                        "will be meeting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) their parents."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be studying",
+                    "answerList": [
+                        "'ll be studying",
+                        "will be studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) in the library."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be exercising",
+                    "answerList": [
+                        "'ll be exercising",
+                        "will be exercising"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(exercise) at the gym."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At three o'clock tomorrow, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be sleeping",
+                    "answerList": [
+                        "'ll be sleeping",
+                        "will be sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep)."
+                }
+            ]
+        }
+    ]
+}

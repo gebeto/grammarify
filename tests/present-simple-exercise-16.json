@@ -1,0 +1,428 @@
+{
+    "title": "Present Simple Mixed Exercise 'Be' and Other Verbs",
+    "description": "Make the present simple",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "am",
+                    "answerList": [
+                        "am"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in a cafe now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does she play",
+                    "answerList": [
+                        "Does she play"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/play) tennis every week?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "go",
+                    "answerList": [
+                        "go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema every Wednesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is she",
+                    "answerList": [
+                        "Is she"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/be) a singer?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "find",
+                    "answerList": [
+                        "find"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(find) the weather here cold."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Are they",
+                    "answerList": [
+                        "Are they"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/be) on the bus?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "rides",
+                    "answerList": [
+                        "rides"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(ride) her bicycle to work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answer": "is he",
+                    "answerList": [
+                        "is he"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/be) in France?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't play",
+                    "answerList": [
+                        "don't play",
+                        "do not play"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) the piano very often."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) cold today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "are",
+                    "answerList": [
+                        "are"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) from Portugal."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Do we make",
+                    "answerList": [
+                        "Do we make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/make) too much noise at night?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answer": "does Harry study",
+                    "answerList": [
+                        "does Harry study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Harry/study)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is it",
+                    "answerList": [
+                        "Is it"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(it/be) foggy today?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't like",
+                    "answerList": [
+                        "don't like",
+                        "do not like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/like) animals."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where"
+                },
+                {
+                    "type": "input",
+                    "answer": "are you",
+                    "answerList": [
+                        "are you"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/be)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't",
+                    "answerList": [
+                        "isn't",
+                        "is not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) an accountant."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does the dog eat",
+                    "answerList": [
+                        "Does the dog eat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the dog/eat) chicken?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s",
+                    "answerList": [
+                        "'s",
+                        "is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) my sister."
+                }
+            ]
+        }
+    ]
+}

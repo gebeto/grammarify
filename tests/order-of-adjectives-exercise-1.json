@@ -1,0 +1,320 @@
+{
+    "title": "",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We wanted"
+                },
+                {
+                    "type": "input",
+                    "answer": "a grey metal",
+                    "answerList": [
+                        "a grey metal"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(metal / a / grey) table."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They bought"
+                },
+                {
+                    "type": "input",
+                    "answer": "a new red",
+                    "answerList": [
+                        "a new red"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(new / a / red) car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She went home and sat on her"
+                },
+                {
+                    "type": "input",
+                    "answer": "old comfortable wooden",
+                    "answerList": [
+                        "old comfortable wooden"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(comfortable / old / wooden) bed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He bought a"
+                },
+                {
+                    "type": "input",
+                    "answer": "fabulous British woollen",
+                    "answerList": [
+                        "fabulous British woollen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(British / fabulous / woolen) suit."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They have"
+                },
+                {
+                    "type": "input",
+                    "answer": "black Dutch",
+                    "answerList": [
+                        "black Dutch"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Dutch / black) bicycles."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He wants"
+                },
+                {
+                    "type": "input",
+                    "answer": "some delicious French",
+                    "answerList": [
+                        "some delicious French"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(French / delicious / some) cheese."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "A pretty young",
+                    "answerList": [
+                        "A pretty young"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pretty / A / young) girl walked into the room."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has"
+                },
+                {
+                    "type": "input",
+                    "answer": "a lot of interesting old",
+                    "answerList": [
+                        "a lot of interesting old"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(interesting / a lot of / old) books."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought"
+                },
+                {
+                    "type": "input",
+                    "answer": "a new red plastic",
+                    "answerList": [
+                        "a new red plastic"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(plastic / new / red) gnome."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He is looking for"
+                },
+                {
+                    "type": "input",
+                    "answer": "a stylish black leather",
+                    "answerList": [
+                        "a stylish black leather"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(black / stylish / leather) bag."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She dropped the beautiful old plate and it smashed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I want an amazing green silk dress."
+                },
+                {
+                    "type": "input",
+                    "answer": "I want an amazing green silk dress",
+                    "answerList": [
+                        "I want an amazing green silk dress"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She drank hot black Italian coffee."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He saw an old French writing desk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They stayed in a cute little cottage."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I visited a spooky old German castle."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has a beautiful old silver ring."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We ate some round green English apples."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I need a comfortable computer desk."
+                }
+            ]
+        }
+    ]
+}

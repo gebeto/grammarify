@@ -1,0 +1,466 @@
+{
+    "title": "Present Perfect Continuous - Positive and Negative",
+    "description": "Make the present perfect continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "has been working",
+                    "answerList": [
+                        "has been working",
+                        "'s been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) here for five years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been studying",
+                    "answerList": [
+                        "'ve been studying",
+                        "have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) all day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been eating",
+                    "answerList": [
+                        "'ve been eating",
+                        "have been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) a lot recently."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been living",
+                    "answerList": [
+                        "'ve been living",
+                        "have been living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London for six months."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "has been playing",
+                    "answerList": [
+                        "has been playing",
+                        "'s been playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) football, so he's tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been learning",
+                    "answerList": [
+                        "'ve been learning",
+                        "have been learning"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) English for two years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been cooking",
+                    "answerList": [
+                        "'ve been cooking",
+                        "have been cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) so I'm really hot."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "has been going",
+                    "answerList": [
+                        "has been going",
+                        "'s been going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema every weekend for years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "has been raining",
+                    "answerList": [
+                        "has been raining",
+                        "'s been raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) the pavement is wet."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been sleeping",
+                    "answerList": [
+                        "'ve been sleeping",
+                        "have been sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) for twelve hours."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been working",
+                    "answerList": [
+                        "haven't been working",
+                        "have not been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been eating",
+                    "answerList": [
+                        "haven't been eating",
+                        "have not been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) well recently."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been exercising",
+                    "answerList": [
+                        "haven't been exercising",
+                        "have not been exercising"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/exercise) enough."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "hasn't been studying",
+                    "answerList": [
+                        "hasn't been studying",
+                        "has not been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been living",
+                    "answerList": [
+                        "haven't been living",
+                        "have not been living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/live) here for very long."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "hasn't been snowing",
+                    "answerList": [
+                        "hasn't been snowing",
+                        "has not been snowing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/snow)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "hasn't been playing",
+                    "answerList": [
+                        "hasn't been playing",
+                        "has not been playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) football for five years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been drinking",
+                    "answerList": [
+                        "haven't been drinking",
+                        "have not been drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) enough water - that's why we feel tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been sleeping",
+                    "answerList": [
+                        "haven't been sleeping",
+                        "have not been sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/sleep) I was reading."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't been watching",
+                    "answerList": [
+                        "haven't been watching",
+                        "have not been watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/watch) TV much recently."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "title": "Reported Statements 5 (Present Perfect)",
+    "description": "Make reported speech from the direct speech. Use 'she said' at the beginning of each. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She has visited Paris three times.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she had visited Paris three times.",
+                    "answerList": [
+                        "She said she had visited Paris three times.",
+                        "She said that she had visited Paris three times."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He has read War and Peace.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said he had read War and Peace.",
+                    "answerList": [
+                        "She said he had read War and Peace.",
+                        "She said that he had read War and Peace."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I haven't seen Julie for ages.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she hadn't seen Julie for ages.",
+                    "answerList": [
+                        "She said she hadn't seen Julie for ages.",
+                        "She said that she hadn't seen Julie for ages."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He hasn't been to school this week.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said he hadn't been to school this week.",
+                    "answerList": [
+                        "She said he hadn't been to school this week.",
+                        "She said that he hadn't been to school this week."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We haven't seen The Lord of the Rings.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they hadn't seen The Lord of the Rings.",
+                    "answerList": [
+                        "She said they hadn't seen The Lord of the Rings.",
+                        "She said that they hadn't seen The Lord of the Rings."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They've eaten in a lot of different restaurants.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they had eaten in a lot of different restaurants.",
+                    "answerList": [
+                        "She said they had eaten in a lot of different restaurants.",
+                        "She said that they had eaten in a lot of different restaurants."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I've never tried skateboarding.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she had never tried skateboarding.",
+                    "answerList": [
+                        "She said she had never tried skateboarding.",
+                        "She said that she had never tried skateboarding."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy has drunk six cups of coffee today.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Lucy had drunk six cups of coffee today.",
+                    "answerList": [
+                        "She said Lucy had drunk six cups of coffee today.",
+                        "She said that Lucy had drunk six cups of coffee today."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Mr Black has written three books.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Mr Black had written three books.",
+                    "answerList": [
+                        "She said Mr Black had written three books.",
+                        "She said that Mr Black had written three books."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"It hasn't rained much this year.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said it hadn't rained much this year.",
+                    "answerList": [
+                        "She said it hadn't rained much this year.",
+                        "She said that it hadn't rained much this year."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She has never swum in the sea.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she had never swum in the sea.",
+                    "answerList": [
+                        "She said she had never swum in the sea.",
+                        "She said that she had never swum in the sea."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He has studied Latin.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said he had studied Latin.",
+                    "answerList": [
+                        "She said he had studied Latin.",
+                        "She said that he had studied Latin."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I've been sick all week.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she had been sick all week.",
+                    "answerList": [
+                        "She said she had been sick all week.",
+                        "She said that she had been sick all week."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Robert has been to China five times.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Robert had been to China five times.",
+                    "answerList": [
+                        "She said Robert had been to China five times.",
+                        "She said that Robert had been to China five times."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I haven't met Richard before.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she hadn't met Richard before.",
+                    "answerList": [
+                        "She said she hadn't met Richard before.",
+                        "She said that she hadn't met Richard before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Julie has never studied music.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Julie had never studied music.",
+                    "answerList": [
+                        "She said Julie had never studied music.",
+                        "She said that Julie had never studied music."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He has eaten too much chocolate.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said he had eaten too much chocolate.",
+                    "answerList": [
+                        "She said he had eaten too much chocolate.",
+                        "She said that he had eaten too much chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We haven't seen the new play.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they hadn't seen the new play.",
+                    "answerList": [
+                        "She said they hadn't seen the new play.",
+                        "She said that they hadn't seen the new play."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I haven't tried the new restaurant yet.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she hadn't tried the new restaurant yet.",
+                    "answerList": [
+                        "She said she hadn't tried the new restaurant yet.",
+                        "She said that she hadn't tried the new restaurant yet."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I've never been to Brazil.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she had never been to Brazil.",
+                    "answerList": [
+                        "She said she had never been to Brazil.",
+                        "She said that she had never been to Brazil."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

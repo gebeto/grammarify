@@ -1,0 +1,446 @@
+{
+    "title": "Gerunds and Infinitives 4",
+    "description": "Put the verb into the gerund or the infinitive:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I couldn't sleep so I tried"
+                },
+                {
+                    "type": "input",
+                    "answer": "drinking",
+                    "answerList": [
+                        "drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) some hot milk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She tried"
+                },
+                {
+                    "type": "input",
+                    "answer": "to reach",
+                    "answerList": [
+                        "to reach"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(reach) the book on the high shelf but she was too small."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They tried"
+                },
+                {
+                    "type": "input",
+                    "answer": "to get",
+                    "answerList": [
+                        "to get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) to the party on time but the bus was delayed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We tried"
+                },
+                {
+                    "type": "input",
+                    "answer": "opening",
+                    "answerList": [
+                        "opening"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(open) the window, but it was so hot outside it didn't help."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He tried"
+                },
+                {
+                    "type": "input",
+                    "answer": "to get",
+                    "answerList": [
+                        "to get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a job in a newspaper firm but they wouldn't hire him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He tried"
+                },
+                {
+                    "type": "input",
+                    "answer": "getting",
+                    "answerList": [
+                        "getting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a job in a newspaper firm but he still wasn't satisfied."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You should stop"
+                },
+                {
+                    "type": "input",
+                    "answer": "smoking",
+                    "answerList": [
+                        "smoking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(smoke), it's not good for your health."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We stopped"
+                },
+                {
+                    "type": "input",
+                    "answer": "studying",
+                    "answerList": [
+                        "studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) because we were tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They will stop"
+                },
+                {
+                    "type": "input",
+                    "answer": "to have",
+                    "answerList": [
+                        "to have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) lunch at twelve."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We stopped"
+                },
+                {
+                    "type": "input",
+                    "answer": "to have",
+                    "answerList": [
+                        "to have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a rest because we were really sleepy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Oh no! I forgot"
+                },
+                {
+                    "type": "input",
+                    "answer": "to buy",
+                    "answerList": [
+                        "to buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) milk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please don't forget"
+                },
+                {
+                    "type": "input",
+                    "answer": "to pick up",
+                    "answerList": [
+                        "to pick up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pick up) some juice on your way home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I forget"
+                },
+                {
+                    "type": "input",
+                    "answer": "locking",
+                    "answerList": [
+                        "locking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lock) the door, but I'm sure I must have locked it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have we studied this before? I've forgotten"
+                },
+                {
+                    "type": "input",
+                    "answer": "learning",
+                    "answerList": [
+                        "learning"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please remember"
+                },
+                {
+                    "type": "input",
+                    "answer": "to bring",
+                    "answerList": [
+                        "to bring"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bring) your homework."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I remember"
+                },
+                {
+                    "type": "input",
+                    "answer": "going",
+                    "answerList": [
+                        "going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the beach as a child."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Finally I remembered"
+                },
+                {
+                    "type": "input",
+                    "answer": "to bring",
+                    "answerList": [
+                        "to bring"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bring) your book! Here it is."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you remember"
+                },
+                {
+                    "type": "input",
+                    "answer": "eating",
+                    "answerList": [
+                        "eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) steak in that little restaurant in Rome?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I regret"
+                },
+                {
+                    "type": "input",
+                    "answer": "to tell",
+                    "answerList": [
+                        "to tell"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tell) you the train has been delayed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I regret"
+                },
+                {
+                    "type": "input",
+                    "answer": "telling",
+                    "answerList": [
+                        "telling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tell) Julie my secret. Now she has told everyone."
+                }
+            ]
+        }
+    ]
+}

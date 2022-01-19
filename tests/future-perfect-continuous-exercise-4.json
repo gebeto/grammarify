@@ -1,0 +1,435 @@
+{
+    "title": "Future Perfect Continuous Mixed Exercise",
+    "description": "Make the future perfect continuous. Choose the positive, negative or question form.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll have been working",
+                    "answerList": [
+                        "'ll have been working",
+                        "will have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) all weekend so I won't be energetic on Sunday night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you have been waiting",
+                    "answerList": [
+                        "will you have been waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you / wait) when you finally get your exam results?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have been eating",
+                    "answerList": [
+                        "won't have been eating",
+                        "will not have been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not / eat) much, so we'll need to make sure she has a good meal when she arrives."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will she have been planning",
+                    "answerList": [
+                        "will she have been planning"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she / plan) to move house when she finally moves?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will she have been waiting",
+                    "answerList": [
+                        "Will she have been waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she / wait) long by the time we get there?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will he have been playing",
+                    "answerList": [
+                        "Will he have been playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he / play) computer games for ten hours when he finally stops?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll have been studying",
+                    "answerList": [
+                        "'ll have been studying",
+                        "will have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) all day, so they'll want to go out in the evening."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have been staying",
+                    "answerList": [
+                        "won't have been staying",
+                        "will not have been staying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not / stay) in the hotel for long when she arrives."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have been walking",
+                    "answerList": [
+                        "won't have been walking",
+                        "will not have been walking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not / walk) when I meet you \u00e2\u20ac\u201c I'll have been cycling."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll have been playing",
+                    "answerList": [
+                        "'ll have been playing",
+                        "will have been playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) squash, so she won't be dressed up."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll have been looking",
+                    "answerList": [
+                        "'ll have been looking",
+                        "will have been looking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(look) at houses for four months next Tuesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have been doing",
+                    "answerList": [
+                        "won't have been doing",
+                        "will not have been doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not / do)this project for long when the inspector arrives."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you have been working",
+                    "answerList": [
+                        "will you have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you / work) on this project when it is finished?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will you have been buying",
+                    "answerList": [
+                        "Will you have been buying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you / buy) clothes when I see you?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't have been doing",
+                    "answerList": [
+                        "won't have been doing",
+                        "will not have been doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not / do) much work, so he'll be happy to start a new project."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will the children have been sleeping",
+                    "answerList": [
+                        "will the children have been sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the children / sleep) in the living room when their new bedroom is ready?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "will he have been training",
+                    "answerList": [
+                        "will he have been training"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he / train) when he enters the competition?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will you have been taking",
+                    "answerList": [
+                        "Will you have been taking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you / take) exams the day we meet?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll have been answering\\will have been answering",
+                    "answerList": [
+                        "'ll have been answering\\will have been answering"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(answer) students' questions all morning, so I'll want a quiet lunch."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Will they have been travelling",
+                    "answerList": [
+                        "Will they have been travelling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they / travel) for long when they arrive?"
+                }
+            ]
+        }
+    ]
+}

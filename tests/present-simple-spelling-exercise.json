@@ -1,0 +1,226 @@
+{
+    "title": "Present Simple Spelling Changes",
+    "description": "Put the verb into the present simple. Be careful about the spelling!",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "plays",
+                    "answerList": [
+                        "plays"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis every Sunday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "buys",
+                    "answerList": [
+                        "buys"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a cup of coffee every morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "studies",
+                    "answerList": [
+                        "studies"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) French at school."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke"
+                },
+                {
+                    "type": "input",
+                    "answer": "tries",
+                    "answerList": [
+                        "tries"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(try) hard to be polite."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "enjoys",
+                    "answerList": [
+                        "enjoys"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(enjoy) going swimming."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "washes",
+                    "answerList": [
+                        "washes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wash) her hair every day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John never"
+                },
+                {
+                    "type": "input",
+                    "answer": "cries",
+                    "answerList": [
+                        "cries"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cry)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My mother always"
+                },
+                {
+                    "type": "input",
+                    "answer": "says",
+                    "answerList": [
+                        "says"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(say) that love is more important than money."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I hope Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "passes",
+                    "answerList": [
+                        "passes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The plane"
+                },
+                {
+                    "type": "input",
+                    "answer": "flies",
+                    "answerList": [
+                        "flies"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fly) low over the airport."
+                }
+            ]
+        }
+    ]
+}

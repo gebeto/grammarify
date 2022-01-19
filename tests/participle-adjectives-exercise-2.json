@@ -1,0 +1,446 @@
+{
+    "title": "Participle Adjectives 2",
+    "description": "Choose the correct adjective:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I am so"
+                },
+                {
+                    "type": "input",
+                    "answer": "relaxed",
+                    "answerList": [
+                        "relaxed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(relaxed / relaxing) that I don't want to move."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I find horror films really"
+                },
+                {
+                    "type": "input",
+                    "answer": "frightening",
+                    "answerList": [
+                        "frightening"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(frightened / frightening) and not at all fun to watch."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sometimes I get really"
+                },
+                {
+                    "type": "input",
+                    "answer": "frustrated",
+                    "answerList": [
+                        "frustrated"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(frustrated / frustrating) when I can't express myself well in English."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We were stopped by a man with a knife who took our money. It was"
+                },
+                {
+                    "type": "input",
+                    "answer": "terrifying",
+                    "answerList": [
+                        "terrifying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(terrified / terrifying)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The programme was really"
+                },
+                {
+                    "type": "input",
+                    "answer": "interesting",
+                    "answerList": [
+                        "interesting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(interested / interesting)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She was"
+                },
+                {
+                    "type": "input",
+                    "answer": "overwhelmed",
+                    "answerList": [
+                        "overwhelmed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(overwhelmed / over whelming) when everyone cheered and we gave her presents."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I feel stressed, I find taking a bath is often"
+                },
+                {
+                    "type": "input",
+                    "answer": "relaxing",
+                    "answerList": [
+                        "relaxing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(relaxed / relaxing)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm really"
+                },
+                {
+                    "type": "input",
+                    "answer": "tired",
+                    "answerList": [
+                        "tired"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tired / tiring) . I think I'll go to bed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's very"
+                },
+                {
+                    "type": "input",
+                    "answer": "interested",
+                    "answerList": [
+                        "interested"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(interested / interesting) in history."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The trip was"
+                },
+                {
+                    "type": "input",
+                    "answer": "overwhelming",
+                    "answerList": [
+                        "overwhelming"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(overwhelmed / overwhelming), with so many things to do and it was all so new."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She is never"
+                },
+                {
+                    "type": "input",
+                    "answer": "satisfied",
+                    "answerList": [
+                        "satisfied"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(satisfied / satisfying) with her work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Cleaning is so"
+                },
+                {
+                    "type": "input",
+                    "answer": "tiring",
+                    "answerList": [
+                        "tiring"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tired / tiring) ! I think I'll have a rest."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She thought the ride on the rollercoaster was"
+                },
+                {
+                    "type": "input",
+                    "answer": "thrilling",
+                    "answerList": [
+                        "thrilling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(thrilled / thrilling)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I was really"
+                },
+                {
+                    "type": "input",
+                    "answer": "surprised",
+                    "answerList": [
+                        "surprised"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(surprised / surprising) when I saw you. I had thought you were on holiday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandmother was"
+                },
+                {
+                    "type": "input",
+                    "answer": "shocked",
+                    "answerList": [
+                        "shocked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(shocked / shocking) by the man's bad language."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My niece is"
+                },
+                {
+                    "type": "input",
+                    "answer": "terrified",
+                    "answerList": [
+                        "terrified"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(terrified / terrifying) of dogs."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Thank you so much for the prize! I'm"
+                },
+                {
+                    "type": "input",
+                    "answer": "thrilled",
+                    "answerList": [
+                        "thrilled"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(thrilled / thrilling)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My job is very"
+                },
+                {
+                    "type": "input",
+                    "answer": "satisfying",
+                    "answerList": [
+                        "satisfying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(satisfied / satisfying) . I love helping people."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The news was so"
+                },
+                {
+                    "type": "input",
+                    "answer": "shocking",
+                    "answerList": [
+                        "shocking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(shocked / shocking) that she burst into tears."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My exam results were great! It's really"
+                },
+                {
+                    "type": "input",
+                    "answer": "surprising",
+                    "answerList": [
+                        "surprising"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(surprised / surprising) but good, of course."
+                }
+            ]
+        }
+    ]
+}

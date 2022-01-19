@@ -1,0 +1,371 @@
+{
+    "title": "Past Simple 'Be' Mixed Exercise 1",
+    "description": "Make the past simple with 'be' - it could be positive, negative or question",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / be / at the cinema last night)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I was at the cinema last night.",
+                    "answerList": [
+                        "I was at the cinema last night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the children / be / naughty)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were the children naughty?",
+                    "answerList": [
+                        "Were the children naughty?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / in a cafe when you called)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were we in a cafe when you called?",
+                    "answerList": [
+                        "Were we in a cafe when you called?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / be / late)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was I late?",
+                    "answerList": [
+                        "Was I late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / be / a teacher when she was young)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She was a teacher when she was young.",
+                    "answerList": [
+                        "She was a teacher when she was young."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / we / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where were we?",
+                    "answerList": [
+                        "Where were we?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / be / okay)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were you okay?",
+                    "answerList": [
+                        "Were you okay?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / too tired)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We were too tired.",
+                    "answerList": [
+                        "We were too tired."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / the party / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How was the party?",
+                    "answerList": [
+                        "How was the party?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / be / late for the interview)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They were late for the interview.",
+                    "answerList": [
+                        "They were late for the interview."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / be / in the garden)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You were in the garden.",
+                    "answerList": [
+                        "You were in the garden."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / his name / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What was his name?",
+                    "answerList": [
+                        "What was his name?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / not / be / cold)"
+                },
+                {
+                    "type": "input",
+                    "answer": "It wasn't cold.",
+                    "answerList": [
+                        "It wasn't cold.",
+                        "It was not cold."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / be / beautiful)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was she beautiful?",
+                    "answerList": [
+                        "Was she beautiful?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / be my wife at the time)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She wasn't my wife at the time.",
+                    "answerList": [
+                        "She wasn't my wife at the time.",
+                        "She was not my wife at the time."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / be / hungry)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He was hungry.",
+                    "answerList": [
+                        "He was hungry."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / you / be / late)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why were you late?",
+                    "answerList": [
+                        "Why were you late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / be / early)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You weren't early.",
+                    "answerList": [
+                        "You weren't early.",
+                        "You were not early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they not / be / in love)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They weren't in love.",
+                    "answerList": [
+                        "They weren't in love.",
+                        "They were not in love."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / be / in China)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We weren't in China.",
+                    "answerList": [
+                        "We weren't in China.",
+                        "We were not in China."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

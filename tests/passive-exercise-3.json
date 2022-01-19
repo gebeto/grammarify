@@ -1,0 +1,366 @@
+{
+    "title": "Passive 3 (present perfect)",
+    "description": "Make these present perfect sentences passive. You don't need to repeat 'somebody'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has watered the plants."
+                },
+                {
+                    "type": "input",
+                    "answer": "The plants have been watered",
+                    "answerList": [
+                        "The plants have been watered"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has taken the money."
+                },
+                {
+                    "type": "input",
+                    "answer": "The money has been taken",
+                    "answerList": [
+                        "The money has been taken"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has bought the presents."
+                },
+                {
+                    "type": "input",
+                    "answer": "The presents have been bought",
+                    "answerList": [
+                        "The presents have been bought"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has finished the report."
+                },
+                {
+                    "type": "input",
+                    "answer": "The report has been finished",
+                    "answerList": [
+                        "The report has been finished"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has killed the President."
+                },
+                {
+                    "type": "input",
+                    "answer": "The President has been killed",
+                    "answerList": [
+                        "The President has been killed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has repaired the road."
+                },
+                {
+                    "type": "input",
+                    "answer": "The road has been repaired",
+                    "answerList": [
+                        "The road has been repaired"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has elected that man."
+                },
+                {
+                    "type": "input",
+                    "answer": "That man has been elected",
+                    "answerList": [
+                        "That man has been elected"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has learned lessons."
+                },
+                {
+                    "type": "input",
+                    "answer": "Lessons have been learned",
+                    "answerList": [
+                        "Lessons have been learned"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has fired John."
+                },
+                {
+                    "type": "input",
+                    "answer": "John has been fired",
+                    "answerList": [
+                        "John has been fired"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has ordered new books."
+                },
+                {
+                    "type": "input",
+                    "answer": "New books have been ordered",
+                    "answerList": [
+                        "New books have been ordered"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has prepared the meal."
+                },
+                {
+                    "type": "input",
+                    "answer": "The meal has been prepared",
+                    "answerList": [
+                        "The meal has been prepared"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has sent the email."
+                },
+                {
+                    "type": "input",
+                    "answer": "The email has been sent",
+                    "answerList": [
+                        "The email has been sent"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has eaten the strawberries."
+                },
+                {
+                    "type": "input",
+                    "answer": "The strawberries have been eaten",
+                    "answerList": [
+                        "The strawberries have been eaten"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has fixed the heating."
+                },
+                {
+                    "type": "input",
+                    "answer": "The heating has been fixed",
+                    "answerList": [
+                        "The heating has been fixed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has made coffee."
+                },
+                {
+                    "type": "input",
+                    "answer": "Coffee has been made",
+                    "answerList": [
+                        "Coffee has been made"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has turned on the air conditioning."
+                },
+                {
+                    "type": "input",
+                    "answer": "The air conditioning has been turned on",
+                    "answerList": [
+                        "The air conditioning has been turned on"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has downloaded the song."
+                },
+                {
+                    "type": "input",
+                    "answer": "The song has been downloaded",
+                    "answerList": [
+                        "The song has been downloaded"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has rented a flat."
+                },
+                {
+                    "type": "input",
+                    "answer": "A flat has been rented",
+                    "answerList": [
+                        "A flat has been rented"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has booked the holiday."
+                },
+                {
+                    "type": "input",
+                    "answer": "The holiday has been booked",
+                    "answerList": [
+                        "The holiday has been booked"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody has cleaned the kitchen."
+                },
+                {
+                    "type": "input",
+                    "answer": "The kitchen has been cleaned",
+                    "answerList": [
+                        "The kitchen has been cleaned"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

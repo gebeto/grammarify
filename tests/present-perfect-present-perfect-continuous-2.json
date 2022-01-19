@@ -1,0 +1,475 @@
+{
+    "title": "Choose present perfect simple or continuous 2",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't done",
+                    "answerList": [
+                        "haven't done",
+                        "have not done"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/do) the housework yet."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been studying",
+                    "answerList": [
+                        "'ve been studying",
+                        "have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) very hard recently."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s promised",
+                    "answerList": [
+                        "'s promised",
+                        "has promised"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(promise) to help many times."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s cleaned",
+                    "answerList": [
+                        "'s cleaned",
+                        "has cleaned"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the kitchen. Everything is sparkling clean."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s written",
+                    "answerList": [
+                        "'s written",
+                        "has written"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(write) her essay and"
+                },
+                {
+                    "type": "input",
+                    "answer": "has sent",
+                    "answerList": [
+                        "has sent"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(send) it to her professor."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s seen",
+                    "answerList": [
+                        "'s seen",
+                        "has seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) the film 'The King's Speech' about six times."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve painted",
+                    "answerList": [
+                        "'ve painted",
+                        "have painted"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(paint) our living room. I think it looks a lot better."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been taking",
+                    "answerList": [
+                        "'s been taking",
+                        "has been taking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(take) French lessons lately."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "hasn't been raining",
+                    "answerList": [
+                        "hasn't been raining",
+                        "has not been raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/rain) for three hours! Only about one hour."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s already left",
+                    "answerList": [
+                        "'s already left",
+                        "has already left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How many times"
+                },
+                {
+                    "type": "input",
+                    "answer": "have you visited",
+                    "answerList": [
+                        "have you visited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/visit) Scotland?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been calling",
+                    "answerList": [
+                        "'ve been calling",
+                        "have been calling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(call) John for hours and hours and he hasn't answered. I'm really angry with him!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been",
+                    "answerList": [
+                        "'ve been",
+                        "have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in London for three years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve known",
+                    "answerList": [
+                        "'ve known",
+                        "have known"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) James for ages."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's really smelly in here."
+                },
+                {
+                    "type": "input",
+                    "answer": "Has somebody been smoking",
+                    "answerList": [
+                        "Has somebody been smoking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(somebody/smoke)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much petrol"
+                },
+                {
+                    "type": "input",
+                    "answer": "has she bought",
+                    "answerList": [
+                        "has she bought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/buy)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been eating",
+                    "answerList": [
+                        "'s been eating",
+                        "has been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) chocolate all morning, so she feels sick."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been painting",
+                    "answerList": [
+                        "'ve been painting",
+                        "have been painting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(paint) my house all day, but it's not finished yet."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been",
+                    "answerList": [
+                        "'s been",
+                        "has been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) at the office since 6am."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The writer"
+                },
+                {
+                    "type": "input",
+                    "answer": "has deserved",
+                    "answerList": [
+                        "has deserved",
+                        "'s deserved"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(deserve) this award for a long time."
+                }
+            ]
+        }
+    ]
+}

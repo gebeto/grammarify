@@ -1,0 +1,373 @@
+{
+    "title": "Embedded Questions in Statements",
+    "description": "Change the normal question into an embedded question. Start with 'I don't know'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where does she live?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know where she lives",
+                    "answerList": [
+                        "I don't know where she lives"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What arrived in the post?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know what arrived in the post",
+                    "answerList": [
+                        "I don't know what arrived in the post"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How did they have the idea?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know how they had the idea",
+                    "answerList": [
+                        "I don't know how they had the idea"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When is she working?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know when she's working",
+                    "answerList": [
+                        "I don't know when she's working",
+                        "I don't know when she is working"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why did he leave?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know why he left",
+                    "answerList": [
+                        "I don't know why he left"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Has she eaten?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if she's eaten",
+                    "answerList": [
+                        "I don't know if she's eaten",
+                        "I don't know if she has eaten"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have they found a flat?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if they have found a flat",
+                    "answerList": [
+                        "I don't know if they have found a flat",
+                        "I don't know if they've found a flat"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did the teacher go on the training course?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if the teacher went on the training course",
+                    "answerList": [
+                        "I don't know if the teacher went on the training course"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did Julie like school?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if Julie liked school",
+                    "answerList": [
+                        "I don't know if Julie liked school"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Will David get a new job?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if David will get a new job",
+                    "answerList": [
+                        "I don't know if David will get a new job"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Whose socks are those?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know whose socks those are",
+                    "answerList": [
+                        "I don't know whose socks those are"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is the office?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know where the office is",
+                    "answerList": [
+                        "I don't know where the office is"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who drinks coffee?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know who drinks coffee",
+                    "answerList": [
+                        "I don't know who drinks coffee"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How did it happen?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know how it happened",
+                    "answerList": [
+                        "I don't know how it happened"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why will she be sleeping at 7pm?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know why she'll be sleeping at 7pm",
+                    "answerList": [
+                        "I don't know why she'll be sleeping at 7pm",
+                        "I don't know why she will be sleeping at 7pm"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Will I pass the exam?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if I'll pass the exam",
+                    "answerList": [
+                        "I don't know if I'll pass the exam",
+                        "I don't know if I will pass the exam"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does Jenny own a car?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if Jenny owns a car",
+                    "answerList": [
+                        "I don't know if Jenny owns a car"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Had I had dinner before I met Jack?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if I'd had dinner before I met Jack",
+                    "answerList": [
+                        "I don't know if I'd had dinner before I met Jack",
+                        "I don't know if I had had dinner before I met Jack"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is the boss coming today?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if the boss is coming today",
+                    "answerList": [
+                        "I don't know if the boss is coming today"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Has Amanda got a new job?"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't know if Amanda has got a new job",
+                    "answerList": [
+                        "I don't know if Amanda has got a new job",
+                        "I don't know if Amanda's got a new job"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

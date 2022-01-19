@@ -1,0 +1,435 @@
+{
+    "title": "Choose present perfect simple or continuous 3",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Have you bought",
+                    "answerList": [
+                        "Have you bought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/buy) your train ticket yet?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The kitchen is a complete mess! What"
+                },
+                {
+                    "type": "input",
+                    "answer": "have the children been doing",
+                    "answerList": [
+                        "have the children been doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the children/do)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been learning",
+                    "answerList": [
+                        "'s been learning",
+                        "has been learning"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) to drive for six years!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s already had",
+                    "answerList": [
+                        "'s already had",
+                        "has already had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(already/have) lunch, so she'll meet us later."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How much coffee"
+                },
+                {
+                    "type": "input",
+                    "answer": "has she drunk",
+                    "answerList": [
+                        "has she drunk"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/drink) this morning?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Simon"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s written",
+                    "answerList": [
+                        "'s written",
+                        "has written"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(write) three books."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve done",
+                    "answerList": [
+                        "'ve done",
+                        "have done"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(do) everything I needed to do today! Hurray!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "hasn't rained",
+                    "answerList": [
+                        "hasn't rained",
+                        "has not rained"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/rain) all summer, so the garden is dead."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve read",
+                    "answerList": [
+                        "'ve read",
+                        "have read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) your book. Here it is, thank you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s forgotten",
+                    "answerList": [
+                        "'s forgotten",
+                        "has forgotten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(forget) how to get to my house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been working",
+                    "answerList": [
+                        "'ve been working",
+                        "have been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in the garden all day and I need a rest."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David feels great these days. He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been getting",
+                    "answerList": [
+                        "'s been getting",
+                        "has been getting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) up early lately."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve always hated",
+                    "answerList": [
+                        "'ve always hated",
+                        "have always hated"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(always/hate) rush hour traffic."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Recently, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been studying",
+                    "answerList": [
+                        "'ve been studying",
+                        "have been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) a lot. My exams are in a few weeks."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been writing",
+                    "answerList": [
+                        "'ve been writing",
+                        "have been writing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(write) this book for months and months."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve always loved",
+                    "answerList": [
+                        "'ve always loved",
+                        "have always loved"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(always/love) chocolate."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve wanted",
+                    "answerList": [
+                        "'ve wanted",
+                        "have wanted"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(want) to go back to university for a long time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What's that delicious smell?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have you been cooking",
+                    "answerList": [
+                        "Have you been cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/cook)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve watched",
+                    "answerList": [
+                        "'ve watched",
+                        "have watched"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) seven films this week!"
+                }
+            ]
+        }
+    ]
+}

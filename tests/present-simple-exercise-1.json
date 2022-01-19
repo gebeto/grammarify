@@ -1,0 +1,366 @@
+{
+    "title": "Present Simple Positive with other verbs exercise 1",
+    "description": "Make positive present simple sentences",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / go to school every day)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He goes to school every day.",
+                    "answerList": [
+                        "He goes to school every day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / like swimming)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I like swimming.",
+                    "answerList": [
+                        "I like swimming."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / play badminton on Saturdays)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You play badminton on Saturdays.",
+                    "answerList": [
+                        "You play badminton on Saturdays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the class / begin at 9 am)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The class begins at 9 am.",
+                    "answerList": [
+                        "The class begins at 9 am."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / sometimes go to the cinema)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They sometimes go to the cinema.",
+                    "answerList": [
+                        "They sometimes go to the cinema."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / love chocolate)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She loves chocolate.",
+                    "answerList": [
+                        "She loves chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / study French)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We study French.",
+                    "answerList": [
+                        "We study French."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / live in London)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They live in London",
+                    "answerList": [
+                        "They live in London"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / work in a restaurant)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He works in a restaurant.",
+                    "answerList": [
+                        "He works in a restaurant."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / play the guitar)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy plays the guitar.",
+                    "answerList": [
+                        "Lucy plays the guitar."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / cook every day)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We cook every day.",
+                    "answerList": [
+                        "We cook every day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / clean the house at the weekends)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He cleans the house at the weekends.",
+                    "answerList": [
+                        "He cleans the house at the weekends."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / like reading detective stories)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I like reading detective stories.",
+                    "answerList": [
+                        "I like reading detective stories."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / come from France)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You come from France.",
+                    "answerList": [
+                        "You come from France."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John and David / often go to restaurants)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John and David often go to restaurants.",
+                    "answerList": [
+                        "John and David often go to restaurants."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Susie / study English every night)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Susie studies English every night.",
+                    "answerList": [
+                        "Susie studies English every night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the train / leave at 6 pm)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The train leaves at 6 pm.",
+                    "answerList": [
+                        "The train leaves at 6 pm."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / go to the park on Sundays)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We go to the park on Sundays.",
+                    "answerList": [
+                        "We go to the park on Sundays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / like taking photographs)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He likes taking photographs.",
+                    "answerList": [
+                        "He likes taking photographs."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the moon / go round the earth)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The moon goes round the earth.",
+                    "answerList": [
+                        "The moon goes round the earth."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

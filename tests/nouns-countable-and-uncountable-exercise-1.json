@@ -1,0 +1,366 @@
+{
+    "title": "Countable or Uncountable Nouns 1",
+    "description": "Are these nouns usually countable or uncountable? Write 'countable' or 'uncountable' in the box.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Rice"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Chair"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "News"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Job"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Trip"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Pasta"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Information"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Homework"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Essay"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luggage"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Advice"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Cup"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Car"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Research"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "University"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Progress"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Help"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Equipment"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Peace"
+                },
+                {
+                    "type": "input",
+                    "answer": "uncountable",
+                    "answerList": [
+                        "uncountable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "City"
+                },
+                {
+                    "type": "input",
+                    "answer": "countable",
+                    "answerList": [
+                        "countable"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

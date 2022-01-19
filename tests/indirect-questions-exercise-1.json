@@ -1,0 +1,366 @@
+{
+    "title": "Indirect Questions Exercise 1 (Present Simple Tense)",
+    "description": "Change the direct questions into indirect questions. Use 'can you tell me'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where does she play tennis?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me where she plays tennis?",
+                    "answerList": [
+                        "Can you tell me where she plays tennis?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does he live in Paris?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if he lives in Paris?",
+                    "answerList": [
+                        "Can you tell me if he lives in Paris?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is she hungry?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if she is hungry?",
+                    "answerList": [
+                        "Can you tell me if she is hungry?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What is this?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me what this is?",
+                    "answerList": [
+                        "Can you tell me what this is?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do they work in Canada?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if they work in Canada?",
+                    "answerList": [
+                        "Can you tell me if they work in Canada?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When do John and Luke meet?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me when John and Luke meet?",
+                    "answerList": [
+                        "Can you tell me when John and Luke meet?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is he a lawyer?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if he is a lawyer?",
+                    "answerList": [
+                        "Can you tell me if he is a lawyer?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When is the party?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me when the party is?",
+                    "answerList": [
+                        "Can you tell me when the party is?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do they often go out?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if they often go out?",
+                    "answerList": [
+                        "Can you tell me if they often go out?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What does he do at the weekend?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me what he does at the weekend?",
+                    "answerList": [
+                        "Can you tell me what he does at the weekend?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are the children on holiday this week?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if the children are on holiday this week?",
+                    "answerList": [
+                        "Can you tell me if the children are on holiday this week?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is she?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me who she is?",
+                    "answerList": [
+                        "Can you tell me who she is?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why do you like travelling so much?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me why you like travelling so much?",
+                    "answerList": [
+                        "Can you tell me why you like travelling so much?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does Lizzie like ice cream?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if Lizzie likes ice cream?",
+                    "answerList": [
+                        "Can you tell me if Lizzie likes ice cream?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are they from Chile?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if they are from Chile?",
+                    "answerList": [
+                        "Can you tell me if they are from Chile?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is the station?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me where the station is?",
+                    "answerList": [
+                        "Can you tell me where the station is?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where do you study Chinese?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me where you study Chinese?",
+                    "answerList": [
+                        "Can you tell me where you study Chinese?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is the nearest supermarket?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me where the nearest supermarket is?",
+                    "answerList": [
+                        "Can you tell me where the nearest supermarket is?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you drink coffee?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if you drink coffee?",
+                    "answerList": [
+                        "Can you tell me if you drink coffee?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is Richard always late?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Can you tell me if Richard is always late?",
+                    "answerList": [
+                        "Can you tell me if Richard is always late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

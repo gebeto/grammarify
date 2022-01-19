@@ -1,0 +1,366 @@
+{
+    "title": "Passive 2 (past simple)",
+    "description": "Make the passive form with the past simple. You don't need to repeat 'somebody'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody found the key."
+                },
+                {
+                    "type": "input",
+                    "answer": "The key was found",
+                    "answerList": [
+                        "The key was found"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody made mistakes."
+                },
+                {
+                    "type": "input",
+                    "answer": "Mistakes were made",
+                    "answerList": [
+                        "Mistakes were made"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody loved that woman."
+                },
+                {
+                    "type": "input",
+                    "answer": "That woman was loved",
+                    "answerList": [
+                        "That woman was loved"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cleaned the rooms."
+                },
+                {
+                    "type": "input",
+                    "answer": "The rooms were cleaned",
+                    "answerList": [
+                        "The rooms were cleaned"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody fixed the computer."
+                },
+                {
+                    "type": "input",
+                    "answer": "The computer was fixed",
+                    "answerList": [
+                        "The computer was fixed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody built that house."
+                },
+                {
+                    "type": "input",
+                    "answer": "That house was built",
+                    "answerList": [
+                        "That house was built"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody wrote War and Peace."
+                },
+                {
+                    "type": "input",
+                    "answer": "War and Peace was written",
+                    "answerList": [
+                        "War and Peace was written"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody painted The Mona Lisa."
+                },
+                {
+                    "type": "input",
+                    "answer": "The Mona Lisa was painted",
+                    "answerList": [
+                        "The Mona Lisa was painted"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody stole my wallet."
+                },
+                {
+                    "type": "input",
+                    "answer": "My wallet was stolen",
+                    "answerList": [
+                        "My wallet was stolen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody prepared lunch."
+                },
+                {
+                    "type": "input",
+                    "answer": "Lunch was prepared",
+                    "answerList": [
+                        "Lunch was prepared"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody drank a lot of coffee."
+                },
+                {
+                    "type": "input",
+                    "answer": "A lot of coffee was drunk",
+                    "answerList": [
+                        "A lot of coffee was drunk"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody forgot the papers."
+                },
+                {
+                    "type": "input",
+                    "answer": "The papers were forgotten",
+                    "answerList": [
+                        "The papers were forgotten"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody closed the windows."
+                },
+                {
+                    "type": "input",
+                    "answer": "The windows were closed",
+                    "answerList": [
+                        "The windows were closed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody invited Julie and Luke to a party."
+                },
+                {
+                    "type": "input",
+                    "answer": "Julie and Luke were invited to a party",
+                    "answerList": [
+                        "Julie and Luke were invited to a party"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody built a website."
+                },
+                {
+                    "type": "input",
+                    "answer": "A website was built.",
+                    "answerList": [
+                        "A website was built."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody ate all the cakes."
+                },
+                {
+                    "type": "input",
+                    "answer": "All the cakes were eaten",
+                    "answerList": [
+                        "All the cakes were eaten"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody told me to wait."
+                },
+                {
+                    "type": "input",
+                    "answer": "I was told to wait",
+                    "answerList": [
+                        "I was told to wait"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody employed a lot of new waiters."
+                },
+                {
+                    "type": "input",
+                    "answer": "A lot of new waiters were employed",
+                    "answerList": [
+                        "A lot of new waiters were employed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody opened a shop."
+                },
+                {
+                    "type": "input",
+                    "answer": "A shop was opened",
+                    "answerList": [
+                        "A shop was opened"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody lost the letter."
+                },
+                {
+                    "type": "input",
+                    "answer": "The letter was lost",
+                    "answerList": [
+                        "The letter was lost"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

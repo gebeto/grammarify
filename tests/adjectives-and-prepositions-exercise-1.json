@@ -1,0 +1,450 @@
+{
+    "title": "Adjectives and Prepositions Exercise 1",
+    "description": "Put in the correct preposition",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "England is famous"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "its rainy weather."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm very proud"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my daughter, she worked very hard."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He isn't really interested"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "getting married."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke is very pleased"
+                },
+                {
+                    "type": "input",
+                    "answer": "with",
+                    "answerList": [
+                        "with",
+                        "about"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his exam results."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, I'm very bad"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "music."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've been married"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my husband for 10 years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's very excited"
+                },
+                {
+                    "type": "input",
+                    "answer": "about",
+                    "answerList": [
+                        "about"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the party."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie is very different"
+                },
+                {
+                    "type": "input",
+                    "answer": "from",
+                    "answerList": [
+                        "from",
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her sister."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My niece is afraid"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "dogs."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A ball gown is similar"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an evening dress."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What is your town famous"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's great you got that job - you should be proud"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "yourself."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm very excited"
+                },
+                {
+                    "type": "input",
+                    "answer": "about",
+                    "answerList": [
+                        "about"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "buying a new computer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That bike is similar"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "yours."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She is interested"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "jazz."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Are you pleased"
+                },
+                {
+                    "type": "input",
+                    "answer": "with",
+                    "answerList": [
+                        "with",
+                        "about"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your new house?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy is extremely good"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "languages."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is James married"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "English cheese is very different"
+                },
+                {
+                    "type": "input",
+                    "answer": "from",
+                    "answerList": [
+                        "from",
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "French cheese."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He isn't afraid"
+                },
+                {
+                    "type": "input",
+                    "answer": "of",
+                    "answerList": [
+                        "of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "anything."
+                }
+            ]
+        }
+    ]
+}

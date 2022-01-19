@@ -1,0 +1,457 @@
+{
+    "title": "Past Continuous - Positive and Negative",
+    "description": "Make the positive or negative past continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "was sleeping",
+                    "answerList": [
+                        "was sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "were studying",
+                    "answerList": [
+                        "were studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke"
+                },
+                {
+                    "type": "input",
+                    "answer": "was reading",
+                    "answerList": [
+                        "was reading"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "was working",
+                    "answerList": [
+                        "was working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "were eating",
+                    "answerList": [
+                        "were eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) chocolate at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "was playing",
+                    "answerList": [
+                        "was playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "were watching",
+                    "answerList": [
+                        "were watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) TV at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was using",
+                    "answerList": [
+                        "was using"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(use) the internet at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "were cooking",
+                    "answerList": [
+                        "were cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) lunch at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "were travelling",
+                    "answerList": [
+                        "were travelling",
+                        "were travelling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) to London at three o'clock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mrs Brown"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't walking",
+                    "answerList": [
+                        "wasn't walking",
+                        "was not walking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/walk) in the garden when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mr Black"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't working",
+                    "answerList": [
+                        "wasn't working",
+                        "was not working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) in his study when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Miss Jones"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't talking",
+                    "answerList": [
+                        "wasn't talking",
+                        "was not talking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/talk) to Mr. White when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "weren't playing",
+                    "answerList": [
+                        "weren't playing",
+                        "were not playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) cards when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Dr Ford"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't reading",
+                    "answerList": [
+                        "wasn't reading",
+                        "was not reading"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/read) in his room when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mr. and Mrs. Green"
+                },
+                {
+                    "type": "input",
+                    "answer": "weren't eating",
+                    "answerList": [
+                        "weren't eating",
+                        "were not eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) in the dining room when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mr Blue"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't drinking",
+                    "answerList": [
+                        "wasn't drinking",
+                        "was not drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) coffee in the library when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The maid"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't cleaning",
+                    "answerList": [
+                        "wasn't cleaning",
+                        "was not cleaning"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/clean) the bedrooms when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't listening",
+                    "answerList": [
+                        "wasn't listening",
+                        "was not listening"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/listen) to music when the murder happened."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The dogs"
+                },
+                {
+                    "type": "input",
+                    "answer": "weren't playing",
+                    "answerList": [
+                        "weren't playing",
+                        "were not playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/play) outside when the murder happened."
+                }
+            ]
+        }
+    ]
+}

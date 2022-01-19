@@ -1,0 +1,366 @@
+{
+    "title": "So do I Exercise 1",
+    "description": "Imagine you're having a conversation with Jenny. What she says is also true for you. Write 'so --- I' or 'neither ---I', choosing the correct auxiliary verb.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I can't play the piano."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither can I.",
+                    "answerList": [
+                        "Neither can I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: Catherine is English."
+                },
+                {
+                    "type": "input",
+                    "answer": "So am I.",
+                    "answerList": [
+                        "So am I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: She isn't coming to the party."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither am I.",
+                    "answerList": [
+                        "Neither am I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: Lucy will come early tomorrow."
+                },
+                {
+                    "type": "input",
+                    "answer": "So will I.",
+                    "answerList": [
+                        "So will I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I have to study this weekend."
+                },
+                {
+                    "type": "input",
+                    "answer": "So do I.",
+                    "answerList": [
+                        "So do I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: Dan lives in Madrid."
+                },
+                {
+                    "type": "input",
+                    "answer": "So do I.",
+                    "answerList": [
+                        "So do I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: She doesn't have any brothers or sisters."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither do I.",
+                    "answerList": [
+                        "Neither do I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I've been to Mexico."
+                },
+                {
+                    "type": "input",
+                    "answer": "So have I.",
+                    "answerList": [
+                        "So have I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I'm going home now."
+                },
+                {
+                    "type": "input",
+                    "answer": "So am I.",
+                    "answerList": [
+                        "So am I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I didn't pass the exam."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither did I.",
+                    "answerList": [
+                        "Neither did I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: She hasn't brought her laptop."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither have I.",
+                    "answerList": [
+                        "Neither have I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: David is living in Mumbai."
+                },
+                {
+                    "type": "input",
+                    "answer": "So am I.",
+                    "answerList": [
+                        "So am I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I won't have a cake just now."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither will I.",
+                    "answerList": [
+                        "Neither will I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I'm not an engineer."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither am I.",
+                    "answerList": [
+                        "Neither am I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: John went to the lecture yesterday."
+                },
+                {
+                    "type": "input",
+                    "answer": "So did I.",
+                    "answerList": [
+                        "So did I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I'm studying Spanish at the moment."
+                },
+                {
+                    "type": "input",
+                    "answer": "So am I.",
+                    "answerList": [
+                        "So am I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: I'd like a cup of coffee."
+                },
+                {
+                    "type": "input",
+                    "answer": "So would I.",
+                    "answerList": [
+                        "So would I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: John wouldn't drive in the snow."
+                },
+                {
+                    "type": "input",
+                    "answer": "Neither would I.",
+                    "answerList": [
+                        "Neither would I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: Emma can speak French."
+                },
+                {
+                    "type": "input",
+                    "answer": "So can I.",
+                    "answerList": [
+                        "So can I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny: Sarah loves chocolate."
+                },
+                {
+                    "type": "input",
+                    "answer": "So do I.",
+                    "answerList": [
+                        "So do I."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

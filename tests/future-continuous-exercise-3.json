@@ -1,0 +1,447 @@
+{
+    "title": "Future Continuous Questions",
+    "description": "Make future continuous questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will I be sitting",
+                    "answerList": [
+                        "will I be sitting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I/sit) here?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will John be using",
+                    "answerList": [
+                        "will John be using"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(John/use) the computer?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will Jane and Luke be discussing",
+                    "answerList": [
+                        "will Jane and Luke be discussing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Jane and Luke/discuss) the new project?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will we be working",
+                    "answerList": [
+                        "will we be working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/work) hard?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you be talking",
+                    "answerList": [
+                        "will you be talking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/talk) on the telephone?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will she be sending",
+                    "answerList": [
+                        "will she be sending"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/send) an email?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will they be having",
+                    "answerList": [
+                        "will they be having"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/have) a meeting?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will he be eating",
+                    "answerList": [
+                        "will he be eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/eat) lunch?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you be typing",
+                    "answerList": [
+                        "will you be typing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/type)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss comes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "will he be making",
+                    "answerList": [
+                        "will he be making"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/make) coffee?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, where"
+                },
+                {
+                    "type": "input",
+                    "answer": "will I be waiting",
+                    "answerList": [
+                        "will I be waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I/wait)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you be doing",
+                    "answerList": [
+                        "will you be doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, why"
+                },
+                {
+                    "type": "input",
+                    "answer": "will he be studying",
+                    "answerList": [
+                        "will he be studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/study)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, how"
+                },
+                {
+                    "type": "input",
+                    "answer": "will she be travelling",
+                    "answerList": [
+                        "will she be travelling",
+                        "will she be traveling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/travel)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, who"
+                },
+                {
+                    "type": "input",
+                    "answer": "will they be meeting",
+                    "answerList": [
+                        "will they be meeting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/meet)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, where"
+                },
+                {
+                    "type": "input",
+                    "answer": "will we be eating",
+                    "answerList": [
+                        "will we be eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/eat)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "will you be watching",
+                    "answerList": [
+                        "will you be watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/watch)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, why"
+                },
+                {
+                    "type": "input",
+                    "answer": "will he be driving",
+                    "answerList": [
+                        "will he be driving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(he/drive)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "will she be cooking",
+                    "answerList": [
+                        "will she be cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/cook)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 8pm, why"
+                },
+                {
+                    "type": "input",
+                    "answer": "will they be sleeping",
+                    "answerList": [
+                        "will they be sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/sleep)?"
+                }
+            ]
+        }
+    ]
+}

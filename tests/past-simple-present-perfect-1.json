@@ -1,0 +1,468 @@
+{
+    "title": "Choose Past Simple or Present Perfect 1",
+    "description": "Change the verb into the correct form of the past simple or present perfect",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Last night I"
+                },
+                {
+                    "type": "input",
+                    "answer": "lost",
+                    "answerList": [
+                        "lost"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) my keys - I had to call my flatmate to let me in."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve lost",
+                    "answerList": [
+                        "'ve lost",
+                        "have lost"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) my keys - can you help me look for them?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve visited",
+                    "answerList": [
+                        "'ve visited",
+                        "have visited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) Paris three times."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Last year I"
+                },
+                {
+                    "type": "input",
+                    "answer": "visited",
+                    "answerList": [
+                        "visited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) Paris."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "knew",
+                    "answerList": [
+                        "knew"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) my great grandmother for a few years - she died when I was eight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve known",
+                    "answerList": [
+                        "'ve known",
+                        "have known"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) Julie for three years - we still meet once a month."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve played",
+                    "answerList": [
+                        "'ve played",
+                        "have played"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) Hockey since I was a child - I'm pretty good!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "played",
+                    "answerList": [
+                        "played"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) hockey at school but she didn't like it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sorry, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve missed",
+                    "answerList": [
+                        "'ve missed",
+                        "have missed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(miss) the bus - I'm going to be late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "missed",
+                    "answerList": [
+                        "missed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(miss) the bus and then I"
+                },
+                {
+                    "type": "input",
+                    "answer": "missed",
+                    "answerList": [
+                        "missed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(miss) the aeroplane as well!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Last month I"
+                },
+                {
+                    "type": "input",
+                    "answer": "went",
+                    "answerList": [
+                        "went"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Scotland."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm sorry, John isn't here now. He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s gone",
+                    "answerList": [
+                        "'s gone",
+                        "has gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the shops."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "finished",
+                    "answerList": [
+                        "finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) this room last week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve finished",
+                    "answerList": [
+                        "'ve finished",
+                        "have finished"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) my exams finally - I'm so happy!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Yesterday, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "saw",
+                    "answerList": [
+                        "saw"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) all of my friends. It was great."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve seen",
+                    "answerList": [
+                        "'ve seen",
+                        "have seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) Julie three times this week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s lived",
+                    "answerList": [
+                        "'s lived",
+                        "has lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London since 1994."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London when she was a child."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve drunk",
+                    "answerList": [
+                        "'ve drunk",
+                        "have drunk"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) three cups of coffee today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "drank",
+                    "answerList": [
+                        "drank"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) three cups of coffee yesterday."
+                }
+            ]
+        }
+    ]
+}

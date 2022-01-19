@@ -1,0 +1,747 @@
+{
+    "title": "Second Conditional Form",
+    "description": "Make the second conditional",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "were",
+                    "answerList": [
+                        "were"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) you, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d get",
+                    "answerList": [
+                        "'d get",
+                        "would get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a new job."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If he"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was",
+                        "were"
+                    ],
+                    "verb": "be"
+                },
+                {
+                    "type": "text",
+                    "value": "younger, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d travel",
+                    "answerList": [
+                        "'d travel",
+                        "would travel"
+                    ],
+                    "verb": "travel"
+                },
+                {
+                    "type": "text",
+                    "value": "more."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "weren't",
+                    "answerList": [
+                        "weren't",
+                        "were not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) friends, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d be",
+                    "answerList": [
+                        "'d be",
+                        "would be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) angry with you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) enough money, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d buy",
+                    "answerList": [
+                        "'d buy",
+                        "would buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a big house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't",
+                    "answerList": [
+                        "wasn't",
+                        "weren't",
+                        "were not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) always so late, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d be",
+                    "answerList": [
+                        "'d be",
+                        "would be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) promoted."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "won",
+                    "answerList": [
+                        "won"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(win) the lottery, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d travel",
+                    "answerList": [
+                        "'d travel",
+                        "would travel"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) the world."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a better job, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d be",
+                    "answerList": [
+                        "'d be",
+                        "would be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) able to buy a new car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "spoke",
+                    "answerList": [
+                        "spoke"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) perfect English, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d have",
+                    "answerList": [
+                        "'d have",
+                        "would have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a good job."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Mexico, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d speak",
+                    "answerList": [
+                        "'d speak",
+                        "would speak"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) Spanish."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If she"
+                },
+                {
+                    "type": "input",
+                    "answer": "passed",
+                    "answerList": [
+                        "passed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d be",
+                    "answerList": [
+                        "'d be",
+                        "would be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) able to enter university."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d be",
+                    "answerList": [
+                        "'d be",
+                        "would be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) happier if she"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) more friends."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d buy",
+                    "answerList": [
+                        "'d buy",
+                        "would buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a house if we"
+                },
+                {
+                    "type": "input",
+                    "answer": "decided",
+                    "answerList": [
+                        "decided"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(decide) to stay here."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d have",
+                    "answerList": [
+                        "'d have",
+                        "would have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) more money if they"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't buy",
+                    "answerList": [
+                        "didn't buy",
+                        "did not buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/buy) so many clothes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d come",
+                    "answerList": [
+                        "'d come",
+                        "would come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to dinner if we"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d call",
+                    "answerList": [
+                        "'d call",
+                        "would call"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(call) him if she"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) his number."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d go",
+                    "answerList": [
+                        "'d go",
+                        "would go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Spain on holiday if they"
+                },
+                {
+                    "type": "input",
+                    "answer": "liked",
+                    "answerList": [
+                        "liked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(like) hot weather."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d pass",
+                    "answerList": [
+                        "'d pass",
+                        "would pass"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) the exam if she"
+                },
+                {
+                    "type": "input",
+                    "answer": "studied",
+                    "answerList": [
+                        "studied"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) more."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d marry",
+                    "answerList": [
+                        "'d marry",
+                        "would marry"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(marry) someone famous if I"
+                },
+                {
+                    "type": "input",
+                    "answer": "were",
+                    "answerList": [
+                        "were"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a movie star."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't be",
+                    "answerList": [
+                        "wouldn't be",
+                        "would not be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late again if we"
+                },
+                {
+                    "type": "input",
+                    "answer": "bought",
+                    "answerList": [
+                        "bought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a new car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d lose",
+                    "answerList": [
+                        "'d lose",
+                        "would lose"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) weight if you"
+                },
+                {
+                    "type": "input",
+                    "answer": "ate",
+                    "answerList": [
+                        "ate"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) less."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "were",
+                    "answerList": [
+                        "were",
+                        "was"
+                    ],
+                    "verb": "be"
+                },
+                {
+                    "type": "text",
+                    "value": "you, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'d get",
+                    "answerList": [
+                        "'d get",
+                        "would get"
+                    ],
+                    "verb": "get"
+                },
+                {
+                    "type": "text",
+                    "value": "a new job."
+                }
+            ]
+        }
+    ]
+}

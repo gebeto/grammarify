@@ -1,0 +1,446 @@
+{
+    "title": "Gerunds and Infinitives 3",
+    "description": "Put the verb into the gerund or the infinitive",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It appears"
+                },
+                {
+                    "type": "input",
+                    "answer": "to be",
+                    "answerList": [
+                        "to be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) raining."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We intend"
+                },
+                {
+                    "type": "input",
+                    "answer": "to go",
+                    "answerList": [
+                        "to go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the countryside this weekend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I pretended"
+                },
+                {
+                    "type": "input",
+                    "answer": "to be",
+                    "answerList": [
+                        "to be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) sick so I didn't have to go to work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can you imagine"
+                },
+                {
+                    "type": "input",
+                    "answer": "living",
+                    "answerList": [
+                        "living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) without TV?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They tolerate"
+                },
+                {
+                    "type": "input",
+                    "answer": "smoking",
+                    "answerList": [
+                        "smoking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(smoke) but they prefer people not to."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I anticipate"
+                },
+                {
+                    "type": "input",
+                    "answer": "arriving",
+                    "answerList": [
+                        "arriving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) on Tuesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A wedding involves"
+                },
+                {
+                    "type": "input",
+                    "answer": "negotiating",
+                    "answerList": [
+                        "negotiating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(negotiate) with everyone in the family."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He denies"
+                },
+                {
+                    "type": "input",
+                    "answer": "stealing",
+                    "answerList": [
+                        "stealing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(steal) the money."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He claims"
+                },
+                {
+                    "type": "input",
+                    "answer": "to be",
+                    "answerList": [
+                        "to be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a millionaire but I don't believe him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I expect"
+                },
+                {
+                    "type": "input",
+                    "answer": "to be",
+                    "answerList": [
+                        "to be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) there about seven."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julia reported"
+                },
+                {
+                    "type": "input",
+                    "answer": "seeing",
+                    "answerList": [
+                        "seeing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) the boys to the police."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It tends"
+                },
+                {
+                    "type": "input",
+                    "answer": "to rain",
+                    "answerList": [
+                        "to rain"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) a lot in Scotland."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you recall"
+                },
+                {
+                    "type": "input",
+                    "answer": "meeting",
+                    "answerList": [
+                        "meeting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) her at the party last week?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She mentioned"
+                },
+                {
+                    "type": "input",
+                    "answer": "going",
+                    "answerList": [
+                        "going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema, but I don't know what she decided to do in the end."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teenager refused"
+                },
+                {
+                    "type": "input",
+                    "answer": "to go",
+                    "answerList": [
+                        "to go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) on holiday with his parents."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I understand"
+                },
+                {
+                    "type": "input",
+                    "answer": "being",
+                    "answerList": [
+                        "being"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late once or twice, but every day is too much!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I would prefer you"
+                },
+                {
+                    "type": "input",
+                    "answer": "to come",
+                    "answerList": [
+                        "to come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) early if you can."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That criminal deserves"
+                },
+                {
+                    "type": "input",
+                    "answer": "to get",
+                    "answerList": [
+                        "to get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a long sentence."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She completed"
+                },
+                {
+                    "type": "input",
+                    "answer": "painting",
+                    "answerList": [
+                        "painting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(paint) her flat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We arranged"
+                },
+                {
+                    "type": "input",
+                    "answer": "to meet",
+                    "answerList": [
+                        "to meet"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) at four but at four thirty she still hadn't arrived."
+                }
+            ]
+        }
+    ]
+}

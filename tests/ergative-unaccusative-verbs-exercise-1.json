@@ -1,0 +1,366 @@
+{
+    "title": "Unaccusative Verbs 1",
+    "description": "Is the sentence correct or wrong? For correct sentences, write -. For wrong sentences, write the correct version. All sentences are past simple.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What was happened?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What happened",
+                    "answerList": [
+                        "What happened"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The mountain vanished."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The fog appeared."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The building destroyed."
+                },
+                {
+                    "type": "input",
+                    "answer": "The building was destroyed.",
+                    "answerList": [
+                        "The building was destroyed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The flowers were died."
+                },
+                {
+                    "type": "input",
+                    "answer": "The flowers died.",
+                    "answerList": [
+                        "The flowers died."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The dirt was disappeared."
+                },
+                {
+                    "type": "input",
+                    "answer": "The dirt disappeared.",
+                    "answerList": [
+                        "The dirt disappeared."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The answer emerged."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The door opened."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The train was arrived."
+                },
+                {
+                    "type": "input",
+                    "answer": "The train arrived.",
+                    "answerList": [
+                        "The train arrived."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The film started."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The window was closed."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The toy was broken."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Interest rates were lowered."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The house built."
+                },
+                {
+                    "type": "input",
+                    "answer": "The house was built.",
+                    "answerList": [
+                        "The house was built."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The ice melted."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The river froze."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cake was risen."
+                },
+                {
+                    "type": "input",
+                    "answer": "The cake rose.",
+                    "answerList": [
+                        "The cake rose."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The events were occurred."
+                },
+                {
+                    "type": "input",
+                    "answer": "The events occurred.",
+                    "answerList": [
+                        "The events occurred."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The vase fell."
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The tower demolished."
+                },
+                {
+                    "type": "input",
+                    "answer": "The tower was demolished.",
+                    "answerList": [
+                        "The tower was demolished."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

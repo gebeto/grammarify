@@ -1,0 +1,348 @@
+{
+    "title": "Indirect Questions Exercise 3 (Modal Verbs)",
+    "description": "Change the direct questions into indirect questions. Use 'could you tell me'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can she swim?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if she can swim?",
+                    "answerList": [
+                        "Could you tell me if she can swim?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When can they come?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me when they can come?",
+                    "answerList": [
+                        "Could you tell me when they can come?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Ought I to work tomorrow?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if I ought to work tomorrow?",
+                    "answerList": [
+                        "Could you tell me if I ought to work tomorrow?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why must she leave?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me why she must leave?",
+                    "answerList": [
+                        "Could you tell me why she must leave?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Must he cook tonight?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if he must cook tonight?",
+                    "answerList": [
+                        "Could you tell me if he must cook tonight?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why should I leave early?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me why I should leave early?",
+                    "answerList": [
+                        "Could you tell me why I should leave early?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How well can she swim?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me how well she can swim?",
+                    "answerList": [
+                        "Could you tell me how well she can swim?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why ought he to become a doctor?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me why he ought to become a doctor?",
+                    "answerList": [
+                        "Could you tell me why he ought to become a doctor?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can he work on Monday?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if he can work on Monday?",
+                    "answerList": [
+                        "Could you tell me if he can work on Monday?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why can't they leave now?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me why they can't leave now?",
+                    "answerList": [
+                        "Could you tell me why they can't leave now?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Should he get there before 7?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if he should get there before 7?",
+                    "answerList": [
+                        "Could you tell me if he should get there before 7?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When should we go?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me when we should go?",
+                    "answerList": [
+                        "Could you tell me when we should go?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can he come to the restaurant?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if he can come to the restaurant?",
+                    "answerList": [
+                        "Could you tell me if he can come to the restaurant?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Must she leave?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if she must leave?",
+                    "answerList": [
+                        "Could you tell me if she must leave?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What can't we bring onto the plane?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me what we can't bring onto the plane?",
+                    "answerList": [
+                        "Could you tell me what we can't bring onto the plane?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Should I take this medicine?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if I should take this medicine?",
+                    "answerList": [
+                        "Could you tell me if I should take this medicine?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who ought she to see?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me who she ought to see?",
+                    "answerList": [
+                        "Could you tell me who she ought to see?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can they arrive before 6?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me if they can arrive before 6?",
+                    "answerList": [
+                        "Could you tell me if they can arrive before 6?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When must he meet the boss?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Could you tell me when he must meet the boss?",
+                    "answerList": [
+                        "Could you tell me when he must meet the boss?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "title": "Prepositions after Verbs 1",
+    "description": "Put in the correct preposition",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Stop worrying"
+                },
+                {
+                    "type": "input",
+                    "answer": "about",
+                    "answerList": [
+                        "about"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your exam - everything will be fine."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've waited"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Judy for 30 minutes. I'm going home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Stop talking and concentrate"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Don't forget to pay"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the newspaper."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He explained the computer program"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't know what we'll do at the weekend. It depends"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the weather."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She will arrive"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Beijing at 3pm."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I like to listen"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the radio when I wake up."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He borrowed \u00a320"
+                },
+                {
+                    "type": "input",
+                    "answer": "from",
+                    "answerList": [
+                        "from"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his brother."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who does this coat belong"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She left without paying"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the meal."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was so hot I couldn't concentrate"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my book."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mothers always worry"
+                },
+                {
+                    "type": "input",
+                    "answer": "about",
+                    "answerList": [
+                        "about"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "their children."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please explain the meaning of this word"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your classmates."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm fed up of waiting"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "spring."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That car belongs"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my father."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She listens"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "opera on the tube."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which university you go to depends"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "your exam results."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A lot of people borrow money"
+                },
+                {
+                    "type": "input",
+                    "answer": "from",
+                    "answerList": [
+                        "from"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the bank."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she arrived"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the pub, it was already closed."
+                }
+            ]
+        }
+    ]
+}

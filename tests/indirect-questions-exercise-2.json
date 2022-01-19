@@ -1,0 +1,348 @@
+{
+    "title": "Indirect Questions Exercise 2 (Past Simple Tense)",
+    "description": "Change the direct questions into indirect questions. Use 'do you know'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did she go out last night?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if she went out last night?",
+                    "answerList": [
+                        "Do you know if she went out last night?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where did she meet her brother?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know where she met her brother?",
+                    "answerList": [
+                        "Do you know where she met her brother?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How was the film?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know how the film was?",
+                    "answerList": [
+                        "Do you know how the film was?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Was David the first to arrive?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if David was the first to arrive?",
+                    "answerList": [
+                        "Do you know if David was the first to arrive?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did Lucy work at home yesterday?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if Lucy worked at home yesterday?",
+                    "answerList": [
+                        "Do you know if Lucy worked at home yesterday?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What was the problem?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know what the problem was?",
+                    "answerList": [
+                        "Do you know what the problem was?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who did we see at the party?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know who we saw at the party?",
+                    "answerList": [
+                        "Do you know who we saw at the party?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did Zac call his mum yesterday?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if Zac called his mum yesterday?",
+                    "answerList": [
+                        "Do you know if Zac called his mum yesterday?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Were they at the beach?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if they were at the beach?",
+                    "answerList": [
+                        "Do you know if they were at the beach?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where was the class?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know where the class was?",
+                    "answerList": [
+                        "Do you know where the class was?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why did they arrive so late?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know why they arrived so late?",
+                    "answerList": [
+                        "Do you know why they arrived so late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Was she at home yesterday?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if she was at home yesterday?",
+                    "answerList": [
+                        "Do you know if she was at home yesterday?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How did she do it?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know how she did it?",
+                    "answerList": [
+                        "Do you know how she did it?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Were they in the garden?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if they were in the garden?",
+                    "answerList": [
+                        "Do you know if they were in the garden?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did they arrive late?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if they arrived late?",
+                    "answerList": [
+                        "Do you know if they arrived late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did John finish the report?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if John finished the report?",
+                    "answerList": [
+                        "Do you know if John finished the report?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Were we late for the meeting?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know if we were late for the meeting?",
+                    "answerList": [
+                        "Do you know if we were late for the meeting?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What did they do at the weekend?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know what they did at the weekend?",
+                    "answerList": [
+                        "Do you know what they did at the weekend?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why was she so early?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you know why she was so early?",
+                    "answerList": [
+                        "Do you know why she was so early?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

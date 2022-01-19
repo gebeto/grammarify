@@ -1,0 +1,446 @@
+{
+    "title": "Modals of Probability 1",
+    "description": "Put in 'must + infinitive' or 'must + have + past participle':",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Keiko always does really well on exams. She"
+                },
+                {
+                    "type": "input",
+                    "answer": "must study",
+                    "answerList": [
+                        "must study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) a lot."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That woman drives a very expensive car. She"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have",
+                    "answerList": [
+                        "must have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a lot of money."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have practised",
+                    "answerList": [
+                        "must have practised"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(practise) a lot before you gave your speech. It was really good."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When Lizzie got home yesterday there were flowers on the table. Her husband"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have bought",
+                    "answerList": [
+                        "must have bought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) them."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where is my purse? I saw it earlier, so it"
+                },
+                {
+                    "type": "input",
+                    "answer": "must be",
+                    "answerList": [
+                        "must be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in this room."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sarah couldn't find her glasses. She thought she"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have left",
+                    "answerList": [
+                        "must have left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) them at her office."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "must be",
+                    "answerList": [
+                        "must be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold outside. That man in the street is wearing a coat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "All my plants"
+                },
+                {
+                    "type": "input",
+                    "answer": "must be",
+                    "answerList": [
+                        "must be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) dead! I forgot to water them before I went on holiday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Susie is so late! She"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have missed",
+                    "answerList": [
+                        "must have missed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(miss) the train!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's rubbish all over my garden! A fox"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have been",
+                    "answerList": [
+                        "must have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in the bin."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Anna has a huge library in her house. She"
+                },
+                {
+                    "type": "input",
+                    "answer": "must love",
+                    "answerList": [
+                        "must love"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(love) books."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Oh no, I don't have my keys! I"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have left",
+                    "answerList": [
+                        "must have left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) them in the taxi."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When Lucy got home, she found the ice cream had melted. It"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have been",
+                    "answerList": [
+                        "must have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) too hot in the car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you haven't eaten all day, you"
+                },
+                {
+                    "type": "input",
+                    "answer": "must be",
+                    "answerList": [
+                        "must be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) hungry."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jimmy and Louisa"
+                },
+                {
+                    "type": "input",
+                    "answer": "must be",
+                    "answerList": [
+                        "must be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) very tired. They have a new baby."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have rained",
+                    "answerList": [
+                        "must have rained"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) a lot in the night. There are puddles everywhere."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answer": "must be",
+                    "answerList": [
+                        "must be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) happy. His girlfriend just agreed to marry him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What an amazing kitchen you've got! You"
+                },
+                {
+                    "type": "input",
+                    "answer": "must like",
+                    "answerList": [
+                        "must like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(like) cooking."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have eaten",
+                    "answerList": [
+                        "must have eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) all the biscuits! There are none left."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I got up this morning, the kitchen was spotless. Lily"
+                },
+                {
+                    "type": "input",
+                    "answer": "must have tidied",
+                    "answerList": [
+                        "must have tidied"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tidy) it before she went to bed last night."
+                }
+            ]
+        }
+    ]
+}

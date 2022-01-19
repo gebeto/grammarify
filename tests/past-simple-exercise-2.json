@@ -1,0 +1,366 @@
+{
+    "title": "Past Simple 'Be' Questions",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / be / tired yesterday)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were you tired yesterday?",
+                    "answerList": [
+                        "Were you tired yesterday?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the weather / be / good)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was the weather good?",
+                    "answerList": [
+                        "Was the weather good?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / too noisy)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were we too noisy?",
+                    "answerList": [
+                        "Were we too noisy?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / be / a doctor when he was young)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was he a doctor when he was young?",
+                    "answerList": [
+                        "Was he a doctor when he was young?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / be / in the class last week)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were they in the class last week?",
+                    "answerList": [
+                        "Were they in the class last week?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / be / a good student)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was she a good student?",
+                    "answerList": [
+                        "Was she a good student?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / be / on time)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was I on time?",
+                    "answerList": [
+                        "Was I on time?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie and Lucy / be / at the meeting)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were Julie and Lucy at the meeting?",
+                    "answerList": [
+                        "Were Julie and Lucy at the meeting?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / be / in Paris)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were we in Paris?",
+                    "answerList": [
+                        "Were we in Paris?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where were you?",
+                    "answerList": [
+                        "Where were you?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / that noise / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What was that noise?",
+                    "answerList": [
+                        "What was that noise?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / that man / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who was that man?",
+                    "answerList": [
+                        "Who was that man?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / the weekend / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How was the weekend?",
+                    "answerList": [
+                        "How was the weekend?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / the money / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where was the money?",
+                    "answerList": [
+                        "Where was the money?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / the door open / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why was the door open?",
+                    "answerList": [
+                        "Why was the door open?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / the teacher / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who was the teacher?",
+                    "answerList": [
+                        "Who was the teacher?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / your holiday / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How was your holiday?",
+                    "answerList": [
+                        "How was your holiday?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / the weather like / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What was the weather like?",
+                    "answerList": [
+                        "What was the weather like?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / the children awake / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why were the children awake?",
+                    "answerList": [
+                        "Why were the children awake?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / be / at the party)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was John at the party?",
+                    "answerList": [
+                        "Was John at the party?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

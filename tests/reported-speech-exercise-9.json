@@ -1,0 +1,368 @@
+{
+    "title": "Reported Statements 3 (Past Simple)",
+    "description": "Make reported statements. Remember, with the past simple you can change to the past perfect or keep to the past simple. In this exercise you should change to the past perfect. Start each sentence with 'he told me'. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jane left the party early.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me Jane had left the party early.",
+                    "answerList": [
+                        "He told me Jane had left the party early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't go out at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he hadn't gone out at the weekend.",
+                    "answerList": [
+                        "He told me he hadn't gone out at the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He didn't like chocolate as a child.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he hadn't liked chocolate as a child.",
+                    "answerList": [
+                        "He told me he hadn't liked chocolate as a child."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They visited Japan.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they had visited Japan.",
+                    "answerList": [
+                        "He told me they had visited Japan."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She didn't buy the dress.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me she hadn't bought the dress.",
+                    "answerList": [
+                        "He told me she hadn't bought the dress."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I travelled through India and Pakistan.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he had travelled through India and Pakistan.",
+                    "answerList": [
+                        "He told me he had travelled through India and Pakistan."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He met his girlfriend in a caf\u00e9.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he had met his girlfriend in a caf\u00e9.",
+                    "answerList": [
+                        "He told me he had met his girlfriend in a caf\u00e9."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"David didn't arrive until 10 o'clock.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me David hadn't arrived until 10 o'clock.",
+                    "answerList": [
+                        "He told me David hadn't arrived until 10 o'clock."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went to the park to have a picnic.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they had gone to the park to have a picnic.",
+                    "answerList": [
+                        "He told me they had gone to the park to have a picnic."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We ate Chinese food, then we walked home.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they had eaten Chinese food, then they walked home.",
+                    "answerList": [
+                        "He told me they had eaten Chinese food, then they walked home."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She forgot to bring the CDs.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me she had forgotten to bring the CDs.",
+                    "answerList": [
+                        "He told me she had forgotten to bring the CDs."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't like the food in the restaurant.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he hadn't liked the food in the restaurant.",
+                    "answerList": [
+                        "He told me he hadn't liked the food in the restaurant."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He didn't take a shower.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he hadn't taken a shower.",
+                    "answerList": [
+                        "He told me he hadn't taken a shower."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I worked until six.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he had worked until six.",
+                    "answerList": [
+                        "He told me he had worked until six."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went to Paris for the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me they had gone to Paris for the weekend.",
+                    "answerList": [
+                        "He told me they had gone to Paris for the weekend.",
+                        "He told me they had been to Paris for the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"The plane left at seven.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me the plane had left at seven.",
+                    "answerList": [
+                        "He told me the plane had left at seven."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I came to London in 2004.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he had come to London in 2004.",
+                    "answerList": [
+                        "He told me he had come to London in 2004."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy didn't go to university.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me Lucy hadn't gone to university.",
+                    "answerList": [
+                        "He told me Lucy hadn't gone to university.",
+                        "He told me Lucy hadn't been to university."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John never studied German.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me John had never studied  German.",
+                    "answerList": [
+                        "He told me John had never studied  German."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I went to the cinema yesterday.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "He told me he had been to the cinema yesterday.",
+                    "answerList": [
+                        "He told me he had been to the cinema yesterday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

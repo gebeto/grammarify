@@ -1,0 +1,186 @@
+{
+    "title": "Inversion 1",
+    "description": "Change the normal sentence into one with inversion. For example: \"We had hardly arrived when Julie burst into the house\" becomes \"Hardly had we arrived when Julie burst into the house\".",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John had never been to such a fantastic restaurant."
+                },
+                {
+                    "type": "input",
+                    "answer": "Never had John been to such a fantastic restaurant.",
+                    "answerList": [
+                        "Never had John been to such a fantastic restaurant."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I in no way want to be associated with this project."
+                },
+                {
+                    "type": "input",
+                    "answer": "In no way do I want to be associated with this project.",
+                    "answerList": [
+                        "In no way do I want to be associated with this project."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They had no sooner eaten dinner than the ceiling crashed onto the dining table."
+                },
+                {
+                    "type": "input",
+                    "answer": "No sooner had they eaten dinner than the ceiling crashed onto the dining table.",
+                    "answerList": [
+                        "No sooner had they eaten dinner than the ceiling crashed onto the dining table."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I had scarcely finished writing my essay when the examiner announced the end of the exam."
+                },
+                {
+                    "type": "input",
+                    "answer": "Scarcely had I finished writing my essay when the examiner announced the end of the exam.",
+                    "answerList": [
+                        "Scarcely had I finished writing my essay when the examiner announced the end of the exam."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I seldom leave my house so early."
+                },
+                {
+                    "type": "input",
+                    "answer": "Seldom do I leave my house so early.",
+                    "answerList": [
+                        "Seldom do I leave my house so early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "People rarely appreciate this musician's talent."
+                },
+                {
+                    "type": "input",
+                    "answer": "Rarely do people appreciate this musician's talent.",
+                    "answerList": [
+                        "Rarely do people appreciate this musician's talent."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We would understand what had happened that night only later."
+                },
+                {
+                    "type": "input",
+                    "answer": "Only later would we understand what had happened that night.",
+                    "answerList": [
+                        "Only later would we understand what had happened that night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They had met such rude people nowhere before."
+                },
+                {
+                    "type": "input",
+                    "answer": "Nowhere had they met such rude people before.",
+                    "answerList": [
+                        "Nowhere had they met such rude people before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He understood little about the situation."
+                },
+                {
+                    "type": "input",
+                    "answer": "Little did he understand about the situation.",
+                    "answerList": [
+                        "Little did he understand about the situation."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children should on no account go on their own."
+                },
+                {
+                    "type": "input",
+                    "answer": "On no account should the children go on their own.",
+                    "answerList": [
+                        "On no account should the children go on their own."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

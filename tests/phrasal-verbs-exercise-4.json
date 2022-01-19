@@ -1,0 +1,674 @@
+{
+    "title": "Phrasal Verbs 4",
+    "description": "Choose the correct phrasal verb: look out / bring in / open up / check out / move on / put out / look around / be caught up / go in / break down / get off / keep up / put down / reach out / go off",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She walked over to the door and"
+                },
+                {
+                    "type": "input",
+                    "answer": "looked out",
+                    "answerList": [
+                        "looked out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(looked at something outside or far away)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Reading"
+                },
+                {
+                    "type": "input",
+                    "answer": "opened up",
+                    "answerList": [
+                        "opened up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(made something be available) a new world for him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, she got"
+                },
+                {
+                    "type": "input",
+                    "answer": "caught up",
+                    "answerList": [
+                        "caught up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(involved in something, often something you don't want to be) at the office so she can't come for dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "bring in",
+                    "answerList": [
+                        "bring in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bring something to a place) the money tomorrow?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "brought in",
+                    "answerList": [
+                        "brought in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(brought something to a place) her baby daughter to meet us."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Quick! Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "go in",
+                    "answerList": [
+                        "go in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(enter) to the shop. It's starting to rain."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please try to"
+                },
+                {
+                    "type": "input",
+                    "answer": "keep up",
+                    "answerList": [
+                        "keep up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(move at the same speed as) with us \u00e2\u20ac\u201c we don't want to lose you in the crowd."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This is our stop. We need to"
+                },
+                {
+                    "type": "input",
+                    "answer": "get off",
+                    "answerList": [
+                        "get off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave a train / bus / plane) the bus here."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Okay, so you need to"
+                },
+                {
+                    "type": "input",
+                    "answer": "get off",
+                    "answerList": [
+                        "get off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave a train / bus / plane) at Green Park and change to the Victoria Line."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He got"
+                },
+                {
+                    "type": "input",
+                    "answer": "caught up",
+                    "answerList": [
+                        "caught up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(involved in something, often something you don't want to be) in the demonstration in the centre of town, so he was late for work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "went off",
+                    "answerList": [
+                        "went off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(went somewhere to do something) to meet Amy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do we have time to"
+                },
+                {
+                    "type": "input",
+                    "answer": "look around",
+                    "answerList": [
+                        "look around"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(look at where you are or walk around it to see what is there)? I'd really like to see your new house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "reached out",
+                    "answerList": [
+                        "reached out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stretched his arm to get something) and grabbed a book from the top shelf."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The doctor"
+                },
+                {
+                    "type": "input",
+                    "answer": "put out",
+                    "answerList": [
+                        "put out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(published or told the public about) a leaflet about how to prevent colds."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Put",
+                    "answerList": [
+                        "Put"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that"
+                },
+                {
+                    "type": "input",
+                    "answer": "down",
+                    "answerList": [
+                        "down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(place something on a table or the floor or similar)! It's dangerous!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What opportunities will"
+                },
+                {
+                    "type": "input",
+                    "answer": "open up",
+                    "answerList": [
+                        "open up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(make something be available) once you have passed this exam?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She spent the morning"
+                },
+                {
+                    "type": "input",
+                    "answer": "looking around",
+                    "answerList": [
+                        "looking around"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(looking at where you are or walking around it to see what is there) the old theatre."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Even though I was studying every night, I couldn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "keep up",
+                    "answerList": [
+                        "keep up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(move at the same speed as) with the rest of the class."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "went in",
+                    "answerList": [
+                        "went in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(entered) to the restaurant and sat down near the window."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answer": "check out",
+                    "answerList": [
+                        "check out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(look at, especially to find new information) my website!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "put down",
+                    "answerList": [
+                        "put down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(place something on a table or the floor or similar) her bag on the table."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The pop group"
+                },
+                {
+                    "type": "input",
+                    "answer": "put out",
+                    "answerList": [
+                        "put out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(published or told the public about) two new albums last year."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "reached out",
+                    "answerList": [
+                        "reached out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stretched her arm to get something) for the ball."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The printer"
+                },
+                {
+                    "type": "input",
+                    "answer": "broke down",
+                    "answerList": [
+                        "broke down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stopped working) so I couldn't print our tickets."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sorry we're so late. Our car"
+                },
+                {
+                    "type": "input",
+                    "answer": "broke down",
+                    "answerList": [
+                        "broke down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stopped working) and we missed the train."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "went off",
+                    "answerList": [
+                        "went off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(went somewhere to do something) to the library."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Enough talking about this! Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "move on",
+                    "answerList": [
+                        "move on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(start talking about or doing something new)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "looked out",
+                    "answerList": [
+                        "looked out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(looked at something outside or far away) of the window at the mountains."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You should"
+                },
+                {
+                    "type": "input",
+                    "answer": "check out",
+                    "answerList": [
+                        "check out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(look at, especially to find new information) the new exhibition at the National Gallery. It's amazing."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Once you've mixed the ingredients,"
+                },
+                {
+                    "type": "input",
+                    "answer": "move on",
+                    "answerList": [
+                        "move on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(start talking about or doing something new) to the next stage."
+                }
+            ]
+        }
+    ]
+}

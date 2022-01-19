@@ -1,0 +1,366 @@
+{
+    "title": "Present Simple 'Be' Wh Questions",
+    "description": "Make a question with 'be'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where / John?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is John?",
+                    "answerList": [
+                        "Where is John?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why / they / hungry?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why are they hungry?",
+                    "answerList": [
+                        "Why are they hungry?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where / we?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where are we?",
+                    "answerList": [
+                        "Where are we?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who / you?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who are you?",
+                    "answerList": [
+                        "Who are you?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why / he / late?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why is he late?",
+                    "answerList": [
+                        "Why is he late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What / this?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What is this?",
+                    "answerList": [
+                        "What is this?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where / Jimmy?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is Jimmy?",
+                    "answerList": [
+                        "Where is Jimmy?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How old / she?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How old is she?",
+                    "answerList": [
+                        "How old is she?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How / you?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How are you?",
+                    "answerList": [
+                        "How are you?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where / the station?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is the station?",
+                    "answerList": [
+                        "Where is the station?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time / it now?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What time is it now?",
+                    "answerList": [
+                        "What time is it now?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where / Pedro / from?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is Pedro from?",
+                    "answerList": [
+                        "Where is Pedro from?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why / they / in the kitchen?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why are they in the kitchen?",
+                    "answerList": [
+                        "Why are they in the kitchen?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How / the food?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How is the food?",
+                    "answerList": [
+                        "How is the food?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long / the journey?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long is the journey?",
+                    "answerList": [
+                        "How long is the journey?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How old / you?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How old are you?",
+                    "answerList": [
+                        "How old are you?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why / I / last?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why am I last?",
+                    "answerList": [
+                        "Why am I last?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time / the concert?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What time is the concert?",
+                    "answerList": [
+                        "What time is the concert?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where / she?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is she?",
+                    "answerList": [
+                        "Where is she?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who / Julie / with?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who is Julie with?",
+                    "answerList": [
+                        "Who is Julie with?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

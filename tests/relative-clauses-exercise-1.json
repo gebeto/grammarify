@@ -1,0 +1,310 @@
+{
+    "title": "Relative Clauses 1",
+    "description": "Add the phrase in brackets to the sentence using 'that' or 'who' and a relative clause: ",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She worked for a man (the man used to be an athlete)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She worked for a man who used to be an athlete",
+                    "answerList": [
+                        "She worked for a man who used to be an athlete",
+                        "She worked for a man that used to be an athlete"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They called a lawyer (the lawyer lived nearby)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They called a lawyer who lived nearby",
+                    "answerList": [
+                        "They called a lawyer who lived nearby",
+                        "They called a lawyer that lived nearby"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent an email to my brother (my brother lives in Australia)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I sent an email to my brother who lives in Australia",
+                    "answerList": [
+                        "I sent an email to my brother who lives in Australia",
+                        "I sent an email to my brother that lives in Australia"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The customer liked the waitress (the waitress was very friendly)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The customer liked the waitress who was very friendly",
+                    "answerList": [
+                        "The customer liked the waitress who was very friendly",
+                        "The customer liked the waitress that was very friendly"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We broke the computer (the computer belonged to my father)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We broke the computer that belonged to my father",
+                    "answerList": [
+                        "We broke the computer that belonged to my father",
+                        "We broke the computer which belonged to my father"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I dropped a glass (the glass was new)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I dropped a glass that was new",
+                    "answerList": [
+                        "I dropped a glass that was new",
+                        "I dropped a glass which was new"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She loves books (the books have happy endings)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She loves books that have happy endings",
+                    "answerList": [
+                        "She loves books that have happy endings",
+                        "She loves books which have happy endings"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They live in a city (the city is in the north of England)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They live in a city that is in the north of England",
+                    "answerList": [
+                        "They live in a city that is in the north of England",
+                        "They live in a city which is in the north of England"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man is in the garden (the man is wearing a blue jumper)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The man who is wearing a blue jumper is in the garden",
+                    "answerList": [
+                        "The man who is wearing a blue jumper is in the garden",
+                        "The man that is wearing a blue jumper is in the garden"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The girl works in a bank (the girl is from India)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The girl who is from India works in a bank",
+                    "answerList": [
+                        "The girl who is from India works in a bank",
+                        "The girl that is from India works in a bank"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My sister has three children (my sister lives in Australia)"
+                },
+                {
+                    "type": "input",
+                    "answer": "My sister who lives in Australia has three children",
+                    "answerList": [
+                        "My sister who lives in Australia has three children",
+                        "My sister that lives in Australia has three children"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The waiter was rude (the waiter was wearing a blue shirt)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The waiter who was wearing a blue shirt was rude",
+                    "answerList": [
+                        "The waiter who was wearing a blue shirt was rude",
+                        "The waiter that was wearing a blue shirt was rude"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The money is in the kitchen (the money belongs to John)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The money that belongs to John is in the kitchen",
+                    "answerList": [
+                        "The money that belongs to John is in the kitchen",
+                        "The money which belongs to John is in the kitchen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The table got broken (the table was my grandmother's)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The table that was my grandmother's got broken",
+                    "answerList": [
+                        "The table that was my grandmother's got broken",
+                        "The table which was my grandmother's got broken"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The television was stolen (the television was bought 20 years ago)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The television that was bought 20 years ago was stolen",
+                    "answerList": [
+                        "The television that was bought 20 years ago was stolen",
+                        "The television which was bought 20 years ago was stolen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The fruit is on the table (the fruit isn't fresh)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The fruit that isn't fresh is on the table.",
+                    "answerList": [
+                        "The fruit that isn't fresh is on the table.",
+                        "The fruit which isn't fresh is on the table."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "title": "Some and Any Exercise 1",
+    "description": "Choose 'some' or 'no article'. If you need 'no article', put -.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can you buy"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "pasta? (I'm thinking of the amount we need for tonight.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We need"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "mushrooms. (I'm not thinking about the amount.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John drinks"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "coffee every morning. (Coffee, not tea.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Add"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "water to the soup if it's too thick. (A certain amount of water.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really want"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tea - could you get me a cup?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We could have"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "rice for dinner. (Rice, not pasta.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I ate"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "bread and two eggs for lunch. (I'm thinking about the amount.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought"
+                },
+                {
+                    "type": "input",
+                    "answer": "some",
+                    "answerList": [
+                        "some"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "new furniture. (A certain amount of furniture.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you get"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "carrots? (I'm not thinking about the amount.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd like"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tea, please! (Tea, not juice or coffee.)"
+                }
+            ]
+        }
+    ]
+}

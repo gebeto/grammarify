@@ -1,0 +1,667 @@
+{
+    "title": "Phrasal Verbs 1",
+    "description": "Put in the correct phrasal verb (choose from the Phrasal Verbs 1 list)",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can you"
+                },
+                {
+                    "type": "input",
+                    "answer": "come up with",
+                    "answerList": [
+                        "come up with"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(think of an idea) a better idea?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "pointed out",
+                    "answerList": [
+                        "pointed out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(showed / mentioned) that the shops would be closed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wish I hadn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "taken on",
+                    "answerList": [
+                        "taken on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(become responsible for) so much work!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "went out",
+                    "answerList": [
+                        "went out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(went to an event) for dinner with my husband last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "came into",
+                    "answerList": [
+                        "came into"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(entered a place where the speaker is) the kitchen and made some tea."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where did you"
+                },
+                {
+                    "type": "input",
+                    "answer": "grow up",
+                    "answerList": [
+                        "grow up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(become an adult)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'd love to"
+                },
+                {
+                    "type": "input",
+                    "answer": "set up",
+                    "answerList": [
+                        "set up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrange / create) my own business."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really want to"
+                },
+                {
+                    "type": "input",
+                    "answer": "get out",
+                    "answerList": [
+                        "get out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave a building) of this office and go for a walk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "As I arrived, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "came out",
+                    "answerList": [
+                        "came out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(appeared from a place) of the door."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "picked up",
+                    "answerList": [
+                        "picked up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(got something from a place) some dinner on the way home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "find out",
+                    "answerList": [
+                        "find out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get information) what time we need to arrive?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I thought the conference was going to be boring, but it"
+                },
+                {
+                    "type": "input",
+                    "answer": "turned out",
+                    "answerList": [
+                        "turned out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(in the end we discovered) to be quite useful."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time did you"
+                },
+                {
+                    "type": "input",
+                    "answer": "come back",
+                    "answerList": [
+                        "come back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(return to a place where the speaker is) last night?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "came out",
+                    "answerList": [
+                        "came out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(appeared from a place) of the cafe and put on her gloves."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A performance"
+                },
+                {
+                    "type": "input",
+                    "answer": "is going on",
+                    "answerList": [
+                        "is going on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(is happening) at the moment."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "got out",
+                    "answerList": [
+                        "got out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(left a car) of the car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "went out",
+                    "answerList": [
+                        "went out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(went to an event) a lot at the weekend, so he's tired today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Can we"
+                },
+                {
+                    "type": "input",
+                    "answer": "set up",
+                    "answerList": [
+                        "set up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrange / create) a meeting next week?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Would anybody like to"
+                },
+                {
+                    "type": "input",
+                    "answer": "take on",
+                    "answerList": [
+                        "take on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(become responsible for) this new client?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "came back",
+                    "answerList": [
+                        "came back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(returned to a place where the speaker is) before I left."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's lovely watching my children"
+                },
+                {
+                    "type": "input",
+                    "answer": "grow up",
+                    "answerList": [
+                        "grow up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(become adults)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "went back",
+                    "answerList": [
+                        "went back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(returned to a place where the speaker is not) to school."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "pointed out",
+                    "answerList": [
+                        "pointed out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(showed / mentioned) the stars to the children."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "went back",
+                    "answerList": [
+                        "went back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(returned to a place where the speaker is not) to Poland last year."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "came up with",
+                    "answerList": [
+                        "came up with"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(thought of an idea) a solution."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answer": "come in!",
+                    "answerList": [
+                        "come in!"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(enter a place where the speaker is)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At the end of the film it"
+                },
+                {
+                    "type": "input",
+                    "answer": "turned out",
+                    "answerList": [
+                        "turned out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(in the end we discovered) that John was a good guy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "pick up",
+                    "answerList": [
+                        "pick up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get someone from a place) Lucy later?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We need to"
+                },
+                {
+                    "type": "input",
+                    "answer": "find out",
+                    "answerList": [
+                        "find out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get information) how much it costs."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s going on",
+                    "answerList": [
+                        "'s going on",
+                        "is going on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "('s happening)?"
+                }
+            ]
+        }
+    ]
+}

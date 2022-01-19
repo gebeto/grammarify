@@ -1,0 +1,435 @@
+{
+    "title": "Choose past simple or present perfect 4",
+    "description": "Choose the past simple or the present perfect tense:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve never been",
+                    "answerList": [
+                        "'ve never been",
+                        "have never been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(never/go) to Vienna."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My great great grandfather"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) five sisters."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Manila for a year when he was a student."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Oh no! I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve lost",
+                    "answerList": [
+                        "'ve lost",
+                        "have lost"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) my wallet!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Have you seen",
+                    "answerList": [
+                        "Have you seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/see) Julie today?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At the weekend, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "played",
+                    "answerList": [
+                        "played"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) football, then they"
+                },
+                {
+                    "type": "input",
+                    "answer": "went",
+                    "answerList": [
+                        "went"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to a restaurant."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve read",
+                    "answerList": [
+                        "'ve read",
+                        "have read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) six books this week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amy"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Portugal when she was young."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "visited",
+                    "answerList": [
+                        "visited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) her grandmother last month."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Vandals"
+                },
+                {
+                    "type": "input",
+                    "answer": "invaded",
+                    "answerList": [
+                        "invaded"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(invade) Rome in the year 455."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s lived",
+                    "answerList": [
+                        "'s lived",
+                        "has lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in seven different countries, so she knows a lot about different cultures."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "went",
+                    "answerList": [
+                        "went"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Ow! I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve cut",
+                    "answerList": [
+                        "'ve cut",
+                        "have cut"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cut) my finger!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Have you seen",
+                    "answerList": [
+                        "Have you seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/see) 'The King's Speech'?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s never understood",
+                    "answerList": [
+                        "'s never understood",
+                        "has never understood"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(never/understand) the present perfect."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "broke",
+                    "answerList": [
+                        "broke"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(break) her leg the day before her exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "saw",
+                    "answerList": [
+                        "saw"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) Oliver yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been",
+                    "answerList": [
+                        "'s been",
+                        "has been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) here all morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "King Henry the Eighth of England"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) six wives."
+                }
+            ]
+        }
+    ]
+}

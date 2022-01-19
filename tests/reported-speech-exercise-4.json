@@ -1,0 +1,371 @@
+{
+    "title": "Reported Speech Mixed Exercise 1",
+    "description": "Make reported speech. Start all your answers with 'she', and use the past simple of 'ask', 'say' or 'tell'. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't do it!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me not to do it.",
+                    "answerList": [
+                        "She told me not to do it."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm leaving tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she was leaving tomorrow.",
+                    "answerList": [
+                        "She said that she was leaving tomorrow.",
+                        "She said that she was leaving the next day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please get me a cup of tea.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to get her a cup of tea.",
+                    "answerList": [
+                        "She asked me to get her a cup of tea."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She got married last year.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she had got married last year.",
+                    "answerList": [
+                        "She said that she had got married last year.",
+                        "She said that she got married last year."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Be quick!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me to be quick.",
+                    "answerList": [
+                        "She told me to be quick."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you explain number four, please?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to explain number four.",
+                    "answerList": [
+                        "She asked me to explain number four."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where do you live?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where I lived.",
+                    "answerList": [
+                        "She asked me where I lived."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went to the cinema and then to a Chinese restaurant.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that they had gone to the cinema and then to a Chinese restaurant.",
+                    "answerList": [
+                        "She said that they had gone to the cinema and then to a Chinese restaurant.",
+                        "She said that they went to the cinema and then to a Chinese restaurant."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll come and help you at twelve.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she would come and help me at twelve.",
+                    "answerList": [
+                        "She said that she would come and help me at twelve."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What are you doing tomorrow?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what I was doing tomorrow.",
+                    "answerList": [
+                        "She asked me what I was doing tomorrow.",
+                        "She asked me what I was doing the next day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't go!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me not to go.",
+                    "answerList": [
+                        "She told me not to go."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you work in London?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I worked in London.",
+                    "answerList": [
+                        "She asked me if I worked in London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you tell me where the post office is?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to tell her where the post office was.",
+                    "answerList": [
+                        "She asked me to tell her where the post office was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Come here!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me to come here.",
+                    "answerList": [
+                        "She told me to come here.",
+                        "She told me to come there."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I've never been to Wales.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she had never been to Wales.",
+                    "answerList": [
+                        "She said that she had never been to Wales."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Have you ever seen The Lord of the Rings?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I had ever seen The Lord of the Rings.",
+                    "answerList": [
+                        "She asked me if I had ever seen The Lord of the Rings."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't like mushrooms.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she didn't like mushrooms.",
+                    "answerList": [
+                        "She said that she didn't like mushrooms."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't be silly!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She told me not to be silly.",
+                    "answerList": [
+                        "She told me not to be silly."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you mind waiting a moment please?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me to wait a moment.",
+                    "answerList": [
+                        "She asked me to wait a moment."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How often do you play sport?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how often I played sport.",
+                    "answerList": [
+                        "She asked me how often I played sport."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

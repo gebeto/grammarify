@@ -1,0 +1,446 @@
+{
+    "title": "Modals of Probability 2",
+    "description": "put in 'must' or 'can't'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why is that man looking around like that? He"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be lost."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That woman"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be a doctor! She looks far too young."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John always fails the tests, even though he's clever. He"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "study enough."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food is really good at that restaurant. They"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "have a great chef."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who's that at the door? It"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be Susie - she'll still be at work now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be John's house. This house has a red door and it's number 24, just like he said."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "have much money or she would buy a new car. Her old one is falling apart."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be at work now, can he? It's nearly midnight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What a lot of lovely flowers you have! You"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "really like gardening."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "drink a lot of coffee. He's finished two packets already this week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be Jamie's coat. He's tall and this is tiny."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Her life"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be easy. She has four children and very little money."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Where's Lucy? She"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be at the library, as she often goes there at this time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This bill"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be right! \u00a350 for two cups of coffee!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Emma's amazingly good at the piano. She"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "practise a lot."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car in front is driving so slowly that I think they"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be looking for something."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You've already eaten enough for three people! You"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "still be hungry!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This book"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "belong to the library. It's certainly not mine."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It only takes three hours to fly from London to Sydney? That"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be correct!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There"
+                },
+                {
+                    "type": "input",
+                    "answer": "must",
+                    "answerList": [
+                        "must"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be something wrong with the fridge! It's making a very unusual noise."
+                }
+            ]
+        }
+    ]
+}

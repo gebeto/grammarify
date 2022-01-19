@@ -1,0 +1,303 @@
+{
+    "title": "Relative Clauses 4",
+    "description": "Add the phrase in brackets to the sentence using a relative clause. If it's possible, you should drop the relative pronoun:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The doctor was sick (I wanted to see the doctor)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The doctor I wanted to see was sick",
+                    "answerList": [
+                        "The doctor I wanted to see was sick"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The accountant was arrested (the accountant works for my father's company)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The accountant that works for my father's company was arrested",
+                    "answerList": [
+                        "The accountant that works for my father's company was arrested",
+                        "The accountant who works for my father's company was arrested"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wrote to the friend (you met the friend last week)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I wrote to the friend you met last week",
+                    "answerList": [
+                        "I wrote to the friend you met last week"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The mobile phone can't be fixed (the mobile phone is broken)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The mobile phone that is broken can't be fixed",
+                    "answerList": [
+                        "The mobile phone that is broken can't be fixed",
+                        "The mobile phone which is broken can't be fixed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John made a copy of the photo (I took the photo)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John made a copy of the photo I took",
+                    "answerList": [
+                        "John made a copy of the photo I took"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I met a girl (the girl was a doctor)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I met a girl that was a doctor",
+                    "answerList": [
+                        "I met a girl that was a doctor",
+                        "I met a girl who was a doctor"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called a doctor (the doctor works at a hospital in London)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We called a doctor that works at a hospital in London",
+                    "answerList": [
+                        "We called a doctor that works at a hospital in London",
+                        "We called a doctor who works at a hospital in London"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We like the actor (the actor was in a famous film)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We like the actor that was in a famous film",
+                    "answerList": [
+                        "We like the actor that was in a famous film",
+                        "We like the actor who was in a famous film"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to the restaurant (I read about the restaurant in the newspaper)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I went to the restaurant I read about in the newspaper",
+                    "answerList": [
+                        "I went to the restaurant I read about in the newspaper"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought a car (her sister liked the car)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She bought a car her sister liked",
+                    "answerList": [
+                        "She bought a car her sister liked"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I often buy cheese (the cheese is imported from Paris)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I often buy cheese that is imported from Paris",
+                    "answerList": [
+                        "I often buy cheese that is imported from Paris",
+                        "I often buy cheese which is imported from Paris"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The hairdresser was very good (the hairdresser has red hair)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The hairdresser that has red hair was very good",
+                    "answerList": [
+                        "The hairdresser that has red hair was very good",
+                        "The hairdresser who has red hair was very good"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The child is playing in the garden (we see the child often)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The child we see often is playing in the garden",
+                    "answerList": [
+                        "The child we see often is playing in the garden"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The nurse is in the office (the nurse treated my grandmother)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The nurse that treated my grandmother is in the office",
+                    "answerList": [
+                        "The nurse that treated my grandmother is in the office",
+                        "The nurse who treated my grandmother is in the office"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car is in the garage (the car broke down)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The car that broke down is in the garage",
+                    "answerList": [
+                        "The car that broke down is in the garage",
+                        "The car which broke down is in the garage"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man was late (Julie invited the man)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The man Julie invited was late",
+                    "answerList": [
+                        "The man Julie invited was late"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

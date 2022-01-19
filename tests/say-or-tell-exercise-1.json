@@ -1,0 +1,446 @@
+{
+    "title": "Say and Tell Exercise 1",
+    "description": "Put in 'said' or 'told'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that she would join us after work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me that she was going running this evening."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us that he couldn't come to the party."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that he had been to the cinema at the weekend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "them she wanted to quit."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that he was going to arrive at eight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that they didn't want to meet us on Tuesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "him I wasn't impressed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Julie that she was leaving on Wednesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that we were going on holiday the following week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jack"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my mother he would be in Spain this week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "that I hated mushrooms."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "she loved chocolate."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "they were meeting Luke today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us they were going to the museum this afternoon."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "he wouldn't start without us."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "them I'd bring pudding."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jonathan"
+                },
+                {
+                    "type": "input",
+                    "answer": "said",
+                    "answerList": [
+                        "said"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it would rain today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us that it was fine to come late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me that I should do some more work on this report."
+                }
+            ]
+        }
+    ]
+}

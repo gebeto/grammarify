@@ -1,0 +1,386 @@
+{
+    "title": "Reported Statements 1",
+    "description": "Change the direct speech into reported speech. Use 'she said' at the beginning of each answer. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He works in a bank.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that he worked in a bank.",
+                    "answerList": [
+                        "She said that he worked in a bank.",
+                        "She said he worked in a bank."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went out last night.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that they had gone out last night.",
+                    "answerList": [
+                        "She said that they had gone out last night.",
+                        "She said they went out last night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm coming!\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she was coming.",
+                    "answerList": [
+                        "She said that she was coming.",
+                        "She said she was coming."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was waiting for the bus when he arrived.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she had been waiting for the bus when he arrived.",
+                    "answerList": [
+                        "She said that she had been waiting for the bus when he arrived.",
+                        "She said she had been waiting for the bus when he arrived."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'd never been there before.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she had never been there before.",
+                    "answerList": [
+                        "She said that she had never been there before.",
+                        "She said she had never been there before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't go to the party.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she hadn't gone to the party.",
+                    "answerList": [
+                        "She said that she hadn't gone to the party.",
+                        "She said that she didn't go to the party."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy will come later.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that Lucy would come later.",
+                    "answerList": [
+                        "She said that Lucy would come later.",
+                        "She said Lucy would come later."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He hasn't eaten breakfast.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that he hadn't eaten breakfast.",
+                    "answerList": [
+                        "She said that he hadn't eaten breakfast.",
+                        "She said he hadn't eaten breakfast."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I can help you tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she could help me tomorrow.",
+                    "answerList": [
+                        "She said that she could help me tomorrow.",
+                        "She said that she could help me the next day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"You should go to bed early.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that I should go to bed early.",
+                    "answerList": [
+                        "She said that I should go to bed early.",
+                        "She said I should go to bed early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't like chocolate.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she didn't like chocolate.",
+                    "answerList": [
+                        "She said that she didn't like chocolate.",
+                        "She said she didn't like chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I won't see you tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she wouldn't see me tomorrow.",
+                    "answerList": [
+                        "She said that she wouldn't see me tomorrow.",
+                        "She said that she wouldn't see me the next day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's living in Paris for a few months.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she was living in Paris for a few months.",
+                    "answerList": [
+                        "She said that she was living in Paris for a few months.",
+                        "She said she was living in Paris for a few months."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I visited my parents at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she had visited her parents at the weekend.",
+                    "answerList": [
+                        "She said that she had visited her parents at the weekend.",
+                        "She said that she visited her parents at the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She hasn't eaten sushi before.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she hadn't eaten sushi before.",
+                    "answerList": [
+                        "She said that she hadn't eaten sushi before.",
+                        "She said she hadn't eaten sushi before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I hadn't travelled by underground before I came to London.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she hadn't travelled by underground before she came to London.",
+                    "answerList": [
+                        "She said that she hadn't travelled by underground before she came to London.",
+                        "She said she hadn't travelled by underground before she came to London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They would help if they could.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that they would help if they could.",
+                    "answerList": [
+                        "She said that they would help if they could.",
+                        "She said they would help if they could."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll do the washing-up later.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she would do the washing-up later.",
+                    "answerList": [
+                        "She said that she would do the washing-up later.",
+                        "She said she would do the washing-up later."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He could read when he was three.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that he could read when he was three.",
+                    "answerList": [
+                        "She said that he could read when he was three.",
+                        "She said he could read when he was three."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was sleeping when Julie called.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she had been sleeping when Julie called.",
+                    "answerList": [
+                        "She said that she had been sleeping when Julie called.",
+                        "She said she had been sleeping when Julie called."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

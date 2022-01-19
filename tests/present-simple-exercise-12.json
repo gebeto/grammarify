@@ -1,0 +1,366 @@
+{
+    "title": "Present Simple 'Be' Yes / No Questions",
+    "description": "Make a question with 'be'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John / in the garden?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is John in the garden?",
+                    "answerList": [
+                        "Is John in the garden?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They / hungry?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they hungry?",
+                    "answerList": [
+                        "Are they hungry?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / late?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are we late?",
+                    "answerList": [
+                        "Are we late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You / tired?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you tired?",
+                    "answerList": [
+                        "Are you tired?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / French??"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is he French?",
+                    "answerList": [
+                        "Is he French?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / a teacher?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she a teacher?",
+                    "answerList": [
+                        "Is she a teacher?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Harry and Lucy / from London?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are Harry and Lucy from London?",
+                    "answerList": [
+                        "Are Harry and Lucy from London?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / early?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Am I early?",
+                    "answerList": [
+                        "Am I early?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You / thirsty?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you thirsty?",
+                    "answerList": [
+                        "Are you thirsty?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / on the bus?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she on the bus?",
+                    "answerList": [
+                        "Is she on the bus?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / on time?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are we on time?",
+                    "answerList": [
+                        "Are we on time??"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Pedro / from Spain?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is Pedro from Spain?",
+                    "answerList": [
+                        "Is Pedro from Spain?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They / in Tokyo?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they in Tokyo?",
+                    "answerList": [
+                        "Are they in Tokyo?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie / at home?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is Julie at home?",
+                    "answerList": [
+                        "Is Julie at home?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children / at school?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are the children at school?",
+                    "answerList": [
+                        "Are the children at school?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You / in a cafe?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you in a cafe?",
+                    "answerList": [
+                        "Are you in a cafe?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / right?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Am I right?",
+                    "answerList": [
+                        "Am I right?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / in the right place?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are we in the right place?",
+                    "answerList": [
+                        "Are we in the right place?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / German?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she German?",
+                    "answerList": [
+                        "Is she German?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / a doctor?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is he a doctor?",
+                    "answerList": [
+                        "Is he a doctor?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,457 @@
+{
+    "title": "Present Simple or Future Simple",
+    "description": "Change the verb into either the present simple or the future simple",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'll call you when I"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrive",
+                    "answerList": [
+                        "arrive"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) at my hotel."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll text",
+                    "answerList": [
+                        "'ll text",
+                        "will text"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(text) you as soon as he's on the bus."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's eat dinner when John"
+                },
+                {
+                    "type": "input",
+                    "answer": "gets",
+                    "answerList": [
+                        "gets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) here."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be",
+                    "answerList": [
+                        "'ll be",
+                        "will be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late tomorrow evening, so I've booked a table at a restaurant for 10pm."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "As soon as I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m",
+                    "answerList": [
+                        "'m",
+                        "am"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) able to, I'm going to get a new job."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please wait here until the nurse"
+                },
+                {
+                    "type": "input",
+                    "answer": "calls",
+                    "answerList": [
+                        "calls"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(call) you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll get",
+                    "answerList": [
+                        "'ll get",
+                        "will get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) up early tomorrow morning and finish the report then."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Before you"
+                },
+                {
+                    "type": "input",
+                    "answer": "leave",
+                    "answerList": [
+                        "leave"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) , please make sure you've locked the door."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll let",
+                    "answerList": [
+                        "'ll let",
+                        "will let"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(let) us know later, when she's ready to leave."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I must clean my kitchen before my mother"
+                },
+                {
+                    "type": "input",
+                    "answer": "gets",
+                    "answerList": [
+                        "gets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) here."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll come",
+                    "answerList": [
+                        "'ll come",
+                        "will come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to meet you at the station next weekend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll wait",
+                    "answerList": [
+                        "'ll wait",
+                        "will wait"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) until you're finished - then we can go."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll study",
+                    "answerList": [
+                        "'ll study",
+                        "will study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) until he knows all the answers."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She thinks that it"
+                },
+                {
+                    "type": "input",
+                    "answer": "will rain",
+                    "answerList": [
+                        "will rain",
+                        "'ll rain"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) next weekend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What do you want to do after the class"
+                },
+                {
+                    "type": "input",
+                    "answer": "finishes",
+                    "answerList": [
+                        "finishes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finish)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think that the Democrats"
+                },
+                {
+                    "type": "input",
+                    "answer": "will win",
+                    "answerList": [
+                        "will win",
+                        "'ll win"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(win) the next election."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jenny will come here after she"
+                },
+                {
+                    "type": "input",
+                    "answer": "finishes",
+                    "answerList": [
+                        "finishes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's going to look for a job as soon as she"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrives",
+                    "answerList": [
+                        "arrives"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) in London."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "will give",
+                    "answerList": [
+                        "will give"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(give) up smoking!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll send",
+                    "answerList": [
+                        "'ll send",
+                        "will send"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(send) me an email before she leaves the office today."
+                }
+            ]
+        }
+    ]
+}

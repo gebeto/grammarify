@@ -1,0 +1,442 @@
+{
+    "title": "Modals of Ability 1",
+    "description": "Put in 'can', 'can't', 'could' or 'couldn't'. If none of these is possible use 'be able to' in the correct tense.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Could",
+                    "answerList": [
+                        "Could"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you swim when you were 10?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "couldn't",
+                    "answerList": [
+                        "couldn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "get to the meeting on time yesterday, because the train was delayed by one hour."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was able to",
+                    "answerList": [
+                        "was able to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "arrive at the party on time, even after missing the train, so he was very pleased."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's amazing, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "can",
+                    "answerList": [
+                        "can"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "speak five languages, including Chinese."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "couldn't",
+                    "answerList": [
+                        "couldn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "drive a car until I was 34. Then I moved to the countryside, so I had to learn.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I looked everywhere for my glasses but I"
+                },
+                {
+                    "type": "input",
+                    "answer": "couldn't",
+                    "answerList": [
+                        "couldn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "find them anywhere."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I searched for your house for ages. luckily I"
+                },
+                {
+                    "type": "input",
+                    "answer": "was able to",
+                    "answerList": [
+                        "was able to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "find it in the end."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's seven years old, but she"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "read yet. Her parents are getting her extra lessons."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I read the book three times, but I"
+                },
+                {
+                    "type": "input",
+                    "answer": "couldn't",
+                    "answerList": [
+                        "couldn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "understand it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "James"
+                },
+                {
+                    "type": "input",
+                    "answer": "could",
+                    "answerList": [
+                        "could"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "speak Japanese when he lived in Japan, but he's forgotten most of it now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "couldn't",
+                    "answerList": [
+                        "couldn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "understand the chapter we had to read for homework. It was so difficult."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "lift this box - it's too heavy! Would you help me?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "make it to our meeting after all. She's stuck in traffic."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "can",
+                    "answerList": [
+                        "can"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "play tennis really well. He's champion of his club."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, I really"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sing at all. No-one in my family is musical either.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the car broke down I was really pleased because I"
+                },
+                {
+                    "type": "input",
+                    "answer": "was able to",
+                    "answerList": [
+                        "was able to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "solve the problem."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julian"
+                },
+                {
+                    "type": "input",
+                    "answer": "could",
+                    "answerList": [
+                        "could"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "play excellent golf when he was only ten."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandmother"
+                },
+                {
+                    "type": "input",
+                    "answer": "couldn't",
+                    "answerList": [
+                        "couldn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "use a computer until last month. Since then she's been taking lessons at the library."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "open this window! I think it's stuck."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Gill"
+                },
+                {
+                    "type": "input",
+                    "answer": "can't",
+                    "answerList": [
+                        "can't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "play the piano. She has never studied it."
+                }
+            ]
+        }
+    ]
+}

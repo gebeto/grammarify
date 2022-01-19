@@ -1,0 +1,386 @@
+{
+    "title": "Present Continuous - Questions 1",
+    "description": "Make the present continuous - 'yes / no' or 'wh' questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / you / go to the cinema)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What time are you going to the cinema?",
+                    "answerList": [
+                        "What time are you going to the cinema?",
+                        "What time are you going to the cinema?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / you / study)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why are you studying?",
+                    "answerList": [
+                        "Why are you studying?",
+                        "Why are you studying"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / you / leave)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When are you leaving?",
+                    "answerList": [
+                        "When are you leaving?",
+                        "When are you leaving"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / smoke)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you smoking?",
+                    "answerList": [
+                        "Are you smoking?",
+                        "Are you smoking"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / play / tennis later)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is he playing tennis later?",
+                    "answerList": [
+                        "Is he playing tennis later?",
+                        "Is he playing tennis later"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / go / shopping at the weekend)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you going shopping at the weekend?",
+                    "answerList": [
+                        "Are you going shopping at the weekend?",
+                        "Are you going shopping at the weekend"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink / wine)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you drinking wine?",
+                    "answerList": [
+                        "Are you drinking wine?",
+                        "Are you drinking wine"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / drink now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What are you drinking now?",
+                    "answerList": [
+                        "What are you drinking now?",
+                        "What are you drinking now"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / think)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What are you thinking?",
+                    "answerList": [
+                        "What are you thinking?",
+                        "What are you thinking"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / work / in an office at the moment?)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she working in an office at the moment?",
+                    "answerList": [
+                        "Is she working in an office at the moment?",
+                        "Is she working in an office at the moment"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / study / Portuguese)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they studying Portuguese?",
+                    "answerList": [
+                        "Are they studying Portuguese?",
+                        "Are they studying Portuguese"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / she/ come)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What time is she coming?",
+                    "answerList": [
+                        "What time is she coming?",
+                        "What time is she coming"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / play tennis tonight)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where are you playing tennis tonight?",
+                    "answerList": [
+                        "Where are you playing tennis tonight?",
+                        "Where are you playing tennis tonight"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / meet / your friends on Friday)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you meeting your friends on Friday?",
+                    "answerList": [
+                        "Are you meeting your friends on Friday?",
+                        "Are you meeting your friends on Friday"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / read / now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you reading now?",
+                    "answerList": [
+                        "Are you reading now?",
+                        "Are you reading now"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / go now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where are you going now?",
+                    "answerList": [
+                        "Where are you going now?",
+                        "Where are you going now"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "what / you / do)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What are you doing?",
+                    "answerList": [
+                        "What are you doing?",
+                        "What are you doing"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / live / in London)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she living in London?",
+                    "answerList": [
+                        "Is she living in London?",
+                        "Is she living in London"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / study now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they studying now?",
+                    "answerList": [
+                        "Are they studying now?",
+                        "Are they studying now"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / eat / cake)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you eating cake?",
+                    "answerList": [
+                        "Are you eating cake?",
+                        "Are you eating cake"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

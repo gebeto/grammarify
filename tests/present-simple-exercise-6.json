@@ -1,0 +1,366 @@
+{
+    "title": "Present Simple 'Wh' Questions",
+    "description": "Make present simple 'wh' questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / go to school)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where do you go to school?",
+                    "answerList": [
+                        "Where do you go to school?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / do)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What do you do?",
+                    "answerList": [
+                        "What do you do?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / John / come from)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where does John come from?",
+                    "answerList": [
+                        "Where does John come from?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / it / take from London to Paris)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long does it take from London to Paris?",
+                    "answerList": [
+                        "How long does it take from London to Paris?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how often / she / go to the cinema)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How often does she go to the cinema?",
+                    "answerList": [
+                        "How often does she go to the cinema?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how many children / you / have)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How many children do you have?",
+                    "answerList": [
+                        "How many children do you have?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / you / get up)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When do you get up?",
+                    "answerList": [
+                        "When do you get up?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how often / you / study English)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How often do you study English?",
+                    "answerList": [
+                        "How often do you study English?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / the film / start)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What time does the film start?",
+                    "answerList": [
+                        "What time does the film start?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / play tennis)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where do you play tennis?",
+                    "answerList": [
+                        "Where do you play tennis?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what sports / Lucy / like)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What sports does Lucy like?",
+                    "answerList": [
+                        "What sports does Lucy like?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / they / get to work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How do they get to work?",
+                    "answerList": [
+                        "How do they get to work?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how often / I / come here)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How often do I come here?",
+                    "answerList": [
+                        "How often do I come here?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / she / live)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where does she live?",
+                    "answerList": [
+                        "Where does she live?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / you / eat so much chocolate)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why do you eat so much chocolate?",
+                    "answerList": [
+                        "Why do you eat so much chocolate?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / this machine / do)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What does this machine do?",
+                    "answerList": [
+                        "What does this machine do?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(who / she / meet on Saturdays)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who does she meet on Saturdays?",
+                    "answerList": [
+                        "Who does she meet on Saturdays?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how many brothers / she / have)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How many brothers does she have?",
+                    "answerList": [
+                        "How many brothers does she have?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how much / this / cost)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How much does this cost?",
+                    "answerList": [
+                        "How much does this cost?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / eat lunch)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where do you eat lunch?",
+                    "answerList": [
+                        "Where do you eat lunch?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

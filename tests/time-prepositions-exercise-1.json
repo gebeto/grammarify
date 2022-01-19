@@ -1,0 +1,530 @@
+{
+    "title": "Prepositions of Time 1",
+    "description": "Put in the correct preposition (choose in / on / at). If no preposition is needed put in -.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy is arriving"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "February the 13th"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "eight o'clock"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The weather is often terrible in London"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "January."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's better to get taxi if you are out alone"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She got married"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "September."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They usually go to the south of France"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the summer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Columbus sailed to the Americas"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the 16th century."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Beatles were popular"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the 1960s."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I graduated from university"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "2001."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His birthday is"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "June."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I usually go to my parents' house"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Christmas. We eat turkey together"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Christmas Day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The train leaves"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tomorrow morning"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "8:00 am."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I love going skiing"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "January."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We met at the restaurant"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "8pm."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The class is"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "9am"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Monday mornings."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I like to drink coffee"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the morning and tea"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the afternoon."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We went out for dinner"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "last Wednesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She left London"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the 4th of March."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I had a party"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my birthday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy went to New York"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "New Year."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We're meeting"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "lunchtime"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "next Tuesday."
+                }
+            ]
+        }
+    ]
+}

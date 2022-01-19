@@ -1,0 +1,371 @@
+{
+    "title": "Present Simple Other Verbs Mixed Exercise 1",
+    "description": "Make the present simple. Choose positive, negative or question.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / drive to work every day)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He drives to work every day.",
+                    "answerList": [
+                        "He drives to work every day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / think you're right)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't think you're right.",
+                    "answerList": [
+                        "I don't think you're right.",
+                        "I do not think you're right."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / have enough time)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do we have enough time?",
+                    "answerList": [
+                        "Do we have enough time?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / eat cereal in the morning)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I eat cereal in the morning.",
+                    "answerList": [
+                        "I eat cereal in the morning."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / write e-mails every day)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do they write e-mails every day?",
+                    "answerList": [
+                        "Do they write e-mails every day?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / watch a lot of TV)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You watch a lot of TV.",
+                    "answerList": [
+                        "You watch a lot of TV."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / read the newspaper)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't read the newspaper.",
+                    "answerList": [
+                        "He doesn't read the newspaper.",
+                        "He does not read the newspaper."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / dance often)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does she dance often?",
+                    "answerList": [
+                        "Does she dance often?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / I / come on Mondays)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where do I come on Mondays?",
+                    "answerList": [
+                        "Where do I come on Mondays?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / do at the weekend)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What do you do at the weekend?",
+                    "answerList": [
+                        "What do you do at the weekend?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / drink much tea)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't drink much tea.",
+                    "answerList": [
+                        "You don't drink much tea.",
+                        "You do not drink much tea."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / he / travel to work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How does he travel to work?",
+                    "answerList": [
+                        "How does he travel to work?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / like vegetables)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't like vegetables.",
+                    "answerList": [
+                        "They don't like vegetables.",
+                        "They do not like vegetables."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / catch a cold every winter)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She catches a cold every winter.",
+                    "answerList": [
+                        "She catches a cold every winter."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / go out often)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do I go out often?",
+                    "answerList": [
+                        "Do I go out often?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / speak English)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you speak English?",
+                    "answerList": [
+                        "Do you speak English?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / take the bus often)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We take the bus often.",
+                    "answerList": [
+                        "We take the bus often."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / walk to school)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't walk to school.",
+                    "answerList": [
+                        "She doesn't walk to school.",
+                        "She does not walk to school."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / buy in the supermarket)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What do you buy in the supermarket?",
+                    "answerList": [
+                        "What do you buy in the supermarket?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / he / carry such a heavy bag)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How does he carry such a heavy bag?",
+                    "answerList": [
+                        "How does he carry such a heavy bag?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

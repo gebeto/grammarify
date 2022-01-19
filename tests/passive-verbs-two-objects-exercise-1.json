@@ -1,0 +1,386 @@
+{
+    "title": "Passive 6 (two objects)",
+    "description": "Change the active sentence into the passive. There are two answers for each question.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John gave a bar of chocolate to Jill (start with 'Jill')."
+                },
+                {
+                    "type": "input",
+                    "answer": "Jill was given a bar of chocolate (by John).",
+                    "answerList": [
+                        "Jill was given a bar of chocolate (by John).",
+                        "A bar of chocolate was given to Jill (by John)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John gave a bar of chocolate to Jill (start with 'a bar of chocolate')."
+                },
+                {
+                    "type": "input",
+                    "answer": "A bar of chocolate was given to Jill (by John).",
+                    "answerList": [
+                        "A bar of chocolate was given to Jill (by John).",
+                        "Jill was given a bar of chocolate (by John)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I lent a pencil to Graham (start with 'Graham')."
+                },
+                {
+                    "type": "input",
+                    "answer": "Graham was lent a pencil (by me).",
+                    "answerList": [
+                        "Graham was lent a pencil (by me).",
+                        "A pencil was lent to Graham (by me)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I lent a pencil to Graham (start with 'a pencil')."
+                },
+                {
+                    "type": "input",
+                    "answer": "A pencil was lent to Graham (by me).",
+                    "answerList": [
+                        "A pencil was lent to Graham (by me).",
+                        "Graham was lent a pencil (by me)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Fiona told the truth to Julian (start with 'Julian')."
+                },
+                {
+                    "type": "input",
+                    "answer": "Julian was told the truth (by Fiona).",
+                    "answerList": [
+                        "Julian was told the truth (by Fiona).",
+                        "The truth was told to Julian (by Fiona)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Fiona told the truth to Julian (start with 'the truth')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The truth was told to Julian (by Fiona).",
+                    "answerList": [
+                        "The truth was told to Julian (by Fiona).",
+                        "Julian was told the truth (by Fiona)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They offered the job to Simon (start with 'Simon')."
+                },
+                {
+                    "type": "input",
+                    "answer": "Simon was offered the job (by them).",
+                    "answerList": [
+                        "Simon was offered the job (by them).",
+                        "The job was offered to Simon (by them)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They offered the job to Simon (start with 'the job')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The job was offered to Simon (by them).",
+                    "answerList": [
+                        "The job was offered to Simon (by them).",
+                        "Simon was offered the job (by them)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss showed the new computer to Anna (start with 'Anna')."
+                },
+                {
+                    "type": "input",
+                    "answer": "Anna was shown the new computer (by the boss).",
+                    "answerList": [
+                        "Anna was shown the new computer (by the boss).",
+                        "The new computer was shown to Anna (by the boss)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss showed the new computer to Anna (start with 'the new computer')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The new computer was shown to Anna (by the boss).",
+                    "answerList": [
+                        "The new computer was shown to Anna (by the boss).",
+                        "Anna was shown the new computer (by the boss)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie taught the grammar to the students (start with 'the students')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The students were taught the grammar (by Julie).",
+                    "answerList": [
+                        "The students were taught the grammar (by Julie).",
+                        "The grammar was taught to the students (by Julie)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie taught the grammar to the students (start with 'the grammar')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The grammar was taught to the students (by Julie).",
+                    "answerList": [
+                        "The grammar was taught to the students (by Julie).",
+                        "The students were taught the grammar (by Julie)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent the email to John (start with 'John')."
+                },
+                {
+                    "type": "input",
+                    "answer": "John was sent the email (by me).",
+                    "answerList": [
+                        "John was sent the email (by me).",
+                        "The email was sent to John (by me)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I sent the email to John (start with 'the email')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The email was sent to John (by me).",
+                    "answerList": [
+                        "The email was sent to John (by me).",
+                        "John was sent the email (by me)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy threw the ball to the child (start with 'the child')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The child was thrown the ball (by Lucy).",
+                    "answerList": [
+                        "The child was thrown the ball (by Lucy).",
+                        "The ball was thrown to the child (by Lucy)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy threw the ball to the child (start with 'the ball')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The ball was thrown to the child (by Lucy).",
+                    "answerList": [
+                        "The ball was thrown to the child (by Lucy).",
+                        "The child was thrown the ball (by Lucy)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sophia sold the car to a doctor (start with 'a doctor')."
+                },
+                {
+                    "type": "input",
+                    "answer": "A doctor was sold the car (by Sophia).",
+                    "answerList": [
+                        "A doctor was sold the car (by Sophia).",
+                        "The car was sold to a doctor (by Sophia)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sophia sold the car to a doctor (start with 'the car')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The car was sold to a doctor (by Sophia).",
+                    "answerList": [
+                        "The car was sold to a doctor (by Sophia).",
+                        "A doctor was sold the car (by Sophia)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I asked the question to David (start with 'David')."
+                },
+                {
+                    "type": "input",
+                    "answer": "David was asked the question (by me).",
+                    "answerList": [
+                        "David was asked the question (by me).",
+                        "The question was asked to David (by me)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I asked the question to David (start with 'the question')."
+                },
+                {
+                    "type": "input",
+                    "answer": "The question was asked to David (by me).",
+                    "answerList": [
+                        "The question was asked to David (by me).",
+                        "David was asked the question (by me)."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

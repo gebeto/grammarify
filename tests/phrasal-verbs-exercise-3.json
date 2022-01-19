@@ -1,0 +1,662 @@
+{
+    "title": "",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Now that Amanda has quit, we really need someone to"
+                },
+                {
+                    "type": "input",
+                    "answer": "take over",
+                    "answerList": [
+                        "take over"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(take control of) that part of the business."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you want to get started on the report, please"
+                },
+                {
+                    "type": "input",
+                    "answer": "go ahead",
+                    "answerList": [
+                        "go ahead"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(begin to do something)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We were talking about the weather and then she"
+                },
+                {
+                    "type": "input",
+                    "answer": "brought up",
+                    "answerList": [
+                        "brought up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(started to talk about) the election."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This project"
+                },
+                {
+                    "type": "input",
+                    "answer": "is taking up",
+                    "answerList": [
+                        "is taking up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(is using a certain amount of space or time) far too much time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The repairs were"
+                },
+                {
+                    "type": "input",
+                    "answer": "carried out",
+                    "answerList": [
+                        "carried out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(done and finished a task or activity) by a carpenter."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John is going to"
+                },
+                {
+                    "type": "input",
+                    "answer": "take over",
+                    "answerList": [
+                        "take over"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(take control of) the project."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why don't you"
+                },
+                {
+                    "type": "input",
+                    "answer": "go ahead",
+                    "answerList": [
+                        "go ahead"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(begin to do something) and have dinner? I'll join you later."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "came down",
+                    "answerList": [
+                        "came down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(moved from a high place to a lower place) the attic with dust in her hair."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "woke up",
+                    "answerList": [
+                        "woke up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from sleeping to being awake) in the middle of the night and I couldn't go back to sleep."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The scientists"
+                },
+                {
+                    "type": "input",
+                    "answer": "carried out",
+                    "answerList": [
+                        "carried out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(did and finished a task or activity) an experiment."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He felt something touch his leg so he"
+                },
+                {
+                    "type": "input",
+                    "answer": "looked down",
+                    "answerList": [
+                        "looked down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(moved his eyes down) and saw a cat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Wake up",
+                    "answerList": [
+                        "Wake up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(change from sleeping to being awake)! We need to go out!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She often"
+                },
+                {
+                    "type": "input",
+                    "answer": "looked back on",
+                    "answerList": [
+                        "looked back on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(thought about something in the past) her time at university."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We used to call each other every week. Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "bring that back",
+                    "answerList": [
+                        "bring that back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(make something return + that) - it was really good."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "pulled her purse out of",
+                    "answerList": [
+                        "pulled her purse out of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(took something out of a container + her purse) her pocket."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Her phone call"
+                },
+                {
+                    "type": "input",
+                    "answer": "took up",
+                    "answerList": [
+                        "took up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(used a certain amount of space or time) the whole evening."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "put up",
+                    "answerList": [
+                        "put up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fix something where it will be seen) a notice to tell people the class has been cancelled."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answer": "come down from",
+                    "answerList": [
+                        "come down from"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(move from a high place to a lower place) that tree! It's not safe!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Her house will probably"
+                },
+                {
+                    "type": "input",
+                    "answer": "go up",
+                    "answerList": [
+                        "go up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(increase) in value."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The stock market"
+                },
+                {
+                    "type": "input",
+                    "answer": "has gone up",
+                    "answerList": [
+                        "has gone up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(has increased) recently."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "looked down",
+                    "answerList": [
+                        "looked down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(moved her eyes down) at her feet and mumbled an answer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "put up",
+                    "answerList": [
+                        "put up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fixed something where it will be seen) some photos of her family next to her bed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answer": "hold up",
+                    "answerList": [
+                        "hold up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(hold something high up so people can see it) the sign so I can read it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He likes to"
+                },
+                {
+                    "type": "input",
+                    "answer": "look back on",
+                    "answerList": [
+                        "look back on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(think about something in the past) his trip round Australia."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "held up",
+                    "answerList": [
+                        "held up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(held something high up so people can see it) the camera."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "brought the conversation back",
+                    "answerList": [
+                        "brought the conversation back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(make something return + the conversation) to the problem."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We walked to the lake, then"
+                },
+                {
+                    "type": "input",
+                    "answer": "turned around",
+                    "answerList": [
+                        "turned around"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(moved to face the other direction) and came back."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "bring up",
+                    "answerList": [
+                        "bring up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(start to talk about) this problem at the meeting, please?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "turned around",
+                    "answerList": [
+                        "turned around"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(moved to face the other direction) and left the room."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He reached into the drawer and"
+                },
+                {
+                    "type": "input",
+                    "answer": "pulled out",
+                    "answerList": [
+                        "pulled out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(took something out of a container) a notebook and pen."
+                }
+            ]
+        }
+    ]
+}

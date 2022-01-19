@@ -1,0 +1,552 @@
+{
+    "title": "Choose Past Simple or Present Perfect 2",
+    "description": "Make the correct form of the past simple or the present perfect",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve seen",
+                    "answerList": [
+                        "'ve seen",
+                        "have seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) three police cars this morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "After he"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) home, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "unpacked",
+                    "answerList": [
+                        "unpacked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(unpack) and"
+                },
+                {
+                    "type": "input",
+                    "answer": "went",
+                    "answerList": [
+                        "went"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to bed early."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A:What's wrong?B: I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve broken",
+                    "answerList": [
+                        "'ve broken",
+                        "have broken"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(break) a glass."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandparents only"
+                },
+                {
+                    "type": "input",
+                    "answer": "knew",
+                    "answerList": [
+                        "knew"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) each other for a few months before they"
+                },
+                {
+                    "type": "input",
+                    "answer": "got",
+                    "answerList": [
+                        "got"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) married."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve been",
+                    "answerList": [
+                        "'ve been",
+                        "have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in London for three years. I love it here."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "saw",
+                    "answerList": [
+                        "saw"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) Julie last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a teacher before he"
+                },
+                {
+                    "type": "input",
+                    "answer": "became",
+                    "answerList": [
+                        "became"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(become) a musician."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When the boss"
+                },
+                {
+                    "type": "input",
+                    "answer": "walked",
+                    "answerList": [
+                        "walked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(walk) into the room we"
+                },
+                {
+                    "type": "input",
+                    "answer": "knew",
+                    "answerList": [
+                        "knew"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) someone was going to get fired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children"
+                },
+                {
+                    "type": "input",
+                    "answer": "broke",
+                    "answerList": [
+                        "broke"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(break) a window in the school last week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "saw",
+                    "answerList": [
+                        "saw"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) that film last year."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s broken",
+                    "answerList": [
+                        "'s broken",
+                        "has broken"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(break) her leg, so she can't come skiing."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s arrived",
+                    "answerList": [
+                        "'s arrived",
+                        "has arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) - come and say hello."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "were",
+                    "answerList": [
+                        "were"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold when they"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jack"
+                },
+                {
+                    "type": "input",
+                    "answer": "broke",
+                    "answerList": [
+                        "broke"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(break) his arm when he"
+                },
+                {
+                    "type": "input",
+                    "answer": "fell",
+                    "answerList": [
+                        "fell"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fall) off a horse in 1995."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve known",
+                    "answerList": [
+                        "'ve known",
+                        "have known"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) about the problem for months, but I"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't found",
+                    "answerList": [
+                        "haven't found",
+                        "have not found"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/find) a solution yet."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A:When"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you arrive",
+                    "answerList": [
+                        "did you arrive"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/arrive) B:At 10pm last night?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been",
+                    "answerList": [
+                        "'s been",
+                        "has been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a teacher for ten years, and she still enjoys it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't seen",
+                    "answerList": [
+                        "haven't seen",
+                        "have not seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/see) the sea before."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "have you known",
+                    "answerList": [
+                        "have you known"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/know) Jill? I know you see her often."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A:HelloB:Hi Mum, it's me. I just want to say I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve arrived",
+                    "answerList": [
+                        "'ve arrived",
+                        "have arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) safely and everything is fine."
+                }
+            ]
+        }
+    ]
+}

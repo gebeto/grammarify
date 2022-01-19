@@ -1,0 +1,356 @@
+{
+    "title": "Past Perfect Continuous or Past Simple",
+    "description": "Make the past simple or the past perfect continuous.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been waiting",
+                    "answerList": [
+                        "had been waiting",
+                        "'d been waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) for hours so I was really glad when the bus finally"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) the baby's face so dirty? He"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been eating",
+                    "answerList": [
+                        "had been eating",
+                        "'d been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) chocolate."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "saw",
+                    "answerList": [
+                        "saw"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) John yesterday, but he"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been running",
+                    "answerList": [
+                        "had been running",
+                        "'d been running"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(run) so he was too tired to chat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been raining",
+                    "answerList": [
+                        "had been raining",
+                        "'d been raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) and the pavement"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) covered with puddles."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) it was clear she"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been working",
+                    "answerList": [
+                        "had been working",
+                        "'d been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work). There were papers all over the floor and books everywhere."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been studying",
+                    "answerList": [
+                        "had been studying",
+                        "'d been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) all day so when we"
+                },
+                {
+                    "type": "input",
+                    "answer": "met",
+                    "answerList": [
+                        "met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) they were exhausted."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The boss"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been talking",
+                    "answerList": [
+                        "had been talking",
+                        "'d been talking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(talk) to clients on Skype for hours so she"
+                },
+                {
+                    "type": "input",
+                    "answer": "wanted",
+                    "answerList": [
+                        "wanted"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(want) a break."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been drinking",
+                    "answerList": [
+                        "had been drinking",
+                        "'d been drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) coffee all morning. By lunchtime, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "felt",
+                    "answerList": [
+                        "felt"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(feel) really strange!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been hoping",
+                    "answerList": [
+                        "had been hoping",
+                        "'d been hoping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(hope) for a new car, so she was really pleased when she"
+                },
+                {
+                    "type": "input",
+                    "answer": "got",
+                    "answerList": [
+                        "got"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) one."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been dreaming",
+                    "answerList": [
+                        "had been dreaming",
+                        "'d been dreaming"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(dream) about a holiday in Greece. I couldn't believe it when my husband"
+                },
+                {
+                    "type": "input",
+                    "answer": "booked",
+                    "answerList": [
+                        "booked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(book) one as a surprise!"
+                }
+            ]
+        }
+    ]
+}

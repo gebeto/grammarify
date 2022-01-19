@@ -1,0 +1,366 @@
+{
+    "title": "Present Simple Yes / No Questions",
+    "description": "Make present simple questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / like cake)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you like cake?",
+                    "answerList": [
+                        "Do you like cake?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / live in London)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does she live in London?",
+                    "answerList": [
+                        "Does she live in London?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / hate studying)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do they hate studying?",
+                    "answerList": [
+                        "Do they hate studying?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink tea every morning)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you drink tea every morning?",
+                    "answerList": [
+                        "Do you drink tea every morning?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / smoke)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you smoke?",
+                    "answerList": [
+                        "Do you smoke?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / play tennis on Saturdays)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does he play tennis on Saturdays?",
+                    "answerList": [
+                        "Does he play tennis on Saturdays?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / go shopping at the weekend)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you go shopping at the weekend?",
+                    "answerList": [
+                        "Do you go shopping at the weekend?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink alcohol)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you drink alcohol?",
+                    "answerList": [
+                        "Do you drink alcohol?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / work in an office?)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does she work in an office?",
+                    "answerList": [
+                        "Does she work in an office?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / study French?)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do they study French??",
+                    "answerList": [
+                        "Do they study French??"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / meet your friends on Fridays?)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you meet your friends on Fridays?",
+                    "answerList": [
+                        "Do you meet your friends on Fridays?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / read a lot?)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you read a lot?",
+                    "answerList": [
+                        "Do you read a lot?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / come from New Zealand)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does John come from New Zealand?",
+                    "answerList": [
+                        "Does John come from New Zealand?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / like pizza)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do they like pizza?",
+                    "answerList": [
+                        "Do they like pizza?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / arrive at 9 pm)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do we arrive at 9 pm?",
+                    "answerList": [
+                        "Do we arrive at 9 pm?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / snow here in winter)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does it snow here in winter?",
+                    "answerList": [
+                        "Does it snow here in winter?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / study History)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does Lucy study History?",
+                    "answerList": [
+                        "Does Lucy study History?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / work as a teacher)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do I work as a teacher?",
+                    "answerList": [
+                        "Do I work as a teacher?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / eat rice often)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does he eat rice often?",
+                    "answerList": [
+                        "Does he eat rice often?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / like coffee)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you like coffee?",
+                    "answerList": [
+                        "Do you like coffee?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

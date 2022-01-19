@@ -1,0 +1,375 @@
+{
+    "title": "Present Continuous - Mixed Exercise 2",
+    "description": "Make the present continuous - positive, negative or question",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / go to the cinema later)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're going to the cinema later.",
+                    "answerList": [
+                        "We're going to the cinema later.",
+                        "We are going to the cinema later."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / work now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're working now.",
+                    "answerList": [
+                        "They're working now.",
+                        "They are working now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / walk)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You aren't walking.",
+                    "answerList": [
+                        "You aren't walking.",
+                        "You are not walking."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / learn new things)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they learning new things?",
+                    "answerList": [
+                        "Are they learning new things?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / he / start work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When is he starting work?",
+                    "answerList": [
+                        "When is he starting work?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / I / stay at home)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why am I staying at home?",
+                    "answerList": [
+                        "Why am I staying at home?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / get dark)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is it getting dark?",
+                    "answerList": [
+                        "Is it getting dark?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / win)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We aren't winning.",
+                    "answerList": [
+                        "We aren't winning.",
+                        "We are not winning."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / bring a cake)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They aren't bringing a cake.",
+                    "answerList": [
+                        "They aren't bringing a cake.",
+                        "They are not bringing a cake."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(the dog / not / play with a ball)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The dog isn't playing with a ball.",
+                    "answerList": [
+                        "The dog isn't playing with a ball.",
+                        "The dog is not playing with a ball."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / it / rain now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why is it raining now?",
+                    "answerList": [
+                        "Why is it raining now?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / she / travel)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How is she travelling?",
+                    "answerList": [
+                        "How is she travelling?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where are you working?",
+                    "answerList": [
+                        "Where are you working?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / we / watch)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What are we watching?",
+                    "answerList": [
+                        "What are we watching?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / meet your friend at four)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You're meeting your friend at four.",
+                    "answerList": [
+                        "You're meeting your friend at four.",
+                        "You are meeting your friend at four."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / take too much cake)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Am I taking too much cake?",
+                    "answerList": [
+                        "Am I taking too much cake?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / think)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you thinking?",
+                    "answerList": [
+                        "Are you thinking?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / study this evening)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're studying this evening.",
+                    "answerList": [
+                        "We're studying this evening.",
+                        "We are studying this evening."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy and Steve / play the piano)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy and Steve are playing the piano.",
+                    "answerList": [
+                        "Lucy and Steve are playing the piano."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Sarah / not / tell a story)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Sarah isn't telling a story.",
+                    "answerList": [
+                        "Sarah isn't telling a story.",
+                        "Sarah is not telling a story."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

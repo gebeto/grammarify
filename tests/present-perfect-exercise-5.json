@@ -1,0 +1,359 @@
+{
+    "title": "Present Perfect - Mixed Exercise 2",
+    "description": "Make the present perfect - positive, negative or question",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / eat lunch yet)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have you eaten lunch yet?",
+                    "answerList": [
+                        "Have you eaten lunch yet?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / read the newspaper today)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Has he read the newspaper today?",
+                    "answerList": [
+                        "Has he read the newspaper today?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / study French for ten years)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You haven't studied French for ten years.",
+                    "answerList": [
+                        "You haven't studied French for ten years.",
+                        "You have not studied French for ten years."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / be in London for six months)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They've been in London for six months.",
+                    "answerList": [
+                        "They've been in London for six months.",
+                        "They have been in London for six months."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / be)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where have you been?",
+                    "answerList": [
+                        "Where have you been?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go to Paris)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We haven't gone to Paris.",
+                    "answerList": [
+                        "We haven't gone to Paris.",
+                        "We have not gone to Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / see The Lord of the Rings)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She hasn't seen The Lord of the Rings.",
+                    "answerList": [
+                        "She hasn't seen The Lord of the Rings.",
+                        "She has not seen The Lord of the Rings."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / meet my mother)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He hasn't met my mother.",
+                    "answerList": [
+                        "He hasn't met my mother.",
+                        "He has not met my mother."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / visit St. Paul's Cathedral yet)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They haven't visited St. Paul's Cathedral yet.",
+                    "answerList": [
+                        "They haven't visited St. Paul's Cathedral yet.",
+                        "They have not visited St. Paul's Cathedral yet."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / she / eat today)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What has she eaten today?",
+                    "answerList": [
+                        "What has she eaten today?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / you / do your homework already)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why have you done your homework already?",
+                    "answerList": [
+                        "Why have you done your homework already?",
+                        "Why have you done your homework already."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / she / make this fantastic cake)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How has she made this fantastic cake?",
+                    "answerList": [
+                        "How has she made this fantastic cake?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / I / miss the plane)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why have I missed the plane?",
+                    "answerList": [
+                        "Why have I missed the plane?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / go to bed)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They haven't gone to bed.",
+                    "answerList": [
+                        "They haven't gone to bed.",
+                        "They have not gone to bed."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / rain a lot this week)"
+                },
+                {
+                    "type": "input",
+                    "answer": "It's rained a lot this week.",
+                    "answerList": [
+                        "It's rained a lot this week.",
+                        "It has rained a lot this week."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / use a credit card before)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have they used a credit card before?",
+                    "answerList": [
+                        "Have they used a credit card before?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / have enough to eat)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Have we had enough to eat?",
+                    "answerList": [
+                        "Have we had enough to eat?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / play basketball before)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She hasn't played basketball before.",
+                    "answerList": [
+                        "She hasn't played basketball before.",
+                        "She has not played basketball before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / wear a kimono)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I've worn a kimono.",
+                    "answerList": [
+                        "I've worn a kimono.",
+                        "I have worn a kimono."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

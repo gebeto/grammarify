@@ -1,0 +1,446 @@
+{
+    "title": "Purpose",
+    "description": "Choose 'to + infinitive', 'for + verb-ing' or 'for + noun'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Matches are"
+                },
+                {
+                    "type": "input",
+                    "answer": "for lighting",
+                    "answerList": [
+                        "for lighting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(light) fires."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He went to the park"
+                },
+                {
+                    "type": "input",
+                    "answer": "to relax",
+                    "answerList": [
+                        "to relax"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(relax)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This knife is"
+                },
+                {
+                    "type": "input",
+                    "answer": "for cutting",
+                    "answerList": [
+                        "for cutting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cut) grapefruit."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We stopped at the shop"
+                },
+                {
+                    "type": "input",
+                    "answer": "for bread",
+                    "answerList": [
+                        "for bread"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bread)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The speakers are"
+                },
+                {
+                    "type": "input",
+                    "answer": "for playing",
+                    "answerList": [
+                        "for playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) music."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I made a cake"
+                },
+                {
+                    "type": "input",
+                    "answer": "to practise",
+                    "answerList": [
+                        "to practise"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(practise) baking."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I want"
+                },
+                {
+                    "type": "input",
+                    "answer": "to go",
+                    "answerList": [
+                        "to go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out tonight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She went to a restaurant"
+                },
+                {
+                    "type": "input",
+                    "answer": "for lunch",
+                    "answerList": [
+                        "for lunch"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lunch)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He thanked everyone"
+                },
+                {
+                    "type": "input",
+                    "answer": "for coming",
+                    "answerList": [
+                        "for coming"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She went home"
+                },
+                {
+                    "type": "input",
+                    "answer": "to study",
+                    "answerList": [
+                        "to study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They apologised"
+                },
+                {
+                    "type": "input",
+                    "answer": "for being",
+                    "answerList": [
+                        "for being"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Nails are"
+                },
+                {
+                    "type": "input",
+                    "answer": "for building",
+                    "answerList": [
+                        "for building"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(build) things."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She came here"
+                },
+                {
+                    "type": "input",
+                    "answer": "to read",
+                    "answerList": [
+                        "to read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We rewarded the children"
+                },
+                {
+                    "type": "input",
+                    "answer": "for studying",
+                    "answerList": [
+                        "for studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) hard."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children came to the kitchen"
+                },
+                {
+                    "type": "input",
+                    "answer": "for biscuits",
+                    "answerList": [
+                        "for biscuits"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(biscuits)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He promised"
+                },
+                {
+                    "type": "input",
+                    "answer": "to help",
+                    "answerList": [
+                        "to help"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(help)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy went to the cafe"
+                },
+                {
+                    "type": "input",
+                    "answer": "for coffee",
+                    "answerList": [
+                        "for coffee"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(coffee)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They went to Paris"
+                },
+                {
+                    "type": "input",
+                    "answer": "to learn",
+                    "answerList": [
+                        "to learn"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(learn) French."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The pen is"
+                },
+                {
+                    "type": "input",
+                    "answer": "for writing",
+                    "answerList": [
+                        "for writing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(write)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to the library"
+                },
+                {
+                    "type": "input",
+                    "answer": "for the book about London",
+                    "answerList": [
+                        "for the book about London"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the book about London)."
+                }
+            ]
+        }
+    ]
+}

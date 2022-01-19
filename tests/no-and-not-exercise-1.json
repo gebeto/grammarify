@@ -1,0 +1,430 @@
+{
+    "title": "No and Not Exercise 1",
+    "description": "Put in 'no' or 'not'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children were"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "running!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "helpfully, John had left mess all over the house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He did"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "write the email."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Did Jenny arrive early? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Jenny."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We will have"
+                },
+                {
+                    "type": "input",
+                    "answer": "no",
+                    "answerList": [
+                        "no"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Who did the homework? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "us!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We had"
+                },
+                {
+                    "type": "input",
+                    "answer": "no",
+                    "answerList": [
+                        "no"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "enough chairs."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The film was"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "funny."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There is"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "much to do."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There is"
+                },
+                {
+                    "type": "input",
+                    "answer": "no",
+                    "answerList": [
+                        "no"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "milk in the fridge."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This is"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the best idea."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "unusually, he was asleep at midnight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This is"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the one I want."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He did"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "see any mountains."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "little children live in this street."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Would you like some coffee? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ", thank you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We will"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "buy any wine."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Do you know how to do this? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a clue!"
+                }
+            ]
+        }
+    ]
+}

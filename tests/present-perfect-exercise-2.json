@@ -1,0 +1,386 @@
+{
+    "title": "Present Perfect - Negative 1",
+    "description": "Make the negative present perfect",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / not / go / to Paris)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We haven't gone to Paris.",
+                    "answerList": [
+                        "We haven't gone to Paris.",
+                        "We have not gone to Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / not / see / The Lord of the Rings)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She hasn't seen The Lord of the Rings.",
+                    "answerList": [
+                        "She hasn't seen The Lord of the Rings.",
+                        "She has not seen The Lord of the Rings."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(He / not / meet / my mother)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He hasn't met my mother.",
+                    "answerList": [
+                        "He hasn't met my mother.",
+                        "He has not met my mother."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / not / visit / St. Paul's)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They haven't visited St. Paul's.",
+                    "answerList": [
+                        "They haven't visited St. Paul's.",
+                        "They have not visited St. Paul's."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / know / him for three months)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I haven't known him for three months.",
+                    "answerList": [
+                        "I haven't known him for three months.",
+                        "I have not known him for three months."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(You / not / study / French for ten years)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You haven't studied French for ten years.",
+                    "answerList": [
+                        "You haven't studied French for ten years.",
+                        "You have not studied French for ten years."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / not / be / in London for six months)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They haven't been in London for six months.",
+                    "answerList": [
+                        "They haven't been in London for six months.",
+                        "They have not been in London for six months."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(He / not / hurt / his leg)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He hasn't hurt his leg.",
+                    "answerList": [
+                        "He hasn't hurt his leg.",
+                        "He has not hurt his leg."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / not / leave / her phone in a taxi)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She hasn't left her phone in a taxi.",
+                    "answerList": [
+                        "She hasn't left her phone in a taxi.",
+                        "She has not left her phone in a taxi."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / not / lose / our tickets)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We haven't lost our tickets.",
+                    "answerList": [
+                        "We haven't lost our tickets.",
+                        "We have not lost our tickets."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / not / make / dinner)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She hasn't made dinner.",
+                    "answerList": [
+                        "She hasn't made dinner.",
+                        "She has not made dinner."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / not / arrive / yet)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They haven't arrived yet.",
+                    "answerList": [
+                        "They haven't arrived yet.",
+                        "They have not arrived yet."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / not / do / her homework)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy hasn't done her homework.",
+                    "answerList": [
+                        "Lucy hasn't done her homework.",
+                        "Lucy has not done her homework."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / read / that book)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I haven't read that book.",
+                    "answerList": [
+                        "I haven't read that book.",
+                        "I have not read that book."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(He / not / live / in Berlin)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He hasn't lived in Berlin.",
+                    "answerList": [
+                        "He hasn't lived in Berlin.",
+                        "He has not lived in Berlin."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(John / not / buy / any food)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John hasn't bought any food.",
+                    "answerList": [
+                        "John hasn't bought any food.",
+                        "John has not bought any food."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / not / clean / the kitchen)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She hasn't cleaned the kitchen.",
+                    "answerList": [
+                        "She hasn't cleaned the kitchen.",
+                        "She has not cleaned the kitchen."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(You / not / call / me)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You haven't called me.",
+                    "answerList": [
+                        "You haven't called me.",
+                        "You have not called me."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(We / not / find / the book yet)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We haven't found the book yet.",
+                    "answerList": [
+                        "We haven't found the book yet.",
+                        "We have not found the book yet."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(They / not / sleep / well)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They haven't slept well.",
+                    "answerList": [
+                        "They haven't slept well.",
+                        "They have not slept well."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

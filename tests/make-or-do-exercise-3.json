@@ -1,0 +1,446 @@
+{
+    "title": "Make or Do 3",
+    "description": "Put in the correct form of 'make' or 'do'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You should eat more fruit and vegetables. It would"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you good."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Traditionally, three people"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "speeches at weddings in the UK. The groom, the father of the bride, and the best man."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "did",
+                    "answerList": [
+                        "did"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "all the ironing, washed the floor and made dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John decided that he needed to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "more research before he could write his essay."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could I"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a suggestion? Maybe we should give up work for today and go and have a drink."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm too busy to see you now. Please call my secretary and"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an appointment."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I spent a long time"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my hair, but when I went outside the wind ruined it in one minute!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an attempt to tidy up before she arrived, but the room was still very messy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How do you like our new kitchen? I think the workmen have"
+                },
+                {
+                    "type": "input",
+                    "answer": "done",
+                    "answerList": [
+                        "done"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a good job."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They have"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "too many errors in this article. We can't publish it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I know the shop usually closes at six but could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "an exception today? I have a busload of tourists who'd like to visit."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She tried to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her homework early in the evening, so she could relax afterwards."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a great effort to study hard for that exam, but I still didn't pass!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I travelled to Paris when I was a child, and it"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a great impression on me. I've always loved France and French things ever since.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "One tiny piece of chocolate cake won't"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you any harm! Eat up!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He didn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a sound when he got home late, so as not to wake up his wife."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Right, could you"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "arrangements for next week? We need to book a restaurant for lunch at 1pm on Saturday, and we need to think of something to do on Sunday too."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I spend far too much time"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "housework! I wish I had a cleaner!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "certain that she had turned the iron off before she left the house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I enjoy going to new places and"
+                },
+                {
+                    "type": "input",
+                    "answer": "making",
+                    "answerList": [
+                        "making"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "new friends."
+                }
+            ]
+        }
+    ]
+}

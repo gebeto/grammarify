@@ -1,0 +1,367 @@
+{
+    "title": "Passive 1 (present simple)",
+    "description": "Make these active present simple sentences passive. You don't need to repeat 'somebody'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody sends emails."
+                },
+                {
+                    "type": "input",
+                    "answer": "Emails are sent",
+                    "answerList": [
+                        "Emails are sent"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cuts the grass."
+                },
+                {
+                    "type": "input",
+                    "answer": "The grass is cut",
+                    "answerList": [
+                        "The grass is cut"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody prefers chocolate."
+                },
+                {
+                    "type": "input",
+                    "answer": "Chocolate is preferred",
+                    "answerList": [
+                        "Chocolate is preferred"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody often steals cars."
+                },
+                {
+                    "type": "input",
+                    "answer": "Cars are often stolen",
+                    "answerList": [
+                        "Cars are often stolen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody plays loud music."
+                },
+                {
+                    "type": "input",
+                    "answer": "Loud music is played",
+                    "answerList": [
+                        "Loud music is played"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody speaks English here."
+                },
+                {
+                    "type": "input",
+                    "answer": "English is spoken here",
+                    "answerList": [
+                        "English is spoken here"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody loves the London parks."
+                },
+                {
+                    "type": "input",
+                    "answer": "The London parks are loved",
+                    "answerList": [
+                        "The London parks are loved"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody wants staff."
+                },
+                {
+                    "type": "input",
+                    "answer": "Staff are wanted",
+                    "answerList": [
+                        "Staff are wanted",
+                        "Staff is wanted"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody writes articles."
+                },
+                {
+                    "type": "input",
+                    "answer": "Articles are written",
+                    "answerList": [
+                        "Articles are written"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody loves Julie."
+                },
+                {
+                    "type": "input",
+                    "answer": "Julie is loved",
+                    "answerList": [
+                        "Julie is loved"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody reads a lot of books."
+                },
+                {
+                    "type": "input",
+                    "answer": "A lot of books are read",
+                    "answerList": [
+                        "A lot of books are read"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cooks dinner every day."
+                },
+                {
+                    "type": "input",
+                    "answer": "Dinner is cooked every day",
+                    "answerList": [
+                        "Dinner is cooked every day"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody delivers milk in the mornings."
+                },
+                {
+                    "type": "input",
+                    "answer": "Milk is delivered in the mornings",
+                    "answerList": [
+                        "Milk is delivered in the mornings"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody buys flowers for the flat."
+                },
+                {
+                    "type": "input",
+                    "answer": "Flowers are bought for the flat",
+                    "answerList": [
+                        "Flowers are bought for the flat"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody washes the cars every week."
+                },
+                {
+                    "type": "input",
+                    "answer": "The cars are washed every week",
+                    "answerList": [
+                        "The cars are washed every week"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody writes a report every Friday."
+                },
+                {
+                    "type": "input",
+                    "answer": "A report is written every Friday",
+                    "answerList": [
+                        "A report is written every Friday"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody fixes the roads."
+                },
+                {
+                    "type": "input",
+                    "answer": "The roads are fixed",
+                    "answerList": [
+                        "The roads are fixed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody builds new houses every year."
+                },
+                {
+                    "type": "input",
+                    "answer": "New houses are built every year",
+                    "answerList": [
+                        "New houses are built every year"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody sells vegetables in the market."
+                },
+                {
+                    "type": "input",
+                    "answer": "Vegetables are sold in the market",
+                    "answerList": [
+                        "Vegetables are sold in the market"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody cleans the office every day."
+                },
+                {
+                    "type": "input",
+                    "answer": "The office is cleaned every day",
+                    "answerList": [
+                        "The office is cleaned every day"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

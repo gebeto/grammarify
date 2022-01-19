@@ -1,0 +1,366 @@
+{
+    "title": "Present simple questions",
+    "description": "Choose: do / does / is / are",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Are",
+                    "answerList": [
+                        "Are"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you cold?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does",
+                    "answerList": [
+                        "Does"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Amanda speak Portuguese?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is",
+                    "answerList": [
+                        "Is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Julia at home?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Do",
+                    "answerList": [
+                        "Do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you want a biscuit?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is",
+                    "answerList": [
+                        "Is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "he from Italy?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does",
+                    "answerList": [
+                        "Does"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "David drink coffee?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Do",
+                    "answerList": [
+                        "Do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you have any money?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is",
+                    "answerList": [
+                        "Is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it warm outside?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Are",
+                    "answerList": [
+                        "Are"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you hungry?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is",
+                    "answerList": [
+                        "Is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "she in the garden?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is",
+                    "answerList": [
+                        "Is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the cat under the bed?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Do",
+                    "answerList": [
+                        "Do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you like horses?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does",
+                    "answerList": [
+                        "Does"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "she want to go to the gym?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Is",
+                    "answerList": [
+                        "Is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "John on the train?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Do",
+                    "answerList": [
+                        "Do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "they live in Poland?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Are",
+                    "answerList": [
+                        "Are"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "you worried about the exam?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does",
+                    "answerList": [
+                        "Does"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it rain much in Scotland?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Are",
+                    "answerList": [
+                        "Are"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "they at the cinema just now?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Do",
+                    "answerList": [
+                        "Do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "we need to hurry?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Does",
+                    "answerList": [
+                        "Does"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "he usually work late?"
+                }
+            ]
+        }
+    ]
+}

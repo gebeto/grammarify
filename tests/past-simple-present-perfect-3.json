@@ -1,0 +1,485 @@
+{
+    "title": "Choose past simple or present perfect 3",
+    "description": "Make the correct form of the past simple or the present perfect",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "went",
+                    "answerList": [
+                        "went"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the theatre last week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Yesterday I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) dinner with a friend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "have never tasted",
+                    "answerList": [
+                        "have never tasted",
+                        "'ve never tasted"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(never taste) champagne."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a child, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "loved",
+                    "answerList": [
+                        "loved"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(love) ice-skating."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "haven't had",
+                    "answerList": [
+                        "haven't had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) any coffee today - I feel very sleepy!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't drink",
+                    "answerList": [
+                        "didn't drink",
+                        "did not drink"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/drink) any coffee yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve read",
+                    "answerList": [
+                        "'ve read",
+                        "have read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) all his books - I think he's a wonderful writer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "did you do",
+                    "answerList": [
+                        "did you do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) at the weekend?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ve always loved",
+                    "answerList": [
+                        "'ve always loved",
+                        "have always loved"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(always / love) tea - I drink it every day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What subject"
+                },
+                {
+                    "type": "input",
+                    "answer": "did she study",
+                    "answerList": [
+                        "did she study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/study) at university?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s lost",
+                    "answerList": [
+                        "'s lost",
+                        "has lost"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) his bus pass - can he borrow some money?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How long"
+                },
+                {
+                    "type": "input",
+                    "answer": "have you known",
+                    "answerList": [
+                        "have you known"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/know) Susie for?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) married for ten years (but he got divorced)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Have you ever been",
+                    "answerList": [
+                        "Have you ever been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/ever/go) to Central Park in new York?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How many books"
+                },
+                {
+                    "type": "input",
+                    "answer": "has she written",
+                    "answerList": [
+                        "has she written"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(she/write) so far??"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "washed",
+                    "answerList": [
+                        "washed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wash) the dishes,"
+                },
+                {
+                    "type": "input",
+                    "answer": "cleaned",
+                    "answerList": [
+                        "cleaned"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the living room, and"
+                },
+                {
+                    "type": "input",
+                    "answer": "cooked",
+                    "answerList": [
+                        "cooked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) dinner last night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My great-grandfather never"
+                },
+                {
+                    "type": "input",
+                    "answer": "left",
+                    "answerList": [
+                        "left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) Scotland."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "came",
+                    "answerList": [
+                        "came"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to London in 1997."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s never seen",
+                    "answerList": [
+                        "'s never seen",
+                        "has never seen"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(never / see) snow before."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s been",
+                    "answerList": [
+                        "'s been",
+                        "has been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) married for thirty-five years (and he's still married now)."
+                }
+            ]
+        }
+    ]
+}

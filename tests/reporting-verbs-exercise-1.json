@@ -1,0 +1,371 @@
+{
+    "title": "Reporting Verbs 1",
+    "description": "Make a new sentence with the same meaning using the reporting verb in brackets.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"You shouldn't go into the water\" said the coast guard. (advise against)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The coast guard advised against going into the water.",
+                    "answerList": [
+                        "The coast guard advised against going into the water."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll go to France on holiday\" said John. (decide, using infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John decided to go to France on holiday.",
+                    "answerList": [
+                        "John decided to go to France on holiday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I think you should go to the dentist\" Julie said to Tom. (advise, using infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Julie advised Tom to go to the dentist.",
+                    "answerList": [
+                        "Julie advised Tom to go to the dentist."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Watch out for the weak bridge\" he said. (warn, using 'about')"
+                },
+                {
+                    "type": "input",
+                    "answer": "He warned us about the weak bridge.",
+                    "answerList": [
+                        "He warned us about the weak bridge."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"You should apply for the job\" said Jack to Stella. (encourage)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Jack encouraged Stella to apply for the job.",
+                    "answerList": [
+                        "Jack encouraged Stella to apply for the job."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Okay, Keiko can go to the party\" said Keiko's mum. (agree, using clause)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Keiko's mum agreed that Keiko could go to the party.",
+                    "answerList": [
+                        "Keiko's mum agreed that Keiko could go to the party.",
+                        "Keiko's mum agreed Keiko could go to the party."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"The class will start later on Tuesdays\" said the teacher to us. (explain + clause)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The teacher explained to us that the class would start later on Tuesdays.",
+                    "answerList": [
+                        "The teacher explained to us that the class would start later on Tuesdays.",
+                        "The teacher explained to us the class would start later on Tuesdays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"It's a great idea to go to the beach\" said Maria. (recommend + verb-ing)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Maria recommended going to the beach.",
+                    "answerList": [
+                        "Maria recommended going to the beach."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't cross the road there\" she said to the children. (warn, using infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She warned the children not to cross the road there.",
+                    "answerList": [
+                        "She warned the children not to cross the road there."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll make the coffee!\" said David. (insist + on)"
+                },
+                {
+                    "type": "input",
+                    "answer": "David insisted on making the coffee.",
+                    "answerList": [
+                        "David insisted on making the coffee."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll study really hard for the exam\" said Luke. (promise + to + infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Luke promised to study really hard for the exam.",
+                    "answerList": [
+                        "Luke promised to study really hard for the exam."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"This is where the station is\" said Klara. (explain, using question word + clause)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Klara explained where the station was.",
+                    "answerList": [
+                        "Klara explained where the station was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Right, let's buy the car in the morning!\" we said. (agree + infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We agreed to buy the car in the morning.",
+                    "answerList": [
+                        "We agreed to buy the car in the morning."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't forget that Lucy needs to go to the dentist\" she said to me. (remind, using clause)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She reminded me that Lucy needed to go to the dentist.",
+                    "answerList": [
+                        "She reminded me that Lucy needed to go to the dentist.",
+                        "She reminded me Lucy needed to go to the dentist."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How about having Indian food?\" I said. (suggest, using verb-ing)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I suggested having Indian food.",
+                    "answerList": [
+                        "I suggested having Indian food."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll be early\" I said to my mother. (promise + clause)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I promised my mother that I would be early.",
+                    "answerList": [
+                        "I promised my mother that I would be early.",
+                        "I promised my mother I would be early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm sorry I forgot your birthday\" said Amanda to me. (apologise)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Amanda apologised for forgetting my birthday.",
+                    "answerList": [
+                        "Amanda apologised for forgetting my birthday."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll leave at six pm!\" John said. (decide + clause)"
+                },
+                {
+                    "type": "input",
+                    "answer": "John decided that he would leave at six pm.",
+                    "answerList": [
+                        "John decided that he would leave at six pm.",
+                        "John decided he would leave at six pm."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"This is how we use the present perfect\" said Amy. (explain + question word + infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Amy explained how to use the present perfect.",
+                    "answerList": [
+                        "Amy explained how to use the present perfect."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't forget to buy milk!\" said Antonio to Lucia. (remind, using infinitive)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Antonio reminded Lucia to buy milk.",
+                    "answerList": [
+                        "Antonio reminded Lucia to buy milk."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

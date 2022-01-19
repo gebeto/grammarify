@@ -1,0 +1,695 @@
+{
+    "title": "Zero Conditional Form",
+    "description": "Make the zero conditional",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "wake up",
+                    "answerList": [
+                        "wake up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wake up) late, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m",
+                    "answerList": [
+                        "'m",
+                        "am"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late for work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If my husband"
+                },
+                {
+                    "type": "input",
+                    "answer": "cooks",
+                    "answerList": [
+                        "cooks"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) , he"
+                },
+                {
+                    "type": "input",
+                    "answer": "burns",
+                    "answerList": [
+                        "burns"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(burn) the food."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't wear",
+                    "answerList": [
+                        "doesn't wear",
+                        "does not wear"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/wear) a hat, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "gets",
+                    "answerList": [
+                        "gets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) sunstroke."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If children"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't eat",
+                    "answerList": [
+                        "don't eat",
+                        "do not eat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) well, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "aren't",
+                    "answerList": [
+                        "aren't",
+                        "are not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) healthy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "mix",
+                    "answerList": [
+                        "mix"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(mix) water and electricity, you"
+                },
+                {
+                    "type": "input",
+                    "answer": "get",
+                    "answerList": [
+                        "get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a shock."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If people"
+                },
+                {
+                    "type": "input",
+                    "answer": "eat",
+                    "answerList": [
+                        "eat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) too many sweets, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "get",
+                    "answerList": [
+                        "get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) fat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "smoke",
+                    "answerList": [
+                        "smoke"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(smoke) , you"
+                },
+                {
+                    "type": "input",
+                    "answer": "get",
+                    "answerList": [
+                        "get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) yellow fingers."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If children"
+                },
+                {
+                    "type": "input",
+                    "answer": "play",
+                    "answerList": [
+                        "play"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) outside, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't get",
+                    "answerList": [
+                        "don't get",
+                        "do not get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/get) overweight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "heat",
+                    "answerList": [
+                        "heat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(heat) ice, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "melts",
+                    "answerList": [
+                        "melts"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(melt)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "speak",
+                    "answerList": [
+                        "speak"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) to John, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "gets",
+                    "answerList": [
+                        "gets"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) annoyed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "feel",
+                    "answerList": [
+                        "feel"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(feel) good the next day if I"
+                },
+                {
+                    "type": "input",
+                    "answer": "go",
+                    "answerList": [
+                        "go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to bed early."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lots of people"
+                },
+                {
+                    "type": "input",
+                    "answer": "come",
+                    "answerList": [
+                        "come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) if Jenny"
+                },
+                {
+                    "type": "input",
+                    "answer": "has",
+                    "answerList": [
+                        "has"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a party."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "buys",
+                    "answerList": [
+                        "buys"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) expensive clothes if she"
+                },
+                {
+                    "type": "input",
+                    "answer": "goes",
+                    "answerList": [
+                        "goes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) shopping."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My daughter"
+                },
+                {
+                    "type": "input",
+                    "answer": "passes",
+                    "answerList": [
+                        "passes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) her exams if she"
+                },
+                {
+                    "type": "input",
+                    "answer": "works",
+                    "answerList": [
+                        "works"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) hard."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answer": "is",
+                    "answerList": [
+                        "is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) sick if he"
+                },
+                {
+                    "type": "input",
+                    "answer": "drinks",
+                    "answerList": [
+                        "drinks"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) milk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The river"
+                },
+                {
+                    "type": "input",
+                    "answer": "freezes",
+                    "answerList": [
+                        "freezes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(freeze) if it"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s",
+                    "answerList": [
+                        "'s",
+                        "is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) very cold."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "like",
+                    "answerList": [
+                        "like"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(like) to visit the museums if I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m",
+                    "answerList": [
+                        "'m",
+                        "am"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in a new city."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "cycle",
+                    "answerList": [
+                        "cycle"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cycle) to work if the weather"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s",
+                    "answerList": [
+                        "'s",
+                        "is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) fine."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My flatmate"
+                },
+                {
+                    "type": "input",
+                    "answer": "cleans",
+                    "answerList": [
+                        "cleans"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) really well if she"
+                },
+                {
+                    "type": "input",
+                    "answer": "cleans",
+                    "answerList": [
+                        "cleans"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Everybody"
+                },
+                {
+                    "type": "input",
+                    "answer": "is",
+                    "answerList": [
+                        "is",
+                        "'s"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) grumpy if it"
+                },
+                {
+                    "type": "input",
+                    "answer": "rains",
+                    "answerList": [
+                        "rains"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) a lot."
+                }
+            ]
+        }
+    ]
+}

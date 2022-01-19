@@ -1,0 +1,186 @@
+{
+    "title": "Infinitives of Purpose Exercise 1",
+    "description": "Change these sentences so that they have an infinitive of purpose (to + infinitive)",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to Japan because I wanted to learn Japanese."
+                },
+                {
+                    "type": "input",
+                    "answer": "I went to Japan to learn Japanese.",
+                    "answerList": [
+                        "I went to Japan to learn Japanese."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She made a cake because she wanted to please her friend."
+                },
+                {
+                    "type": "input",
+                    "answer": "She made a cake to please her friend.",
+                    "answerList": [
+                        "She made a cake to please her friend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They study a lot because they want to get good marks."
+                },
+                {
+                    "type": "input",
+                    "answer": "They study a lot to get good marks.",
+                    "answerList": [
+                        "They study a lot to get good marks."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda is going to the party because she wants to meet new people."
+                },
+                {
+                    "type": "input",
+                    "answer": "Amanda is going to the party to meet new people.",
+                    "answerList": [
+                        "Amanda is going to the party to meet new people."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children went to the park because they wanted to play football."
+                },
+                {
+                    "type": "input",
+                    "answer": "The children went to the park to play football.",
+                    "answerList": [
+                        "The children went to the park to play football."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jorge studied German because he wanted to get a new job."
+                },
+                {
+                    "type": "input",
+                    "answer": "Jorge studied German to get a new job.",
+                    "answerList": [
+                        "Jorge studied German to get a new job."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We went to France because we wanted to eat lots of nice food."
+                },
+                {
+                    "type": "input",
+                    "answer": "We went to France to eat lots of nice food.",
+                    "answerList": [
+                        "We went to France to eat lots of nice food."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She got a new computer because she wanted to write a book."
+                },
+                {
+                    "type": "input",
+                    "answer": "She got a new computer to write a book.",
+                    "answerList": [
+                        "She got a new computer to write a book."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has been running because he wants to lose weight."
+                },
+                {
+                    "type": "input",
+                    "answer": "He has been running to lose weight.",
+                    "answerList": [
+                        "He has been running to lose weight."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We must study every day because we want to improve our English."
+                },
+                {
+                    "type": "input",
+                    "answer": "We must study every day to improve our English.",
+                    "answerList": [
+                        "We must study every day to improve our English."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

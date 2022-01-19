@@ -1,0 +1,237 @@
+{
+    "title": "Be Used To Exercise 1",
+    "description": "Make sentences using 'be used to + verb-ing' or 'be used to + noun / pronoun'. You need to choose the correct tense:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m used to living",
+                    "answerList": [
+                        "'m used to living",
+                        "am used to living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London, so the crowds don't bother me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s used to the Tokyo subway",
+                    "answerList": [
+                        "'s used to the Tokyo subway",
+                        "is used to the Tokyo subway"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the Tokyo subway) so she doesn't get lost."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s not used to dealing",
+                    "answerList": [
+                        "'s not used to dealing",
+                        "isn't used to dealing",
+                        "is not used to dealing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/deal) with animals, so he's a bit scared of the dogs."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s used to driving",
+                    "answerList": [
+                        "'s used to driving",
+                        "is used to driving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drive)in heavy traffic."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m used to waking",
+                    "answerList": [
+                        "'m used to waking",
+                        "am used to waking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wake)up in the night with my baby. I drink lots of coffee!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was very hard to get up at five when I first started this job, because I"
+                },
+                {
+                    "type": "input",
+                    "answer": "wasn't used to it",
+                    "answerList": [
+                        "wasn't used to it",
+                        "was not used to it"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/it)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s used to drinking",
+                    "answerList": [
+                        "'s used to drinking",
+                        "is used to drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink)a lot of coffee, so she doesn't have a problem with going to sleep afterwards."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've lived here in Hokkaido for three years but I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m not used to the snow",
+                    "answerList": [
+                        "'m not used to the snow",
+                        "am not used to the snow"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/the snow)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s used to doing",
+                    "answerList": [
+                        "'s used to doing",
+                        "is used to doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(do) a lot of exercise, so a ten-mile walk is easy for him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie's flat is in the centre of London. When she visits a friend in the countryside, it's difficult for her to sleep because she"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't used to the quiet",
+                    "answerList": [
+                        "isn't used to the quiet",
+                        "'s not used to the quiet"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/the quiet)."
+                }
+            ]
+        }
+    ]
+}

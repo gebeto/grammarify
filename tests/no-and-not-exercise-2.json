@@ -1,0 +1,414 @@
+{
+    "title": "No or Not Exercise 2",
+    "description": "Put in 'no' or 'not'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a single person said yes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "problem!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She does"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "have any books."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Are you hungry? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This is"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a great plan."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "much water spilled."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "sitting on the grass!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Who made this mess? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She does"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "like chocolate."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There is"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "enough space for everyone."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The city was"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "pretty."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She has"
+                },
+                {
+                    "type": "input",
+                    "answer": "no",
+                    "answerList": [
+                        "no"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "winter boots."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "many students came to the class."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There are"
+                },
+                {
+                    "type": "input",
+                    "answer": "no",
+                    "answerList": [
+                        "no"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "fresh vegetables."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My sister is"
+                },
+                {
+                    "type": "input",
+                    "answer": "not",
+                    "answerList": [
+                        "not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "happy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: How many bottles do you have? B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "many."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "enough people volunteered."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: The president came! B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Not",
+                    "answerList": [
+                        "Not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the president!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "red dresses were in the shop."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "No",
+                    "answerList": [
+                        "No"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "smoking!"
+                }
+            ]
+        }
+    ]
+}

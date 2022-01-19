@@ -1,0 +1,446 @@
+{
+    "title": "Subject and Object Pronouns Exercise 1",
+    "description": "Choose the correct pronoun.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / me"
+                },
+                {
+                    "type": "input",
+                    "answer": "I",
+                    "answerList": [
+                        "I"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "like London."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children are as hungry as we / us"
+                },
+                {
+                    "type": "input",
+                    "answer": "us",
+                    "answerList": [
+                        "us"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "All the students passed except I / me"
+                },
+                {
+                    "type": "input",
+                    "answer": "me",
+                    "answerList": [
+                        "me"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Who\u2019s there? B: I / Me"
+                },
+                {
+                    "type": "input",
+                    "answer": "Me",
+                    "answerList": [
+                        "Me"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They / them"
+                },
+                {
+                    "type": "input",
+                    "answer": "They",
+                    "answerList": [
+                        "They"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "love vegan food."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Is that the man you told me about? B: Yes, that\u2019s he / him"
+                },
+                {
+                    "type": "input",
+                    "answer": "him",
+                    "answerList": [
+                        "him"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We all like cake except she / her"
+                },
+                {
+                    "type": "input",
+                    "answer": "her",
+                    "answerList": [
+                        "her"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / him"
+                },
+                {
+                    "type": "input",
+                    "answer": "he",
+                    "answerList": [
+                        "he"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "will get a new phone soon."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His sister isn\u2019t as tall as he / him"
+                },
+                {
+                    "type": "input",
+                    "answer": "him",
+                    "answerList": [
+                        "him"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Is that chocolate for I / me"
+                },
+                {
+                    "type": "input",
+                    "answer": "me",
+                    "answerList": [
+                        "me"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / her"
+                },
+                {
+                    "type": "input",
+                    "answer": "She",
+                    "answerList": [
+                        "She"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "wants to go home early."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Everyone arrived on time but he / him"
+                },
+                {
+                    "type": "input",
+                    "answer": "him",
+                    "answerList": [
+                        "him"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please keep up with we / us"
+                },
+                {
+                    "type": "input",
+                    "answer": "us",
+                    "answerList": [
+                        "us"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Who ate all the chocolate? B: She / Her"
+                },
+                {
+                    "type": "input",
+                    "answer": "Her",
+                    "answerList": [
+                        "Her"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / us"
+                },
+                {
+                    "type": "input",
+                    "answer": "We",
+                    "answerList": [
+                        "We"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "have been to Rio."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you pass the coffee to she / her"
+                },
+                {
+                    "type": "input",
+                    "answer": "her",
+                    "answerList": [
+                        "her"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My brother is taller than I / me"
+                },
+                {
+                    "type": "input",
+                    "answer": "me",
+                    "answerList": [
+                        "me"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / me"
+                },
+                {
+                    "type": "input",
+                    "answer": "I",
+                    "answerList": [
+                        "I"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "went to the bookshop yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Our new teacher is friendlier than she / her"
+                },
+                {
+                    "type": "input",
+                    "answer": "her",
+                    "answerList": [
+                        "her"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "All the children came inside except they / them"
+                },
+                {
+                    "type": "input",
+                    "answer": "them",
+                    "answerList": [
+                        "them"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        }
+    ]
+}

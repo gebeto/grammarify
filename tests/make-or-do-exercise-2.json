@@ -1,0 +1,424 @@
+{
+    "title": "Make or Do 2",
+    "description": "Put in the correct form of 'make' or 'do'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you'll"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the dishes, I'll sweep the floor."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Thanks for"
+                },
+                {
+                    "type": "input",
+                    "answer": "making",
+                    "answerList": [
+                        "making"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "such lovely comments about my paintings! I'm really glad you like them."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you call the manager please? I'd like to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a complaint."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I feel terrible! I really must"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "some more exercise! Will you come for a run with me tomorrow?."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He's volunteering at a homeless shelter because he wants to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "good."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She needs to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a choice. Either move to Madrid or stay in London. She can't keep changing every week!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a date to meet and talk about your business idea. How about next Friday?."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a decision to take the bus, but it was so delayed that he wished he'd taken the train."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The child"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a face behind the teacher's back."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's freezing! Let's turn on the heating and"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a fire in the fireplace."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm not going to go ice skating! I'd only fall over and"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a fool of myself."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you possibly"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "me a favour and bring dessert to my dinner party tomorrow?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When she was 40 she sold her business and"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a fortune. She now spends most of her time at the beach."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy helped the children to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "drawings of flowers."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jill has to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "three exams this week, so I don't think we'll see her until next week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm fine, Mum! There's no need to call the doctor! Don't"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a fuss."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a joke at the start of the meeting, but nobody laughed."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really need to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "some shopping this afternoon. We have no food in the house at all."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I haven't eaten chocolate for three weeks, but it hasn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "any difference to my weight."
+                }
+            ]
+        }
+    ]
+}

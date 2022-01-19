@@ -1,0 +1,423 @@
+{
+    "title": "Articles with Geographical Names 2",
+    "description": "Put in 'the' or -",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They visited a village in"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Andes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They went to"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Philippines on their honeymoon."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Korea is near Japan and China."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have you ever seen"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Mount Fuji?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "The",
+                    "answerList": [
+                        "The",
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Azores are a group of islands in the Atlantic."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She went to"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "United Kingdom to study English."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They drove round"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Corsica."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Australia is a really enormous place."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What countries share a border with"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Norway?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Greece gets very, very hot in the summer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Baffin Island is part of Canada."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've never been to"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "United States."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We went to Ireland and stayed in"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Dublin."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She comes from"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Netherlands."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Mount Everest is the highest mountain in the world."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She always loved skiing in"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Alps."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He used to work in"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "India."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I often go on holiday to"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Canary Islands."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Does"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "England have many big cities?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They loved visiting"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Serbia."
+                }
+            ]
+        }
+    ]
+}

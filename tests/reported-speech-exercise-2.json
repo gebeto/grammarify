@@ -1,0 +1,369 @@
+{
+    "title": "Reported Questions 1",
+    "description": "Make reported questions.  Use 'she asked me' at the beginning of each answer. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where is he?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where he was.",
+                    "answerList": [
+                        "She asked me where he was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What are you doing?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what I was doing.",
+                    "answerList": [
+                        "She asked me what I was doing."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Why did you go out last night?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me why I had gone out last night.",
+                    "answerList": [
+                        "She asked me why I had gone out last night.",
+                        "She asked me why I had gone out the night before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Who was that beautiful woman?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me who that beautiful woman had been.",
+                    "answerList": [
+                        "She asked me who that beautiful woman had been."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How is your mother?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how my mother was.",
+                    "answerList": [
+                        "She asked me how my mother was."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What are you going to do at the weekend?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what I was going to do at the weekend.",
+                    "answerList": [
+                        "She asked me what I was going to do at the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Where will you live after graduation?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me where I would live after graduation.",
+                    "answerList": [
+                        "She asked me where I would live after graduation."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"What were you doing when I saw you?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me what I had been doing when she saw me.",
+                    "answerList": [
+                        "She asked me what I had been doing when she saw me."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How was the journey?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how the journey had been.",
+                    "answerList": [
+                        "She asked me how the journey had been."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"How often do you go to the cinema?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me how often I went to the cinema.",
+                    "answerList": [
+                        "She asked me how often I went to the cinema."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you live in London?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I lived in London.",
+                    "answerList": [
+                        "She asked me if I lived in London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Did he arrive on time?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if he had arrived on time.",
+                    "answerList": [
+                        "She asked me if he had arrived on time.",
+                        "She asked me if he arrived on time."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Have you been to Paris?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I had been to Paris.",
+                    "answerList": [
+                        "She asked me if I had been to Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Can you help me?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I could help her.",
+                    "answerList": [
+                        "She asked me if I could help her."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are you working tonight?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I was working tonight.",
+                    "answerList": [
+                        "She asked me if I was working tonight.",
+                        "She asked me if I was working that night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Will you come later?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I would come later.",
+                    "answerList": [
+                        "She asked me if I would come later."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you like coffee?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I liked coffee.",
+                    "answerList": [
+                        "She asked me if I liked coffee."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is this the road to the station?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if this was the road to the station.",
+                    "answerList": [
+                        "She asked me if this was the road to the station."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Did you do your homework?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I had done my homework.",
+                    "answerList": [
+                        "She asked me if I had done my homework."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Have you studied reported speech before?\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She asked me if I had studied reported speech before.",
+                    "answerList": [
+                        "She asked me if I had studied reported speech before."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

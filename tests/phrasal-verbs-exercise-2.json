@@ -1,0 +1,662 @@
+{
+    "title": "Phrasal Verbs 2",
+    "description": "Put in the correct phrasal verb (choose from the 'Phrasal Verbs 2 list)",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David"
+                },
+                {
+                    "type": "input",
+                    "answer": "took off",
+                    "answerList": [
+                        "took off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(removed clothes or jewellery) his gloves and put them in his pocket."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "stood up",
+                    "answerList": [
+                        "stood up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from lying or sitting to standing - not casual) and left the room without a word."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time did John"
+                },
+                {
+                    "type": "input",
+                    "answer": "get back",
+                    "answerList": [
+                        "get back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive somewhere again) yesterday?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answer": "come on",
+                    "answerList": [
+                        "come on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I am encouraging the other person to go faster or try harder) ! We're already miles behind the others."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "looked up",
+                    "answerList": [
+                        "looked up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(raised her eyes) from her laptop and smiled."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "gave up",
+                    "answerList": [
+                        "gave up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stopped having or doing) coffee last year but she was so grumpy that she started drinking it again."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You should"
+                },
+                {
+                    "type": "input",
+                    "answer": "take off",
+                    "answerList": [
+                        "take off"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(remove clothes or jewellery) your hat inside."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "People from other countries"
+                },
+                {
+                    "type": "input",
+                    "answer": "make up",
+                    "answerList": [
+                        "make up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(are the parts that form something) about a third of the population of London."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He didn't even"
+                },
+                {
+                    "type": "input",
+                    "answer": "look up",
+                    "answerList": [
+                        "look up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(raise his eyes) when she came in. So rude!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "are going down",
+                    "answerList": [
+                        "are going down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(are moving to a lower place) to the beach now. Would you like to come?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy!"
+                },
+                {
+                    "type": "input",
+                    "answer": "Get up",
+                    "answerList": [
+                        "Get up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(change from lying or sitting to standing - more casual) quick! The teacher is coming!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children"
+                },
+                {
+                    "type": "input",
+                    "answer": "stood up",
+                    "answerList": [
+                        "stood up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from lying or sitting to standing - less casual) when the headmaster arrived."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She came into the room and"
+                },
+                {
+                    "type": "input",
+                    "answer": "sat down",
+                    "answerList": [
+                        "sat down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from standing to sitting)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "took the bags out",
+                    "answerList": [
+                        "took the bags out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the bags/removed from a container) of the car and put them in the hall."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Come on",
+                    "answerList": [
+                        "Come on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(I'm encouraging the person to go faster or try harder) ! You're doing really well! Keep going!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She finally"
+                },
+                {
+                    "type": "input",
+                    "answer": "worked out",
+                    "answerList": [
+                        "worked out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(thought until she understood / planned - more UK) the answers to the maths homework."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "went down",
+                    "answerList": [
+                        "went down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(moved to a lower place) to the kitchen and made some tea."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please"
+                },
+                {
+                    "type": "input",
+                    "answer": "sit down",
+                    "answerList": [
+                        "sit down"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(change from standing to sitting) . You're making me nervous!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "got up",
+                    "answerList": [
+                        "got up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(changed from sitting or lying to standing) slowly and picked up her bag."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "After a long day, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "ended up",
+                    "answerList": [
+                        "ended up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finally did or were something especially when you don't expect it) getting a pizza and falling asleep on the sofa."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't"
+                },
+                {
+                    "type": "input",
+                    "answer": "work out",
+                    "answerList": [
+                        "work out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(think about until I understand / plan) why Andrew is so upset."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We'll"
+                },
+                {
+                    "type": "input",
+                    "answer": "give up",
+                    "answerList": [
+                        "give up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stop doing or having) chocolate after the holidays!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't"
+                },
+                {
+                    "type": "input",
+                    "answer": "figure out",
+                    "answerList": [
+                        "figure out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(think about until I understand / plan - more USA) how to do this exercise."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I couldn't believe it! He didn't"
+                },
+                {
+                    "type": "input",
+                    "answer": "show up",
+                    "answerList": [
+                        "show up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive at or come to an event - especially if there is something surprising) until 11pm!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "figured out",
+                    "answerList": [
+                        "figured out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(thought about until they understood / planned - more USA) that it must have been the toddler who put the milk in the oven."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She wanted to go travelling but she"
+                },
+                {
+                    "type": "input",
+                    "answer": "ended up",
+                    "answerList": [
+                        "ended up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(finally did or was something, especially when you don't expect it) working in a shop all summer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "took the book out",
+                    "answerList": [
+                        "took the book out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(the book/remove from a container) of my bag and gave it to him."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think coffee and cakes"
+                },
+                {
+                    "type": "input",
+                    "answer": "make up",
+                    "answerList": [
+                        "make up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(are the parts that form something)) most of her diet!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We had a meeting yesterday but only a few people"
+                },
+                {
+                    "type": "input",
+                    "answer": "showed up",
+                    "answerList": [
+                        "showed up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive or come to an event, especially if there's something surprising)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "got back",
+                    "answerList": [
+                        "got back"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrived somewhere again) to London last week."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "title": "So and Such Exercise 2",
+    "description": "Put in 'so' or 'such'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He likes football, rugby, tennis and"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "on."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I didn't get the job as"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "but they offered me a temporary position."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Let's buy Julie a book for her birthday. B:"
+                },
+                {
+                    "type": "input",
+                    "answer": "Such",
+                    "answerList": [
+                        "Such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "as?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's get some crisps, bread and"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "for the party."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Fairies? There's no"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "thing!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "A: Is John coming tonight? B: I think"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We need a hundred pounds or"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "for this project."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We have only"
+                },
+                {
+                    "type": "input",
+                    "answer": "so",
+                    "answerList": [
+                        "so"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "much money."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sports"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "as tennis can be hard on the elbows."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Have you seen"
+                },
+                {
+                    "type": "input",
+                    "answer": "such",
+                    "answerList": [
+                        "such"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "things before?"
+                }
+            ]
+        }
+    ]
+}

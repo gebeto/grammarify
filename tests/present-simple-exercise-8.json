@@ -1,0 +1,369 @@
+{
+    "title": "Present Simple Other Verbs Mixed Exercise 2",
+    "description": "Make the present simple (choose positive, negative or question)",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / wear suits to work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do they wear suits to work?",
+                    "answerList": [
+                        "Do they wear suits to work?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / say much)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't say much.",
+                    "answerList": [
+                        "He doesn't say much.",
+                        "He does not say much."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / she / study)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When does she study?",
+                    "answerList": [
+                        "When does she study?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / know a lot about cooking)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She knows a lot about cooking.",
+                    "answerList": [
+                        "She knows a lot about cooking."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / make dinner at the weekends)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We make dinner at the weekends.",
+                    "answerList": [
+                        "We make dinner at the weekends."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / leave work on time very often)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't leave work on time very often.",
+                    "answerList": [
+                        "I don't leave work on time very often.",
+                        "I do not leave work on time very often."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / meet her brother every week)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does she meet her brother every week?",
+                    "answerList": [
+                        "Does she meet her brother every week?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / find London's weather cold)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They find London's weather cold.",
+                    "answerList": [
+                        "They find London's weather cold."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / use the computer every day)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do we use the computer every day?",
+                    "answerList": [
+                        "Do we use the computer every day?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / smoke)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't smoke.",
+                    "answerList": [
+                        "You don't smoke."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / we / always get into trouble)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why do we always get into trouble?",
+                    "answerList": [
+                        "Why do we always get into trouble?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what/ they / usually cook)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What do they usually cook?",
+                    "answerList": [
+                        "What do they usually cook?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / we / need)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What do we need?",
+                    "answerList": [
+                        "What do we need?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / win at tennis)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't win at tennis.",
+                    "answerList": [
+                        "They don't win at tennis.",
+                        "They do not win at tennis."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / they / like to watch on TV)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What do they like to watch on TV?",
+                    "answerList": [
+                        "What do they like to watch on TV?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / do my homework every night)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I do my homework every night.",
+                    "answerList": [
+                        "I do my homework every night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / she / swim every morning)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why does she swim every morning?",
+                    "answerList": [
+                        "Why does she swim every morning?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / walk to the station every day)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You walk to the station every day.",
+                    "answerList": [
+                        "You walk to the station every day."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / teach in a school)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does he teach in a school?",
+                    "answerList": [
+                        "Does he teach in a school?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / study English at a night class)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He studies English at a night class.",
+                    "answerList": [
+                        "He studies English at a night class."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "title": "Modals of Obligation 1",
+    "description": "Put in 'mustn't' or 'don't / doesn't have to'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We have a lot of work tomorrow. You"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tell anyone what I just told you. It's a secret."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The museum is free. You"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "pay to get in."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Children"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tell lies. It's very naughty."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John's a millionaire. He"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't have to",
+                    "answerList": [
+                        "doesn't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "go to work."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "do my washing because my mother does it for me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "rush. We've got plenty of time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "smoke inside the school."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You can borrow my new dress, but you"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "get it dirty."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "miss the train, because it's the last one tonight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't have to",
+                    "answerList": [
+                        "doesn't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "do this work today, because she can do it tomorrow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "clean the floor today because I cleaned it yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "forget to lock all the doors before we leave."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "stay in a hotel in London; we can stay with my brother."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "spend too much money today, as I've only got a little left."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "get up early today, because it's Sunday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "eat too much cake or I'll get fat!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "mustn't",
+                    "answerList": [
+                        "mustn't"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "be late for the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't have to",
+                    "answerList": [
+                        "don't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "tidy up now. I'll do it later."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't have to",
+                    "answerList": [
+                        "doesn't have to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "cook tonight because he's going to a restaurant."
+                }
+            ]
+        }
+    ]
+}

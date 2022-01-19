@@ -1,0 +1,468 @@
+{
+    "title": "Choose Present Continuous or Present Simple 3",
+    "description": "Choose the present simple or the present continuous. Watch out for stative verbs.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s reading",
+                    "answerList": [
+                        "'s reading",
+                        "is reading"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) in the garden."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "are we having",
+                    "answerList": [
+                        "are we having"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/have) for dinner tonight?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "has",
+                    "answerList": [
+                        "has"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) two daughters."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m staying",
+                    "answerList": [
+                        "'m staying",
+                        "am staying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stay) in Spain for two weeks this summer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He often"
+                },
+                {
+                    "type": "input",
+                    "answer": "comes",
+                    "answerList": [
+                        "comes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) over for dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The class"
+                },
+                {
+                    "type": "input",
+                    "answer": "begins",
+                    "answerList": [
+                        "begins"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(begin) at nine every day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "are you eating",
+                    "answerList": [
+                        "are you eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/eat) at the moment?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "is Susie doing",
+                    "answerList": [
+                        "is Susie doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Susie/do) tomorrow?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't work",
+                    "answerList": [
+                        "don't work",
+                        "do not work"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) on Sundays."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "isn't studying",
+                    "answerList": [
+                        "isn't studying",
+                        "is not studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study) now, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s watching",
+                    "answerList": [
+                        "'s watching",
+                        "is watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) TV."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How often"
+                },
+                {
+                    "type": "input",
+                    "answer": "do you go",
+                    "answerList": [
+                        "do you go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/go) to restaurants?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'m not going",
+                    "answerList": [
+                        "'m not going",
+                        "am not going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) on holiday this summer."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm sorry, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't understand",
+                    "answerList": [
+                        "don't understand",
+                        "do not understand"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/understand)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s working",
+                    "answerList": [
+                        "'s working",
+                        "is working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) as a waitress for a month."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "takes",
+                    "answerList": [
+                        "takes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(take) a salsa dancing class every Tuesday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s",
+                    "answerList": [
+                        "'s",
+                        "is"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) cold here in winter."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Take your umbrella, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "'s raining",
+                    "answerList": [
+                        "'s raining",
+                        "is raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This cake"
+                },
+                {
+                    "type": "input",
+                    "answer": "tastes",
+                    "answerList": [
+                        "tastes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(taste) delicious."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The bag"
+                },
+                {
+                    "type": "input",
+                    "answer": "belongs",
+                    "answerList": [
+                        "belongs"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(belong) to Jack."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When"
+                },
+                {
+                    "type": "input",
+                    "answer": "are you arriving",
+                    "answerList": [
+                        "are you arriving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/arrive) tonight?"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,366 @@
+{
+    "title": "Passive 4 (future simple)",
+    "description": "Change these future simple sentences into the passive. You don't need to repeat 'somebody'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will meet you at the airport."
+                },
+                {
+                    "type": "input",
+                    "answer": "You will be met at the airport",
+                    "answerList": [
+                        "You will be met at the airport"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will process your application."
+                },
+                {
+                    "type": "input",
+                    "answer": "Your application will be processed",
+                    "answerList": [
+                        "Your application will be processed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will find your glasses."
+                },
+                {
+                    "type": "input",
+                    "answer": "Your glasses will be found",
+                    "answerList": [
+                        "Your glasses will be found"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will bring food."
+                },
+                {
+                    "type": "input",
+                    "answer": "Food will be brought",
+                    "answerList": [
+                        "Food will be brought"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will help you."
+                },
+                {
+                    "type": "input",
+                    "answer": "You will be helped",
+                    "answerList": [
+                        "You will be helped"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will steal that bicycle."
+                },
+                {
+                    "type": "input",
+                    "answer": "That bicycle will be stolen",
+                    "answerList": [
+                        "That bicycle will be stolen"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will take your order."
+                },
+                {
+                    "type": "input",
+                    "answer": "Your order will be taken",
+                    "answerList": [
+                        "Your order will be taken"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will write a new book."
+                },
+                {
+                    "type": "input",
+                    "answer": "A new book will be written",
+                    "answerList": [
+                        "A new book will be written"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will build a stadium."
+                },
+                {
+                    "type": "input",
+                    "answer": "A stadium will be built",
+                    "answerList": [
+                        "A stadium will be built"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will collect your luggage."
+                },
+                {
+                    "type": "input",
+                    "answer": "Your luggage will be collected",
+                    "answerList": [
+                        "Your luggage will be collected"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will explain the plan."
+                },
+                {
+                    "type": "input",
+                    "answer": "The plan will be explained",
+                    "answerList": [
+                        "The plan will be explained"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will wash the floor later."
+                },
+                {
+                    "type": "input",
+                    "answer": "The floor will be washed later",
+                    "answerList": [
+                        "The floor will be washed later"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will deliver a parcel."
+                },
+                {
+                    "type": "input",
+                    "answer": "A parcel will be delivered",
+                    "answerList": [
+                        "A parcel will be delivered"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will drink all the juice."
+                },
+                {
+                    "type": "input",
+                    "answer": "All the juice will be drunk",
+                    "answerList": [
+                        "All the juice will be drunk"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will prepare everything."
+                },
+                {
+                    "type": "input",
+                    "answer": "Everything will be prepared",
+                    "answerList": [
+                        "Everything will be prepared"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will write the article next week."
+                },
+                {
+                    "type": "input",
+                    "answer": "The article will be written next week",
+                    "answerList": [
+                        "The article will be written next week"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will eat the chocolate."
+                },
+                {
+                    "type": "input",
+                    "answer": "The chocolate will be eaten",
+                    "answerList": [
+                        "The chocolate will be eaten"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will send the information."
+                },
+                {
+                    "type": "input",
+                    "answer": "The information will be sent",
+                    "answerList": [
+                        "The information will be sent"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will call you."
+                },
+                {
+                    "type": "input",
+                    "answer": "You will be called",
+                    "answerList": [
+                        "You will be called"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Somebody will clean the windows."
+                },
+                {
+                    "type": "input",
+                    "answer": "The windows will be cleaned",
+                    "answerList": [
+                        "The windows will be cleaned"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

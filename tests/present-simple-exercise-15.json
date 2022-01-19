@@ -1,0 +1,378 @@
+{
+    "title": "Present Simple 'Be' Mixed Exercise 2",
+    "description": "Make present simple sentences with 'be'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / hungry)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You're hungry.",
+                    "answerList": [
+                        "You're hungry.",
+                        "You are hungry."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / at home)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They aren't at home.",
+                    "answerList": [
+                        "They aren't at home.",
+                        "They are not at home."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / the party)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When's the party?",
+                    "answerList": [
+                        "When's the party?",
+                        "When is the party?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie and Ann / on the bus)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are Julie and Ann on the bus?",
+                    "answerList": [
+                        "Are Julie and Ann on the bus?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / kind)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she kind?",
+                    "answerList": [
+                        "Is she kind?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / German)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they German?",
+                    "answerList": [
+                        "Are they German?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / late)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you late?",
+                    "answerList": [
+                        "Are you late?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / early)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Am I early?",
+                    "answerList": [
+                        "Am I early?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / from London)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you from London?",
+                    "answerList": [
+                        "Are you from London?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / sad)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're sad.",
+                    "answerList": [
+                        "They're sad.",
+                        "They are sad."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / beautiful)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's beautiful.",
+                    "answerList": [
+                        "She's beautiful.",
+                        "She is beautiful."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / in love)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're in love.",
+                    "answerList": [
+                        "We're in love.",
+                        "We are in love."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where are you?",
+                    "answerList": [
+                        "Where are you?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / happy)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm happy.",
+                    "answerList": [
+                        "I'm happy.",
+                        "I am happy."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / this)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What's this?",
+                    "answerList": [
+                        "What's this?",
+                        "What is this?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / too hot)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not too hot.",
+                    "answerList": [
+                        "I'm not too hot.",
+                        "I am not too hot."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / called Julia)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She isn't called Julia.",
+                    "answerList": [
+                        "She isn't called Julia.",
+                        "She is not called Julia."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how old / she)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How old is she?",
+                    "answerList": [
+                        "How old is she?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / the train)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What time's the train?",
+                    "answerList": [
+                        "What time's the train?",
+                        "What time is the train?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / an accountant)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He isn't an accountant.",
+                    "answerList": [
+                        "He isn't an accountant.",
+                        "He is not an accountant."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "title": "Make or Do 1",
+    "description": "Put in the correct form of 'make' or 'do'",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John worked hard and"
+                },
+                {
+                    "type": "input",
+                    "answer": "did",
+                    "answerList": [
+                        "did"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his best at his job, but he still wasn't promoted."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teenagers were"
+                },
+                {
+                    "type": "input",
+                    "answer": "making",
+                    "answerList": [
+                        "making"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "such a noise that the neighbour called the police."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "makes",
+                    "answerList": [
+                        "makes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a payment on her debt every month. Soon she'll have finished paying it off."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "So many chores to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "! I need to clean the bathroom and the kitchen, hoover and change all the beds."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Sorry, I've"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a mistake. The restaurant isn't here, but on another street."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's late, and we should go home. Let's"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a move."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, his business"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a huge loss last year and had to close down."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you don't speak English, you'll find it hard to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "business in the UK."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a promise to his grandmother that he'd never fight anyone ever again."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I called the hotel and"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a reservation for two people for Saturday the 16th."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The washing machine flooded and the water"
+                },
+                {
+                    "type": "input",
+                    "answer": "did",
+                    "answerList": [
+                        "did"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a lot of damage. All the carpets had to be replaced."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "makes",
+                    "answerList": [
+                        "makes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a lot of lists of things to do, but she never does any of the things!."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Unfortunately, all the students"
+                },
+                {
+                    "type": "input",
+                    "answer": "did",
+                    "answerList": [
+                        "did"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "very badly on the test."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Children"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "such a mess! I spend my whole life tidying up."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car was"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "90 miles per hour on the motorway when it was stopped by the police."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John went outside to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a phone call."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy has decided to"
+                },
+                {
+                    "type": "input",
+                    "answer": "do",
+                    "answerList": [
+                        "do"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a course this autumn. She's going to study Spanish."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandmother loves"
+                },
+                {
+                    "type": "input",
+                    "answer": "doing",
+                    "answerList": [
+                        "doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "crosswords."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Anne"
+                },
+                {
+                    "type": "input",
+                    "answer": "made",
+                    "answerList": [
+                        "made"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a good point. She said that it's often cheaper to fly in the UK than take the train."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I were to"
+                },
+                {
+                    "type": "input",
+                    "answer": "make",
+                    "answerList": [
+                        "make"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a prediction, I'd say that it'll rain this afternoon."
+                }
+            ]
+        }
+    ]
+}

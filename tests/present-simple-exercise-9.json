@@ -1,0 +1,372 @@
+{
+    "title": "Present Simple Other Verbs Mixed Exercise 3",
+    "description": "Make the present simple tense (choose positive, negative or question)",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go out much)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't go out much.",
+                    "answerList": [
+                        "We don't go out much.",
+                        "We do not go out much."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / think it's a good idea)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They think it's a good idea.",
+                    "answerList": [
+                        "They think it's a good idea."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / know how to play the violin)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does he know how to play the violin?",
+                    "answerList": [
+                        "Does he know how to play the violin?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / I / have to clean up)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why do I have to clean up?",
+                    "answerList": [
+                        "Why do I have to clean up?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / sleep late at the weekends)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't sleep late at the weekends.",
+                    "answerList": [
+                        "She doesn't sleep late at the weekends.",
+                        "She does not sleep late at the weekends."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / love studying languages)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do I love studying languages?",
+                    "answerList": [
+                        "Do I love studying languages?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / believe the Prime Minister)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't believe the Prime Minister.",
+                    "answerList": [
+                        "We don't believe the Prime Minister.",
+                        "We do not believe the Prime Minister."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / understand the question)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you understand the question?",
+                    "answerList": [
+                        "Do you understand the question?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / want to go to the cinema)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't want to go to the cinema.",
+                    "answerList": [
+                        "She doesn't want to go to the cinema.",
+                        "She does not want to go to the cinema."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / like trying new kinds of food)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I like trying new kinds of food.",
+                    "answerList": [
+                        "I like trying new kinds of food."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(David / want some coffee)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Does David want some coffee?",
+                    "answerList": [
+                        "Does David want some coffee?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / Lucy / do at the weekends)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What does Lucy do at the weekends?",
+                    "answerList": [
+                        "What does Lucy do at the weekends?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / work late on Fridays)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't work late on Fridays.",
+                    "answerList": [
+                        "They don't work late on Fridays.",
+                        "They do not work late on Fridays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / have three daughters)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She has three daughters.",
+                    "answerList": [
+                        "She has three daughters."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / own a car)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you own a car?",
+                    "answerList": [
+                        "Do you own a car?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / Alicia / work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where does Alicia work?",
+                    "answerList": [
+                        "Where does Alicia work?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / she / go to her Chinese class)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When does she go to her Chinese class?",
+                    "answerList": [
+                        "When does she go to her Chinese class?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / believe you)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't believe you.",
+                    "answerList": [
+                        "I don't believe you.",
+                        "I do not believe you."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / think about her holidays often)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She thinks about her holidays often.",
+                    "answerList": [
+                        "She thinks about her holidays often."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / like going to restaurants)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Do you like going to restaurants?",
+                    "answerList": [
+                        "Do you like going to restaurants?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

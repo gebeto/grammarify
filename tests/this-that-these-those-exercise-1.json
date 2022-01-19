@@ -1,0 +1,402 @@
+{
+    "title": "This That These Those Exercise 1",
+    "description": "Choose this or that or these or those.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "This",
+                    "answerList": [
+                        "This"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "is my friend Julie."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is"
+                },
+                {
+                    "type": "input",
+                    "answer": "that",
+                    "answerList": [
+                        "that"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "? (On the telephone.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "This",
+                    "answerList": [
+                        "This"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "book (the one I\u2019m holding) is really good."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "That",
+                    "answerList": [
+                        "That"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "\u2019s my brother, over there."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What are"
+                },
+                {
+                    "type": "input",
+                    "answer": "those",
+                    "answerList": [
+                        "those"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(things near you)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "These",
+                    "answerList": [
+                        "These"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "strawberries are delicious (the bowl is in front of me on the table)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "This",
+                    "answerList": [
+                        "This"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "party is really fun. (We\u2019re at the party now.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "That",
+                    "answerList": [
+                        "That"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "show we saw last week was so depressing!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(On the telephone)"
+                },
+                {
+                    "type": "input",
+                    "answer": "this",
+                    "answerList": [
+                        "this"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "is (your own name)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I\u2019m really enjoying"
+                },
+                {
+                    "type": "input",
+                    "answer": "this",
+                    "answerList": [
+                        "this"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(experience that\u2019s happening now)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "That",
+                    "answerList": [
+                        "That"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "painting (that we saw yesterday) was really beautiful."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really liked"
+                },
+                {
+                    "type": "input",
+                    "answer": "those",
+                    "answerList": [
+                        "those"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "cakes. (I\u2019m talking about the cakes we ate last week.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "That",
+                    "answerList": [
+                        "That"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "\u2019s a great idea! (the idea you explained to me.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David,"
+                },
+                {
+                    "type": "input",
+                    "answer": "this",
+                    "answerList": [
+                        "this"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "is Lukas."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is"
+                },
+                {
+                    "type": "input",
+                    "answer": "that",
+                    "answerList": [
+                        "that"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "woman by the door?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Those",
+                    "answerList": [
+                        "Those"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "are fabulous trousers! (That you\u2019re wearing.)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I really like"
+                },
+                {
+                    "type": "input",
+                    "answer": "these",
+                    "answerList": [
+                        "these"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "chocolates (that I\u2019m eating now)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Those",
+                    "answerList": [
+                        "Those"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "people we met last night were really nice."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "That",
+                    "answerList": [
+                        "That"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "\u2019s right! (The thing that you said is right)"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could I please try on"
+                },
+                {
+                    "type": "input",
+                    "answer": "these",
+                    "answerList": [
+                        "these"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "t-shirts? (I\u2019m holding the t-shirts)."
+                }
+            ]
+        }
+    ]
+}

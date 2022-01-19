@@ -1,0 +1,381 @@
+{
+    "title": "Past Continuous - Mixed Exercise 1",
+    "description": "Make the correct form of the past continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / cook)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He was cooking",
+                    "answerList": [
+                        "He was cooking"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / play cards)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was she playing cards?",
+                    "answerList": [
+                        "Was she playing cards?",
+                        "Was she playing cards"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / cry)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I wasn't crying",
+                    "answerList": [
+                        "I wasn't crying",
+                        "I was not crying"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / feel well)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You weren't feeling well",
+                    "answerList": [
+                        "You weren't feeling well",
+                        "You were not feeling well"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / I / go when I met you)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where was I going when I met you?",
+                    "answerList": [
+                        "Where was I going when I met you?",
+                        "Where was I going when I met you"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / sleeping at midnight)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She wasn't sleeping at midnight",
+                    "answerList": [
+                        "She wasn't sleeping at midnight",
+                        "She was not sleeping at midnight"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / work)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was I working?",
+                    "answerList": [
+                        "Was I working?",
+                        "Was I working"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / sleep when I got home)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Were you sleeping when I got home?",
+                    "answerList": [
+                        "Were you sleeping when I got home?",
+                        "Were you sleeping when I got home"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / rain at lunchtime)"
+                },
+                {
+                    "type": "input",
+                    "answer": "It was raining at lunchtime",
+                    "answerList": [
+                        "It was raining at lunchtime"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / do)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What were you doing?",
+                    "answerList": [
+                        "What were you doing?",
+                        "What were you doing"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / she / run)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why was she running?",
+                    "answerList": [
+                        "Why was she running?",
+                        "Why was she running"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / read)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You weren't reading",
+                    "answerList": [
+                        "You weren't reading",
+                        "You were not reading"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how / we / do at that time)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How were we doing at that time?",
+                    "answerList": [
+                        "How were we doing at that time?",
+                        "How were we doing at that time"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / watch a film at 3pm)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He wasn't watching a film at 3pm",
+                    "answerList": [
+                        "He wasn't watching a film at 3pm",
+                        "He was not watching a film at 3pm"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / do my homework at eight o'clock)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I was doing my homework at eight o'clock",
+                    "answerList": [
+                        "I was doing my homework at eight o'clock"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / it / rain)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where was it raining?",
+                    "answerList": [
+                        "Where was it raining?",
+                        "Where was it raining"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / shop when I called you)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You were shopping when I called you",
+                    "answerList": [
+                        "You were shopping when I called you"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / eat dinner when we arrived)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She was eating dinner when we arrived",
+                    "answerList": [
+                        "She was eating dinner when we arrived"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / live in Tokyo at the time)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was he living in Tokyo at the time?",
+                    "answerList": [
+                        "Was he living in Tokyo at the time?",
+                        "Was he living in Tokyo at the time"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(it / snow)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Was it snowing?",
+                    "answerList": [
+                        "Was it snowing?",
+                        "Was it snowing"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

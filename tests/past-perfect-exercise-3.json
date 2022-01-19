@@ -1,0 +1,446 @@
+{
+    "title": "Choose past simple or past perfect 1",
+    "description": "Choose the past simple or the past perfect tense",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We had already eaten when John"
+                },
+                {
+                    "type": "input",
+                    "answer": "came",
+                    "answerList": [
+                        "came"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Last year Juan"
+                },
+                {
+                    "type": "input",
+                    "answer": "passed",
+                    "answerList": [
+                        "passed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) all his exams."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answer": "got",
+                    "answerList": [
+                        "got"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) to the airport I discovered I had forgotten my passport."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to the library, then I"
+                },
+                {
+                    "type": "input",
+                    "answer": "bought",
+                    "answerList": [
+                        "bought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) some milk and went home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I opened my handbag to find that I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had forgotten",
+                    "answerList": [
+                        "had forgotten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(forget) my credit card."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When we"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) at the station, the train had already left."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We got home to find that someone"
+                },
+                {
+                    "type": "input",
+                    "answer": "had broken",
+                    "answerList": [
+                        "had broken"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(break) into the house."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I opened the fridge to find that someone"
+                },
+                {
+                    "type": "input",
+                    "answer": "had eaten",
+                    "answerList": [
+                        "had eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) all my chocolate."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I had known my husband for three years when we"
+                },
+                {
+                    "type": "input",
+                    "answer": "got",
+                    "answerList": [
+                        "got"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) married."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie was very pleased to see that John"
+                },
+                {
+                    "type": "input",
+                    "answer": "had cleaned",
+                    "answerList": [
+                        "had cleaned"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(clean) the kitchen."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't rained",
+                    "answerList": [
+                        "hadn't rained"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) all summer, so the grass was completely dead."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When he"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) at the party, Julie had just left."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "After arriving home, I realised I"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't bought",
+                    "answerList": [
+                        "hadn't bought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) any milk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The laundry was wet - it"
+                },
+                {
+                    "type": "input",
+                    "answer": "had rained",
+                    "answerList": [
+                        "had rained"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) while I was out."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "William felt ill last night because he"
+                },
+                {
+                    "type": "input",
+                    "answer": "had eaten",
+                    "answerList": [
+                        "had eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) too many cakes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Keiko"
+                },
+                {
+                    "type": "input",
+                    "answer": "met",
+                    "answerList": [
+                        "met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) William last September."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "First I tidied the flat, then I"
+                },
+                {
+                    "type": "input",
+                    "answer": "sat",
+                    "answerList": [
+                        "sat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sit) down and had a cup of coffee."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John"
+                },
+                {
+                    "type": "input",
+                    "answer": "played",
+                    "answerList": [
+                        "played"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) the piano when he was a child, but he doesn't play now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I opened the curtains the sun was shining and the ground was white. It"
+                },
+                {
+                    "type": "input",
+                    "answer": "had snowed",
+                    "answerList": [
+                        "had snowed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(snow) during the night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When Julie got home from her holiday, the flat was a mess. John"
+                },
+                {
+                    "type": "input",
+                    "answer": "had had",
+                    "answerList": [
+                        "had had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a party."
+                }
+            ]
+        }
+    ]
+}

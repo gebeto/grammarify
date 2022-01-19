@@ -1,0 +1,308 @@
+{
+    "title": "Linking Words Contrast 1",
+    "description": "Choose 'despite', 'however' or 'although'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Despite",
+                    "answerList": [
+                        "Despite"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the rain, we still went to the park."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Although",
+                    "answerList": [
+                        "Although"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it was raining, we still went to the park."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was raining."
+                },
+                {
+                    "type": "input",
+                    "answer": "However",
+                    "answerList": [
+                        "However"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ", we still went to the park."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John bought the watch,"
+                },
+                {
+                    "type": "input",
+                    "answer": "despite",
+                    "answerList": [
+                        "despite"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the fact that it was expensive."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John bought the watch."
+                },
+                {
+                    "type": "input",
+                    "answer": "However",
+                    "answerList": [
+                        "However"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ", it was expensive."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Although",
+                    "answerList": [
+                        "Although"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it was expensive, John bought the watch."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I finished the homework. It,"
+                },
+                {
+                    "type": "input",
+                    "answer": "however",
+                    "answerList": [
+                        "however"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ", wasn't easy.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I finished the homework,"
+                },
+                {
+                    "type": "input",
+                    "answer": "although",
+                    "answerList": [
+                        "although"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "it wasn't easy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Despite",
+                    "answerList": [
+                        "Despite"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the fact that it wasn't easy, I finished the homework."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She went for a long walk,"
+                },
+                {
+                    "type": "input",
+                    "answer": "despite",
+                    "answerList": [
+                        "despite"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "being cold."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Although",
+                    "answerList": [
+                        "Although"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "she was cold, she went for a long walk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She was cold. She went for a long walk,"
+                },
+                {
+                    "type": "input",
+                    "answer": "however",
+                    "answerList": [
+                        "however"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The restaurant has a good reputation."
+                },
+                {
+                    "type": "input",
+                    "answer": "However",
+                    "answerList": [
+                        "However"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": ", the food was terrible."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Despite",
+                    "answerList": [
+                        "Despite"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the restaurant's good reputation, the food was terrible."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "Although",
+                    "answerList": [
+                        "Although"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the restaurant has a good reputation, the food was terrible."
+                }
+            ]
+        }
+    ]
+}

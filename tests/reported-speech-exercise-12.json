@@ -1,0 +1,385 @@
+{
+    "title": "Reported Statements 6 (Present Simple)",
+    "description": "Change the direct speech into reported speech. Use 'she said' at the beginning of each answer. It's the same day, so you don't need to change the time expressions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He works in a bank.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said he worked in a bank.",
+                    "answerList": [
+                        "She said he worked in a bank.",
+                        "She said that he worked in a bank."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Julie doesn't like going out much.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Julie didn't like going out much.",
+                    "answerList": [
+                        "She said Julie didn't like going out much.",
+                        "She said that Julie didn't like going out much."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't have a computer.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said that she didn't have a computer.",
+                    "answerList": [
+                        "She said that she didn't have a computer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They never arrive on time.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they never arrived on time.",
+                    "answerList": [
+                        "She said they never arrived on time.",
+                        "She said that they never arrived on time."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We often meet friends in London at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they often met friends in London at the weekend.",
+                    "answerList": [
+                        "She said they often met friends in London at the weekend.",
+                        "She said that they often met friends in London at the weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"David doesn't have any children.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said David didn't have any children.",
+                    "answerList": [
+                        "She said David didn't have any children.",
+                        "She said that David didn't have any children."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't go to the gym very often.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she didn't go to the gym very often.",
+                    "answerList": [
+                        "She said she didn't go to the gym very often.",
+                        "She said that she didn't go to the gym very often."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy owns three flats in the city.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Lucy owned three flats in the city.",
+                    "answerList": [
+                        "She said Lucy owned three flats in the city.",
+                        "She said that Lucy owned three flats in the city."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I never get up early on Sundays.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she never got up early on Sundays.",
+                    "answerList": [
+                        "She said she never got up early on Sundays.",
+                        "She said that she never got up early on Sundays."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Jill meets her boyfriend at the cinema every Friday night.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Jill met her boyfriend at the cinema every Friday night.",
+                    "answerList": [
+                        "She said Jill met her boyfriend at the cinema every Friday night.",
+                        "She said that Jill met her boyfriend at the cinema every Friday night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We don't travel much.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they didn't travel much.",
+                    "answerList": [
+                        "She said they didn't travel much.",
+                        "She said that they didn't travel much."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"John doesn't live in Japan any more.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said John didn't live in Japan any more.",
+                    "answerList": [
+                        "She said John didn't live in Japan any more.",
+                        "She said that John didn't live in Japan any more."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They work in Hong Kong.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they worked in Hong Kong.",
+                    "answerList": [
+                        "She said they worked in Hong Kong.",
+                        "She said that they worked in Hong Kong.."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I have to work until seven or eight pm every night.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she had to work until seven or eight pm every night.",
+                    "answerList": [
+                        "She said she had to work until seven or eight pm every night.",
+                        "She said that she had to work until seven or eight pm every night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't want to go to the theatre next weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she didn't want to go to the theatre next weekend.",
+                    "answerList": [
+                        "She said she didn't want to go to the theatre next weekend.",
+                        "She said that she didn't want to go to the theatre next weekend."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We like working in Paris.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they liked working in Paris.",
+                    "answerList": [
+                        "She said they liked working in Paris.",
+                        "She said that they liked working in Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She doesn't have enough time to do everything.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she didn't have enough time to do everything.",
+                    "answerList": [
+                        "She said she didn't have enough time to do everything.",
+                        "She said that she didn't have enough time to do everything."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Tony hates mushrooms.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said Tony hated mushrooms.",
+                    "answerList": [
+                        "She said Tony hated mushrooms.",
+                        "She said that Tony hated mushrooms."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They often go on holiday in July.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said they often went on holiday in July.",
+                    "answerList": [
+                        "She said they often went on holiday in July.",
+                        "She said that they often went on holiday in July."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I live in New York.\""
+                },
+                {
+                    "type": "input",
+                    "answer": "She said she lived in New York.",
+                    "answerList": [
+                        "She said she lived in New York.",
+                        "She said that she lived in New York."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

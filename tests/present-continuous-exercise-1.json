@@ -1,0 +1,386 @@
+{
+    "title": "Present Continuous - Positive and Negative 1",
+    "description": "Make the present continuous, positive or negative",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / study at the moment)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm studying at the moment.",
+                    "answerList": [
+                        "I'm studying at the moment.",
+                        "I am studying at the moment."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / sleep)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not sleeping.",
+                    "answerList": [
+                        "I'm not sleeping.",
+                        "I am not sleeping."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / play badminton tonight)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You're playing badminton tonight.",
+                    "answerList": [
+                        "You're playing badminton tonight.",
+                        "You are playing badminton tonight."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / watch TV)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're watching TV.",
+                    "answerList": [
+                        "We're watching TV.",
+                        "We are watching TV."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / work in Spain)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She isn't working in Spain.",
+                    "answerList": [
+                        "She isn't working in Spain.",
+                        "She is not working in Spain."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / wait for the bus)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He isn't waiting for the bus.",
+                    "answerList": [
+                        "He isn't waiting for the bus.",
+                        "He is not waiting for the bus."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / read)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're reading.",
+                    "answerList": [
+                        "They're reading.",
+                        "They are reading."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / go to the cinema tonight)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We aren't going to the cinema tonight.",
+                    "answerList": [
+                        "We aren't going to the cinema tonight.",
+                        "We are not going to the cinema tonight."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / read the newspaper)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You aren't reading the newspaper.",
+                    "answerList": [
+                        "You aren't reading the newspaper.",
+                        "You are not reading the newspaper."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / eat chocolate)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's eating chocolate.",
+                    "answerList": [
+                        "She's eating chocolate.",
+                        "She is eating chocolate."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / live in Paris)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not living in Paris.",
+                    "answerList": [
+                        "I'm not living in Paris.",
+                        "I am not living in Paris."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / study French)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're studying French.",
+                    "answerList": [
+                        "We're studying French.",
+                        "We are studying French."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / leave now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They aren't leaving now.",
+                    "answerList": [
+                        "They aren't leaving now.",
+                        "They are not leaving now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / live in London)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're living in London.",
+                    "answerList": [
+                        "They're living in London.",
+                        "They are living in London."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / work in a restaurant now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's working in a restaurant now.",
+                    "answerList": [
+                        "He's working in a restaurant now.",
+                        "He is working in a restaurant now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / meet my father at four)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not meeting my father at four.",
+                    "answerList": [
+                        "I'm not meeting my father at four.",
+                        "I am not meeting my father at four."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / drink tea now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She isn't drinking tea now.",
+                    "answerList": [
+                        "She isn't drinking tea now.",
+                        "She is not drinking tea now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / play the guitar)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She's playing the guitar.",
+                    "answerList": [
+                        "She's playing the guitar.",
+                        "She is playing the guitar."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / cook)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're cooking.",
+                    "answerList": [
+                        "We're cooking.",
+                        "We are cooking."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / walk to school now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's walking to school now.",
+                    "answerList": [
+                        "He's walking to school now.",
+                        "He is walking to school now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

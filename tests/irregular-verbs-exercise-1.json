@@ -1,0 +1,556 @@
+{
+    "title": "Irregular Verbs - Past Simple 1",
+    "description": "Change the verb into the past simple",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "heard",
+                    "answerList": [
+                        "heard"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(hear) a new song on the radio."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "read",
+                    "answerList": [
+                        "read"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(read) three books last week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "spoke",
+                    "answerList": [
+                        "spoke"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) French to the waitress."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "understood",
+                    "answerList": [
+                        "understood"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(understand) during the class, but now he doesn't understand."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "forgot",
+                    "answerList": [
+                        "forgot"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(forget) to buy some milk."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a baby in June."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answer": "lost",
+                    "answerList": [
+                        "lost"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lose) your keys last week."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "swam",
+                    "answerList": [
+                        "swam"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(swim) 500m."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "gave",
+                    "answerList": [
+                        "gave"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(give) my mother a CD for Christmas."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At the age of 23, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "became",
+                    "answerList": [
+                        "became"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(become) a doctor."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "knew",
+                    "answerList": [
+                        "knew"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(know) the answer yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "told",
+                    "answerList": [
+                        "told"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tell) me that he lived in Toronto."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "lent",
+                    "answerList": [
+                        "lent"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(lend) John \u00a3200."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "drank",
+                    "answerList": [
+                        "drank"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) too much coffee yesterday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children"
+                },
+                {
+                    "type": "input",
+                    "answer": "slept",
+                    "answerList": [
+                        "slept"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) in the car."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "kept",
+                    "answerList": [
+                        "kept"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(keep) his promise."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "chose",
+                    "answerList": [
+                        "chose"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(choose) steak for dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The film"
+                },
+                {
+                    "type": "input",
+                    "answer": "began",
+                    "answerList": [
+                        "began"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(begin) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "flew",
+                    "answerList": [
+                        "flew"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fly) to Sydney."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "drove",
+                    "answerList": [
+                        "drove"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drive) to Beijing."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "taught",
+                    "answerList": [
+                        "taught"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(teach) English at the University."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "sent",
+                    "answerList": [
+                        "sent"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(send) you an email earlier."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "left",
+                    "answerList": [
+                        "left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) the house at 7am."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "felt",
+                    "answerList": [
+                        "felt"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(feel) terrible after eating the prawns."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "brought",
+                    "answerList": [
+                        "brought"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bring) some chocolates to the party."
+                }
+            ]
+        }
+    ]
+}

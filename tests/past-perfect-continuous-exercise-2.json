@@ -1,0 +1,236 @@
+{
+    "title": "Past Perfect Continuous Negative",
+    "description": "",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been working",
+                    "answerList": [
+                        "hadn't been working",
+                        "had not been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) there long when she quit."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been working",
+                    "answerList": [
+                        "hadn't been working",
+                        "had not been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) but she was tired anyway."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been raining",
+                    "answerList": [
+                        "hadn't been raining",
+                        "had not been raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/rain) long when I got home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He was in trouble with the teacher because he"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been going",
+                    "answerList": [
+                        "hadn't been going",
+                        "had not been going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to classes."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been living",
+                    "answerList": [
+                        "hadn't been living",
+                        "had not been living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in London for three years when we got married! It was more like five years."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Although it was hot in the kitchen, Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been cooking",
+                    "answerList": [
+                        "hadn't been cooking",
+                        "had not been cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been sleeping",
+                    "answerList": [
+                        "hadn't been sleeping",
+                        "had not been sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) long when there was a knock at the door."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He didn't feel healthy because he"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been going",
+                    "answerList": [
+                        "hadn't been going",
+                        "had not been going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the gym."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I caught a cold because I"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been eating",
+                    "answerList": [
+                        "hadn't been eating",
+                        "had not been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) properly."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She looked tired but she"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been studying",
+                    "answerList": [
+                        "hadn't been studying",
+                        "had not been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) ."
+                }
+            ]
+        }
+    ]
+}

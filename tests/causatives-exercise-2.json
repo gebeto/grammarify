@@ -1,0 +1,366 @@
+{
+    "title": "Causatives 2",
+    "description": "Change the sentences so that they use the structure 'have someone do something' or 'get someone to do something'. Start with 'I'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The cleaner cleaned the house. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the cleaner clean the house.",
+                    "answerList": [
+                        "I had the cleaner clean the house."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The taxi driver collected us. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the taxi driver collect us.",
+                    "answerList": [
+                        "I had the taxi driver collect us."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John arrived on time. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got John to arrive on time.",
+                    "answerList": [
+                        "I got John to arrive on time."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The mechanic fixed the brakes. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the mechanic fix the brakes.",
+                    "answerList": [
+                        "I had the mechanic fix the brakes."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher explained the lesson. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the teacher explain the lesson.",
+                    "answerList": [
+                        "I had the teacher explain the lesson."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My husband looked after our children. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my husband to look after our children.",
+                    "answerList": [
+                        "I got my husband to look after our children."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The waiter brought some water. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the waiter bring some water.",
+                    "answerList": [
+                        "I had the waiter bring some water."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The nurse took your temperature. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the nurse take your temperature.",
+                    "answerList": [
+                        "I had the nurse take your temperature."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The students stopped sleeping in class. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the students to stop sleeping in class.",
+                    "answerList": [
+                        "I got the students to stop sleeping in class."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teenagers went to bed early. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the teenagers to go to bed early.",
+                    "answerList": [
+                        "I got the teenagers to go to bed early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The dentist cleaned my teeth. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the dentist clean my teeth.",
+                    "answerList": [
+                        "I had the dentist clean my teeth."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My friend took her car. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my friend to take her car.",
+                    "answerList": [
+                        "I got my friend to take her car."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The window cleaner washed the windows. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the window cleaner wash the windows.",
+                    "answerList": [
+                        "I had the window cleaner wash the windows."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The toddler ate her vegetables. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the toddler to eat her vegetables.",
+                    "answerList": [
+                        "I got the toddler to eat her vegetables."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher checked my writing. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the teacher to check my writing.",
+                    "answerList": [
+                        "I got the teacher to check my writing."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The secretary typed the report. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the secretary type the report.",
+                    "answerList": [
+                        "I had the secretary type the report."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The shop assistant gave me a discount. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the shop assistant to give me a discount.",
+                    "answerList": [
+                        "I got the shop assistant to give me a discount."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The shop delivered the food. (have)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I had the shop deliver the food.",
+                    "answerList": [
+                        "I had the shop deliver the food."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children did their homework. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got the children to do their homework.",
+                    "answerList": [
+                        "I got the children to do their homework."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My colleague helped me write the report. (get)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I got my colleague to help me write the report.",
+                    "answerList": [
+                        "I got my colleague to help me write the report."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

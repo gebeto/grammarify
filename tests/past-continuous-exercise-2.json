@@ -1,0 +1,446 @@
+{
+    "title": "Past Continuous - Questions",
+    "description": "Make past continuous 'wh' or 'yes / no' questions",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Alan dancing",
+                    "answerList": [
+                        "was Alan dancing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Alan/dance)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Susie drinking gin",
+                    "answerList": [
+                        "was Susie drinking gin"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Susie/drink gin) ?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "were John and Ann singing",
+                    "answerList": [
+                        "were John and Ann singing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(John and Ann/sing)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Luke talking to the girls",
+                    "answerList": [
+                        "was Luke talking to the girls"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Luke/talk to the girls)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Jodie putting on make up",
+                    "answerList": [
+                        "was Jodie putting on make up"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Jodie/put on make up)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "were we cooking",
+                    "answerList": [
+                        "were we cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(we/cook)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Jane playing the guitar",
+                    "answerList": [
+                        "was Jane playing the guitar"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Jane/play the guitar)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was David reading a book",
+                    "answerList": [
+                        "was David reading a book"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(David/read a book)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Francis sitting in the corner",
+                    "answerList": [
+                        "was Francis sitting in the corner"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Francis/sit in the corner)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you arrived at the party"
+                },
+                {
+                    "type": "input",
+                    "answer": "was everybody having fun",
+                    "answerList": [
+                        "was everybody having fun"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(everybody/have fun)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, where"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you going",
+                    "answerList": [
+                        "were you going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/go)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you doing",
+                    "answerList": [
+                        "were you doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, who"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you meeting",
+                    "answerList": [
+                        "were you meeting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/meet)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Lucy wearing",
+                    "answerList": [
+                        "was Lucy wearing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Lucy/wear)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you eating",
+                    "answerList": [
+                        "were you eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/eat)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you drinking",
+                    "answerList": [
+                        "were you drinking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/drink)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, why"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Lucy smoking",
+                    "answerList": [
+                        "was Lucy smoking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Lucy/smoke)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, who"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you talking to",
+                    "answerList": [
+                        "were you talking to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/talk to)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, what"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you carrying",
+                    "answerList": [
+                        "were you carrying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/carry)?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I saw you and Lucy last night, how"
+                },
+                {
+                    "type": "input",
+                    "answer": "was Lucy feeling",
+                    "answerList": [
+                        "was Lucy feeling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(Lucy/feel)?"
+                }
+            ]
+        }
+    ]
+}

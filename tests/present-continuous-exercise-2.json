@@ -1,0 +1,385 @@
+{
+    "title": "Present Continuous - Positive and Negative 2",
+    "description": "Make the present continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / meet his friend tonight)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's meeting his friend tonight.",
+                    "answerList": [
+                        "He's meeting his friend tonight.",
+                        "He is meeting his friend tonight."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / walk to school now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He isn't walking to school now.",
+                    "answerList": [
+                        "He isn't walking to school now.",
+                        "He is not walking to school now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / watch TV at the moment)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We aren't watching TV at the moment.",
+                    "answerList": [
+                        "We aren't watching TV at the moment.",
+                        "We are not watching TV at the moment."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / read a book)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You aren't reading a book.",
+                    "answerList": [
+                        "You aren't reading a book.",
+                        "You are not reading a book."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / visit Linda tonight)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm visiting Linda tonight.",
+                    "answerList": [
+                        "I'm visiting Linda tonight.",
+                        "I am visiting Linda tonight."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / eat dinner now)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She isn't eating dinner now.",
+                    "answerList": [
+                        "She isn't eating dinner now.",
+                        "She is not eating dinner now."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / not / work in a bookshop this summer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy isn't working in a bookshop this summer.",
+                    "answerList": [
+                        "Lucy isn't working in a bookshop this summer.",
+                        "Lucy is not working in a bookshop this summer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / watch a film)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're watching a film.",
+                    "answerList": [
+                        "They're watching a film.",
+                        "They are watching a film."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / buy a new car)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We're buying a new car.",
+                    "answerList": [
+                        "We're buying a new car.",
+                        "We are buying a new car."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(David / have a party tomorrow)"
+                },
+                {
+                    "type": "input",
+                    "answer": "David's having a party tomorrow.",
+                    "answerList": [
+                        "David's having a party tomorrow.",
+                        "David is having a party tomorrow."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / get a bike)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm getting a bike.",
+                    "answerList": [
+                        "I'm getting a bike.",
+                        "I am getting a bike."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / take a long time)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You're taking a long time.",
+                    "answerList": [
+                        "You're taking a long time.",
+                        "You are taking a long time."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / come until later)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not coming until later.",
+                    "answerList": [
+                        "I'm not coming until later.",
+                        "I am not coming until later."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Jill and Susan / walk)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Jill and Susan are walking.",
+                    "answerList": [
+                        "Jill and Susan are walking."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / listen to the radio)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We aren't listening to the radio.",
+                    "answerList": [
+                        "We aren't listening to the radio.",
+                        "We are not listening to the radio."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / speak to each other)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They aren't speaking to each other.",
+                    "answerList": [
+                        "They aren't speaking to each other.",
+                        "They are not speaking to each other."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / take a shower)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He's taking a shower.",
+                    "answerList": [
+                        "He's taking a shower.",
+                        "He is taking a shower."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / get fat)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You're getting fat.",
+                    "answerList": [
+                        "You're getting fat.",
+                        "You are getting fat."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / use the computer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I'm not using the computer.",
+                    "answerList": [
+                        "I'm not using the computer.",
+                        "I am not using the computer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / visit their parents)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They're not visiting their parents.",
+                    "answerList": [
+                        "They're not visiting their parents.",
+                        "They are not visiting their parents."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

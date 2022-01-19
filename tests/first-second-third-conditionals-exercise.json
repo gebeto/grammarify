@@ -1,0 +1,1071 @@
+{
+    "title": "First / second / third conditionals",
+    "description": "Make the first, second or third conditional",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the students"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been",
+                    "answerList": [
+                        "hadn't been",
+                        "had not been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late for the exam, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "would have passed",
+                    "answerList": [
+                        "would have passed",
+                        "'d have passed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(pass) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the weather"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't been",
+                    "answerList": [
+                        "hadn't been",
+                        "had not been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so cold, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "would have gone",
+                    "answerList": [
+                        "would have gone",
+                        "'d have gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the beach."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) her laptop with her, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "would email",
+                    "answerList": [
+                        "would email"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(email) me."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't go",
+                    "answerList": [
+                        "doesn't go",
+                        "does not go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the meeting, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't go",
+                    "answerList": [
+                        "won't go",
+                        "will not go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) either."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the baby"
+                },
+                {
+                    "type": "input",
+                    "answer": "had slept",
+                    "answerList": [
+                        "had slept"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) better last night, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have been",
+                    "answerList": [
+                        "wouldn't have been",
+                        "would not have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If the teacher"
+                },
+                {
+                    "type": "input",
+                    "answer": "gives",
+                    "answerList": [
+                        "gives"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(give) us lots of homework this weekend, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't be",
+                    "answerList": [
+                        "won't be",
+                        "will not be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) happy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) enough time, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "would travel",
+                    "answerList": [
+                        "would travel",
+                        "'d travel"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(travel) more."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If the children"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't eat",
+                    "answerList": [
+                        "don't eat",
+                        "do not eat"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) soon, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be",
+                    "answerList": [
+                        "'ll be",
+                        "will be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) grumpy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't go",
+                    "answerList": [
+                        "don't go",
+                        "do not go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to bed soon, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be",
+                    "answerList": [
+                        "'ll be",
+                        "will be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) tired in the morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "wanted",
+                    "answerList": [
+                        "wanted"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(want) a new car, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "would buy",
+                    "answerList": [
+                        "would buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) one."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Jos\u00e9"
+                },
+                {
+                    "type": "input",
+                    "answer": "didn't speak",
+                    "answerList": [
+                        "didn't speak",
+                        "did not speak"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/speak) good French, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't move",
+                    "answerList": [
+                        "wouldn't move",
+                        "would not move"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/move) to Paris."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If John"
+                },
+                {
+                    "type": "input",
+                    "answer": "drinks",
+                    "answerList": [
+                        "drinks"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(drink) too much coffee, he"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll get",
+                    "answerList": [
+                        "'ll get",
+                        "will get"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) ill."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "had tidied",
+                    "answerList": [
+                        "had tidied",
+                        "'d tidied"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tidy) our flat, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have lost",
+                    "answerList": [
+                        "wouldn't have lost",
+                        "would not have lost"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/lose) our keys."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If Luke"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't sent",
+                    "answerList": [
+                        "hadn't sent",
+                        "had not sent"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/send) flowers to his mother, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have been",
+                    "answerList": [
+                        "wouldn't have been",
+                        "would not have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) happy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If the children"
+                },
+                {
+                    "type": "input",
+                    "answer": "were",
+                    "answerList": [
+                        "were"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in bed, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "would be able to",
+                    "answerList": [
+                        "would be able to",
+                        "'d be able to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be able to) have a bath."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "weren't",
+                    "answerList": [
+                        "weren't",
+                        "were not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so stubborn, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have",
+                    "answerList": [
+                        "wouldn't have",
+                        "would not have"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) so many arguments."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't gone",
+                    "answerList": [
+                        "hadn't gone",
+                        "had not gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to Sweden, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "would have gone",
+                    "answerList": [
+                        "would have gone",
+                        "'d have gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Germany."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answer": "goes",
+                    "answerList": [
+                        "goes"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the library, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll study",
+                    "answerList": [
+                        "'ll study",
+                        "will study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) more."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't had",
+                    "answerList": [
+                        "hadn't had",
+                        "had not had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) an argument, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have been",
+                    "answerList": [
+                        "wouldn't have been",
+                        "would not have been"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) early, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "would be",
+                    "answerList": [
+                        "would be",
+                        "'d be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) less stressful."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If I"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't gone",
+                    "answerList": [
+                        "hadn't gone",
+                        "had not gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to the party, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have met",
+                    "answerList": [
+                        "wouldn't have met",
+                        "would not have met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) Amanda."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Julie"
+                },
+                {
+                    "type": "input",
+                    "answer": "liked",
+                    "answerList": [
+                        "liked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(like) chocolate, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "would give",
+                    "answerList": [
+                        "would give"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(give) her some."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If Luke"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in the UK, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "would see",
+                    "answerList": [
+                        "would see",
+                        "'d see"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) him more often."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If the children"
+                },
+                {
+                    "type": "input",
+                    "answer": "hadn't eaten",
+                    "answerList": [
+                        "hadn't eaten",
+                        "had not eaten"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) all that chocolate, they"
+                },
+                {
+                    "type": "input",
+                    "answer": "wouldn't have felt",
+                    "answerList": [
+                        "wouldn't have felt",
+                        "would not have felt"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/feel) sick."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If they"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't arrive",
+                    "answerList": [
+                        "don't arrive",
+                        "do not arrive"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/arrive) soon, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll be",
+                    "answerList": [
+                        "'ll be",
+                        "will be"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Third conditional) If she"
+                },
+                {
+                    "type": "input",
+                    "answer": "had studied",
+                    "answerList": [
+                        "had studied",
+                        "'d studied"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) Mandarin, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "would have gone",
+                    "answerList": [
+                        "would have gone",
+                        "'d have gone"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Beijing."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Second conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "weren't",
+                    "answerList": [
+                        "weren't",
+                        "were not"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/be) so tired, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "would go",
+                    "answerList": [
+                        "would go",
+                        "'d go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If you"
+                },
+                {
+                    "type": "input",
+                    "answer": "buy",
+                    "answerList": [
+                        "buy"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) the present, I"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll wrap",
+                    "answerList": [
+                        "'ll wrap",
+                        "will wrap"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wrap) it up."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If Lucy"
+                },
+                {
+                    "type": "input",
+                    "answer": "doesn't quit",
+                    "answerList": [
+                        "doesn't quit",
+                        "does not quit"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/quit) her job soon, she"
+                },
+                {
+                    "type": "input",
+                    "answer": "'ll go",
+                    "answerList": [
+                        "'ll go",
+                        "will go"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) crazy."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(First conditional) If we"
+                },
+                {
+                    "type": "input",
+                    "answer": "don't work",
+                    "answerList": [
+                        "don't work",
+                        "do not work"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/work) harder, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "won't pass",
+                    "answerList": [
+                        "won't pass",
+                        "will not pass"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(not/pass) the exam."
+                }
+            ]
+        }
+    ]
+}

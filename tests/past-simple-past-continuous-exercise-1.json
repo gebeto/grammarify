@@ -1,0 +1,722 @@
+{
+    "title": "Choose Past Simple or Past Continuous 1",
+    "description": "Make the past simple or past continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "was sitting",
+                    "answerList": [
+                        "was sitting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sit) in a cafe when you"
+                },
+                {
+                    "type": "input",
+                    "answer": "called",
+                    "answerList": [
+                        "called"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(call) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When you"
+                },
+                {
+                    "type": "input",
+                    "answer": "arrived",
+                    "answerList": [
+                        "arrived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(arrive) at the party, who"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) there?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Susie"
+                },
+                {
+                    "type": "input",
+                    "answer": "was watching",
+                    "answerList": [
+                        "was watching"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(watch) a film when she"
+                },
+                {
+                    "type": "input",
+                    "answer": "heard",
+                    "answerList": [
+                        "heard"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(hear) the noise."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Yesterday I"
+                },
+                {
+                    "type": "input",
+                    "answer": "went",
+                    "answerList": [
+                        "went"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the library, next I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had",
+                    "answerList": [
+                        "had"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a swim, later I"
+                },
+                {
+                    "type": "input",
+                    "answer": "met",
+                    "answerList": [
+                        "met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) Julie for coffee."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "were playing",
+                    "answerList": [
+                        "were playing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(play) tennis when John"
+                },
+                {
+                    "type": "input",
+                    "answer": "hurt",
+                    "answerList": [
+                        "hurt"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(hurt) his ankle."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "were they doing",
+                    "answerList": [
+                        "were they doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(they/do) at 10pm last night - it was really noisy?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was taking",
+                    "answerList": [
+                        "was taking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(take) a shower when the telephone"
+                },
+                {
+                    "type": "input",
+                    "answer": "rang",
+                    "answerList": [
+                        "rang"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(ring)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) in the shower when the telephone"
+                },
+                {
+                    "type": "input",
+                    "answer": "rang",
+                    "answerList": [
+                        "rang"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(ring)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answer": "walked",
+                    "answerList": [
+                        "walked"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(walk) into the room, everyone"
+                },
+                {
+                    "type": "input",
+                    "answer": "was working",
+                    "answerList": [
+                        "was working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) a day last September. The sun"
+                },
+                {
+                    "type": "input",
+                    "answer": "was shining",
+                    "answerList": [
+                        "was shining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(shine) and the birds"
+                },
+                {
+                    "type": "input",
+                    "answer": "were singing",
+                    "answerList": [
+                        "were singing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sing) . I"
+                },
+                {
+                    "type": "input",
+                    "answer": "was walking",
+                    "answerList": [
+                        "was walking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(walk) along the street when I"
+                },
+                {
+                    "type": "input",
+                    "answer": "met",
+                    "answerList": [
+                        "met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) an old friend."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was living",
+                    "answerList": [
+                        "was living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Russia when the Revolution"
+                },
+                {
+                    "type": "input",
+                    "answer": "started",
+                    "answerList": [
+                        "started"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(start)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When her train"
+                },
+                {
+                    "type": "input",
+                    "answer": "got",
+                    "answerList": [
+                        "got"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(get) to the station, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "were waiting",
+                    "answerList": [
+                        "were waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) on the platform."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was",
+                    "answerList": [
+                        "was"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) so annoying! He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was always leaving",
+                    "answerList": [
+                        "was always leaving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(always leave) his things everywhere."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "On holiday we"
+                },
+                {
+                    "type": "input",
+                    "answer": "visited",
+                    "answerList": [
+                        "visited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) Rome,"
+                },
+                {
+                    "type": "input",
+                    "answer": "saw",
+                    "answerList": [
+                        "saw"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(see) the Vatican, and"
+                },
+                {
+                    "type": "input",
+                    "answer": "spent",
+                    "answerList": [
+                        "spent"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(spend) a few days at the beach."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Why"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you standing",
+                    "answerList": [
+                        "were you standing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(stand) on a chair when I"
+                },
+                {
+                    "type": "input",
+                    "answer": "came",
+                    "answerList": [
+                        "came"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) into the room?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "lived",
+                    "answerList": [
+                        "lived"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Germany when they"
+                },
+                {
+                    "type": "input",
+                    "answer": "were",
+                    "answerList": [
+                        "were"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(be) young."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "At 7pm yesterday, we"
+                },
+                {
+                    "type": "input",
+                    "answer": "were listening",
+                    "answerList": [
+                        "were listening"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(listen) to music."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I"
+                },
+                {
+                    "type": "input",
+                    "answer": "left",
+                    "answerList": [
+                        "left"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) the house, it"
+                },
+                {
+                    "type": "input",
+                    "answer": "was snowing",
+                    "answerList": [
+                        "was snowing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(snow)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answer": "was working",
+                    "answerList": [
+                        "was working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) in a bank when he"
+                },
+                {
+                    "type": "input",
+                    "answer": "met",
+                    "answerList": [
+                        "met"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) his wife."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answer": "were you doing",
+                    "answerList": [
+                        "were you doing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do) when I"
+                },
+                {
+                    "type": "input",
+                    "answer": "called",
+                    "answerList": [
+                        "called"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(call) you last night?"
+                }
+            ]
+        }
+    ]
+}

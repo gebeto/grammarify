@@ -1,0 +1,446 @@
+{
+    "title": "Participle Adjectives 1",
+    "description": "Choose the correct adjective:",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My nephew was"
+                },
+                {
+                    "type": "input",
+                    "answer": "amused",
+                    "answerList": [
+                        "amused"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(amused / amusing) by the clown."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's so"
+                },
+                {
+                    "type": "input",
+                    "answer": "frustrating",
+                    "answerList": [
+                        "frustrating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(frustrated / frustrating) ! No matter how much I study I can't seem to remember this vocabulary."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This lesson is so"
+                },
+                {
+                    "type": "input",
+                    "answer": "boring",
+                    "answerList": [
+                        "boring"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bored / boring)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm feeling"
+                },
+                {
+                    "type": "input",
+                    "answer": "depressed",
+                    "answerList": [
+                        "depressed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(depressed / depressing) , so I'm going to go home, eat some chocolate, and go to bed early with a good book."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I thought her idea was absolutely"
+                },
+                {
+                    "type": "input",
+                    "answer": "fascinating",
+                    "answerList": [
+                        "fascinating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fascinated / fascinating) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This maths problem is so"
+                },
+                {
+                    "type": "input",
+                    "answer": "confusing",
+                    "answerList": [
+                        "confusing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(confused / confusing) ! Can you help me?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher was really"
+                },
+                {
+                    "type": "input",
+                    "answer": "amusing",
+                    "answerList": [
+                        "amusing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(amused / amusing) , so the lesson passed quickly."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The journey was"
+                },
+                {
+                    "type": "input",
+                    "answer": "exhausting",
+                    "answerList": [
+                        "exhausting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(exhausted / exhausting) ! Twelve hours by bus!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The plane began to move in a rather"
+                },
+                {
+                    "type": "input",
+                    "answer": "alarming",
+                    "answerList": [
+                        "alarming"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(alarmed / alarming) way."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He was"
+                },
+                {
+                    "type": "input",
+                    "answer": "frightened",
+                    "answerList": [
+                        "frightened"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(frightened / frightening) when he saw the spider."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I was really"
+                },
+                {
+                    "type": "input",
+                    "answer": "embarrassed",
+                    "answerList": [
+                        "embarrassed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(embarrassed / embarrassing) when I fell over in the street."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "That film was so"
+                },
+                {
+                    "type": "input",
+                    "answer": "depressing",
+                    "answerList": [
+                        "depressing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(depressed / depressing) ! There was no happy ending for any of the characters."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm sorry, I can't come tonight. I'm completely"
+                },
+                {
+                    "type": "input",
+                    "answer": "exhausted",
+                    "answerList": [
+                        "exhausted"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(exhausted / exhausting)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We are going in a helicopter? How"
+                },
+                {
+                    "type": "input",
+                    "answer": "exciting",
+                    "answerList": [
+                        "exciting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(excited / exciting)!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Don't show my baby photos to people, Mum! It's so"
+                },
+                {
+                    "type": "input",
+                    "answer": "embarrassing",
+                    "answerList": [
+                        "embarrassing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(embarrassed / embarrassing)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's okay, it's only me. Don't be"
+                },
+                {
+                    "type": "input",
+                    "answer": "alarmed",
+                    "answerList": [
+                        "alarmed"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(alarmed / alarming)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My sister is so"
+                },
+                {
+                    "type": "input",
+                    "answer": "excited",
+                    "answerList": [
+                        "excited"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(excited / exciting) because she is going on holiday tomorrow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I hate long flights. I'm always really"
+                },
+                {
+                    "type": "input",
+                    "answer": "bored",
+                    "answerList": [
+                        "bored"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bored / boring)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She looked very"
+                },
+                {
+                    "type": "input",
+                    "answer": "confused",
+                    "answerList": [
+                        "confused"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(confused / confusing) when I told her we had to change the plan."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John was"
+                },
+                {
+                    "type": "input",
+                    "answer": "fascinated",
+                    "answerList": [
+                        "fascinated"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(fascinated / fascinating) by Mandarin when he first started learning languages. He decided to study more and now he can speak it fluently."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "title": "Past Perfect Continuous Positive",
+    "description": "Make the past perfect continuous",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been working",
+                    "answerList": [
+                        "had been working",
+                        "'d been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) all day, so I didn't want to go out.."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been sleeping",
+                    "answerList": [
+                        "had been sleeping",
+                        "'d been sleeping"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(sleep) for ten hours when I woke her."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been living",
+                    "answerList": [
+                        "had been living",
+                        "'d been living"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in Beijing for three years when he lost his job."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When we met, you"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been working",
+                    "answerList": [
+                        "had been working",
+                        "'d been working"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(work) at that company for six months."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been eating",
+                    "answerList": [
+                        "had been eating",
+                        "'d been eating"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) all day, so we felt a bit ill."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He was red in the face because he"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been running",
+                    "answerList": [
+                        "had been running",
+                        "'d been running"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(run) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been raining",
+                    "answerList": [
+                        "had been raining",
+                        "'d been raining"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(rain) and the road was covered in water."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I was really tired because I"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been studying",
+                    "answerList": [
+                        "had been studying",
+                        "'d been studying"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) ."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been going",
+                    "answerList": [
+                        "had been going",
+                        "'d been going out"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out for three years when we got married."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It"
+                },
+                {
+                    "type": "input",
+                    "answer": "had been snowing",
+                    "answerList": [
+                        "had been snowing",
+                        "'d been snowing"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(snow) for three days."
+                }
+            ]
+        }
+    ]
+}

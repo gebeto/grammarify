@@ -1,0 +1,360 @@
+{
+    "title": "Present Continuous - Questions 2",
+    "description": "Make the present continuous - 'yes / no' or 'wh' questions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink / tea )?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you drinking tea?",
+                    "answerList": [
+                        "Are you drinking tea?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / stay)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Where are you staying?",
+                    "answerList": [
+                        "Where are you staying?"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(why / you / watch TV now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why are you watching TV now?",
+                    "answerList": [
+                        "Why are you watching TV now?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / work in a bar)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she working in a bar?",
+                    "answerList": [
+                        "Is she working in a bar?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / he / do)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What is he doing?",
+                    "answerList": [
+                        "What is he doing?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / she / call her friend now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Why is she calling her friend now?",
+                    "answerList": [
+                        "Why is she calling her friend now?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / lose weight)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Am I losing weight?",
+                    "answerList": [
+                        "Am I losing weight?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / work tomorrow)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are we working tomorrow?",
+                    "answerList": [
+                        "Are we working tomorrow?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / you / arrive)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When are you arriving?",
+                    "answerList": [
+                        "When are you arriving?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / take dance classes)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is he taking dance classes?",
+                    "answerList": [
+                        "Is he taking dance classes?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / stay in a hotel)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she staying in a hotel?",
+                    "answerList": [
+                        "Is she staying in a hotel?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how much / he / eat)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How much is he eating?",
+                    "answerList": [
+                        "How much is he eating?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / you / stay in China)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long are you staying in China?",
+                    "answerList": [
+                        "How long are you staying in China?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / study in the library now)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Is she studying in the library now?",
+                    "answerList": [
+                        "Is she studying in the library now?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / come)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you coming?",
+                    "answerList": [
+                        "Are you coming?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / rent a car)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are they renting a car?",
+                    "answerList": [
+                        "Are they renting a car?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / they / have a barbeque)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "When are they having a barbeque?",
+                    "answerList": [
+                        "When are they having a barbeque?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / Julie / do tonight)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "What is Julie doing tonight?",
+                    "answerList": [
+                        "What is Julie doing tonight?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / feel sleepy)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Are you feeling sleepy?",
+                    "answerList": [
+                        "Are you feeling sleepy?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(how long / you / stay in Paris)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "How long are you staying in Paris?",
+                    "answerList": [
+                        "How long are you staying in Paris?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

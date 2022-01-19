@@ -1,0 +1,176 @@
+{
+    "title": "Bed / home / work / town",
+    "description": "Fill the gap with 'the' or use - if you don't need an article.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John's at"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "home now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's go into"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "town later. I'd like to do some shopping."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "bed early last night but I still feel tired."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "The",
+                    "answerList": [
+                        "The",
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "work that Julie's doing at the moment sounds borning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My son's just rented his first flat and needs furniture. I'm going to give him"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "bed in our spare room."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I usually arrive at"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "work at about eight thirty."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought a book about"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "homes of the rich and famous."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "The",
+                    "answerList": [
+                        "The",
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "town where my mother lives is very pretty."
+                }
+            ]
+        }
+    ]
+}

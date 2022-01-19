@@ -1,0 +1,446 @@
+{
+    "title": "Gerunds and Infinitives 1",
+    "description": "Put the verb into either the gerund (-ing) or the infinitive (with 'to'):",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't fancy"
+                },
+                {
+                    "type": "input",
+                    "answer": "going",
+                    "answerList": [
+                        "going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out tonight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She avoided"
+                },
+                {
+                    "type": "input",
+                    "answer": "telling",
+                    "answerList": [
+                        "telling"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(tell) him about her plans."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I would like"
+                },
+                {
+                    "type": "input",
+                    "answer": "to come",
+                    "answerList": [
+                        "to come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) to the party with you."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He enjoys"
+                },
+                {
+                    "type": "input",
+                    "answer": "having",
+                    "answerList": [
+                        "having"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(have) a bath in the evening."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She kept"
+                },
+                {
+                    "type": "input",
+                    "answer": "talking",
+                    "answerList": [
+                        "talking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(talk) during the film."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I am learning"
+                },
+                {
+                    "type": "input",
+                    "answer": "to speak",
+                    "answerList": [
+                        "to speak"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(speak) English."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you mind"
+                },
+                {
+                    "type": "input",
+                    "answer": "giving",
+                    "answerList": [
+                        "giving"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(give) me a hand?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She helped me"
+                },
+                {
+                    "type": "input",
+                    "answer": "to carry",
+                    "answerList": [
+                        "to carry"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(carry) my suitcases."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I've finished"
+                },
+                {
+                    "type": "input",
+                    "answer": "cooking",
+                    "answerList": [
+                        "cooking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) - come and eat!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He decided"
+                },
+                {
+                    "type": "input",
+                    "answer": "to study",
+                    "answerList": [
+                        "to study"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(study) biology."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I dislike"
+                },
+                {
+                    "type": "input",
+                    "answer": "waiting",
+                    "answerList": [
+                        "waiting"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(wait)."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He asked"
+                },
+                {
+                    "type": "input",
+                    "answer": "to come",
+                    "answerList": [
+                        "to come"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(come) with us."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I promise"
+                },
+                {
+                    "type": "input",
+                    "answer": "to help",
+                    "answerList": [
+                        "to help"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(help) you tomorrow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We discussed"
+                },
+                {
+                    "type": "input",
+                    "answer": "going",
+                    "answerList": [
+                        "going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema, but in the end we stayed at home."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She agreed"
+                },
+                {
+                    "type": "input",
+                    "answer": "to bring",
+                    "answerList": [
+                        "to bring"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(bring) the pudding to the dinner."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't recommend"
+                },
+                {
+                    "type": "input",
+                    "answer": "taking",
+                    "answerList": [
+                        "taking"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(take) the bus - it takes forever!"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We hope"
+                },
+                {
+                    "type": "input",
+                    "answer": "to visit",
+                    "answerList": [
+                        "to visit"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(visit) Amsterdam next month."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She suggested"
+                },
+                {
+                    "type": "input",
+                    "answer": "going",
+                    "answerList": [
+                        "going"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the museum."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They plan"
+                },
+                {
+                    "type": "input",
+                    "answer": "to start",
+                    "answerList": [
+                        "to start"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(start) college in the autumn."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't want"
+                },
+                {
+                    "type": "input",
+                    "answer": "to leave",
+                    "answerList": [
+                        "to leave"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(leave) yet."
+                }
+            ]
+        }
+    ]
+}

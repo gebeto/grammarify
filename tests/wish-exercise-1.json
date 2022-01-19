@@ -1,0 +1,196 @@
+{
+    "title": "Wish Exercise 1",
+    "description": "I wish things were different! Make sentences using 'wish' + past simple about the things I don't like. You can put in 'that' if you want, or leave it out.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't have a car."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I had a car.",
+                    "answerList": [
+                        "I wish that I had a car.",
+                        "I wish I had a car."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't play the piano."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I could play the piano.",
+                    "answerList": [
+                        "I wish that I could play the piano.",
+                        "I wish I could play the piano."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm at work."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I wasn't at work",
+                    "answerList": [
+                        "I wish that I wasn't at work",
+                        "I wish I wasn't at work"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's winter."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that it wasn't winter.",
+                    "answerList": [
+                        "I wish that it wasn't winter.",
+                        "I wish it wasn't winter"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'm ill."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I wasn't ill",
+                    "answerList": [
+                        "I wish that I wasn't ill",
+                        "I wish I wasn't ill"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't have new shoes."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I had new shoes",
+                    "answerList": [
+                        "I wish that I had new shoes",
+                        "I wish I had new shoes"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't afford to go on holiday."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I could afford to go on holiday",
+                    "answerList": [
+                        "I wish that I could afford to go on holiday",
+                        "I wish I could afford to go on holiday"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I don't have time to read lots of books."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I had time to read lots of books",
+                    "answerList": [
+                        "I wish that I had time to read lots of books",
+                        "I wish I had time to read lots of books"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I can't drive."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that I could drive",
+                    "answerList": [
+                        "I wish that I could drive",
+                        "I wish I could drive"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My laptop is broken."
+                },
+                {
+                    "type": "input",
+                    "answer": "I wish that my laptop wasn't broken",
+                    "answerList": [
+                        "I wish that my laptop wasn't broken",
+                        "I wish my laptop wasn't broken"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

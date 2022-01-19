@@ -1,0 +1,226 @@
+{
+    "title": "Superlatives with 'the' 2",
+    "description": "If it's possible to choose between 'the' and 'no article', put 'the'. Otherwise, put 'no article' (-).",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I read a lot of books on subject and this one is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "best."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I wake up"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "earliest on Mondays as I go to a yoga class. On other days I sleep later."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda's"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "happiest when she's on holiday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which student in the class is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "happiest?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "This juice is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "most delicious if you chill it for a long time first."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The British Library is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "best in the mornings. It's too crowded in the afternoons."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "calmest when he's working."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Of all the people in our office, Adrian is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "calmest."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy wakes up"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "earliest in her family."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Which juice is"
+                },
+                {
+                    "type": "input",
+                    "answer": "the",
+                    "answerList": [
+                        "the"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "most delicious? Apple juice, orange juice or raspberry juice?"
+                }
+            ]
+        }
+    ]
+}

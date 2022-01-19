@@ -1,0 +1,226 @@
+{
+    "title": "Comparative Adjectives",
+    "description": "Make the comparative form. If it's possible, use 'er'. If not, use 'more'.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Dogs are"
+                },
+                {
+                    "type": "input",
+                    "answer": "more intelligent",
+                    "answerList": [
+                        "more intelligent"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(intelligent) than rabbits."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy is"
+                },
+                {
+                    "type": "input",
+                    "answer": "older",
+                    "answerList": [
+                        "older"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(old) than Ellie."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Russia is far"
+                },
+                {
+                    "type": "input",
+                    "answer": "larger",
+                    "answerList": [
+                        "larger"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(large) than the UK."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My Latin class is"
+                },
+                {
+                    "type": "input",
+                    "answer": "more boring",
+                    "answerList": [
+                        "more boring"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(boring) than my English class."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In the UK, the streets are generally"
+                },
+                {
+                    "type": "input",
+                    "answer": "narrower",
+                    "answerList": [
+                        "narrower"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(narrow) than in the USA."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "London is"
+                },
+                {
+                    "type": "input",
+                    "answer": "busier",
+                    "answerList": [
+                        "busier"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(busy) than Glasgow."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie is"
+                },
+                {
+                    "type": "input",
+                    "answer": "quieter",
+                    "answerList": [
+                        "quieter"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(quiet) than her sister."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda is"
+                },
+                {
+                    "type": "input",
+                    "answer": "more ambitious",
+                    "answerList": [
+                        "more ambitious"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(ambitious) than her classmates."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My garden is a lot"
+                },
+                {
+                    "type": "input",
+                    "answer": "more colourful",
+                    "answerList": [
+                        "more colourful"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(colourful) than this park."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His house is a bit"
+                },
+                {
+                    "type": "input",
+                    "answer": "more comfortable",
+                    "answerList": [
+                        "more comfortable"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "(comfortable) than a hotel."
+                }
+            ]
+        }
+    ]
+}

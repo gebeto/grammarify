@@ -1,0 +1,186 @@
+{
+    "title": "Used to Exercise 2",
+    "description": "If it's possible, make a sentence with 'would + infinitive'. If it's not possible, use 'used to + infinitive':",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / have short hair when I was a teenager"
+                },
+                {
+                    "type": "input",
+                    "answer": "I used to have short hair when I was a teenager",
+                    "answerList": [
+                        "I used to have short hair when I was a teenager"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / go to the same little caf\u00e9 for lunch every day when I was a student"
+                },
+                {
+                    "type": "input",
+                    "answer": "We would go to the same little caf\u00e9 for lunch every day when I was a student",
+                    "answerList": [
+                        "We would go to the same little caf\u00e9 for lunch every day when I was a student"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / love playing badminton before she hurt her shoulder"
+                },
+                {
+                    "type": "input",
+                    "answer": "She used to love playing badminton before she hurt her shoulder",
+                    "answerList": [
+                        "She used to love playing badminton before she hurt her shoulder"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He / walk along the beach every evening before bed"
+                },
+                {
+                    "type": "input",
+                    "answer": "He would walk along the beach every evening before bed",
+                    "answerList": [
+                        "He would walk along the beach every evening before bed"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I / always lose when I played chess with my father"
+                },
+                {
+                    "type": "input",
+                    "answer": "I would always lose when I played chess with my father",
+                    "answerList": [
+                        "I would always lose when I played chess with my father"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She / be able to dance very well"
+                },
+                {
+                    "type": "input",
+                    "answer": "She used to be able to dance very well",
+                    "answerList": [
+                        "She used to be able to dance very well"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My grandfather / drink a cup of coffee after dinner every night"
+                },
+                {
+                    "type": "input",
+                    "answer": "My grandfather would drink a cup of coffee after dinner every night",
+                    "answerList": [
+                        "My grandfather would drink a cup of coffee after dinner every night"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke / not have a car"
+                },
+                {
+                    "type": "input",
+                    "answer": "Luke didn't use to have a car",
+                    "answerList": [
+                        "Luke didn't use to have a car"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We / live in Brazil"
+                },
+                {
+                    "type": "input",
+                    "answer": "We used to live in Brazil",
+                    "answerList": [
+                        "We used to live in Brazil"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My family / often go to the countryside for the weekend when I was young"
+                },
+                {
+                    "type": "input",
+                    "answer": "My family would often go to the countryside for the weekend when I was young",
+                    "answerList": [
+                        "My family would often go to the countryside for the weekend when I was young"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

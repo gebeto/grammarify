@@ -1,0 +1,433 @@
+{
+    "title": "Prepositions of Time 2",
+    "description": "Put in the correct preposition (choose in / on / at). If no preposition is needed put in -.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There was a loud noise which woke us up"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "midnight."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you usually eat chocolate eggs"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Easter?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What are you doing"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at",
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the weekend?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "last week I worked until 9pm"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "every night."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My father always reads the paper"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "breakfast time."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She plays tennis"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Fridays."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The trees here are really beautiful"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the spring."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I'll see you"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Tuesday afternoon then."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Shakespeare died"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "1616."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She studies"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "every day."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John is going to buy the presents"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "today."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In my hometown, the shops open early"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She met her husband"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "1998."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The party is"
+                },
+                {
+                    "type": "input",
+                    "answer": "-",
+                    "answerList": [
+                        "-"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "next Saturday."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We are meeting"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "Friday morning."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I often get sleepy"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the afternoon."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His daughter was born"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the 24th of August."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Mobile phones became popular"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "the nineties."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luckily the weather was perfect"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "her wedding day."
+                }
+            ]
+        }
+    ]
+}

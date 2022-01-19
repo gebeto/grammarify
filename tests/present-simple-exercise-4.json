@@ -1,0 +1,386 @@
+{
+    "title": "Present Simple Negative Other Verbs Exercise 2",
+    "description": "Make the negative present simple",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / enjoy jazz)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't enjoy jazz.",
+                    "answerList": [
+                        "He doesn't enjoy jazz.",
+                        "He does not enjoy jazz."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / buy many clothes)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't buy many clothes.",
+                    "answerList": [
+                        "We don't buy many clothes.",
+                        "We do not buy many clothes."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / like studying)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't like studying.",
+                    "answerList": [
+                        "She doesn't like studying.",
+                        "She does not like studying."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / love me)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't love me.",
+                    "answerList": [
+                        "You don't love me.",
+                        "You do not love me."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / work at home)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't work at home.",
+                    "answerList": [
+                        "They don't work at home.",
+                        "They do not work at home."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Lucy / not / have a computer)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Lucy doesn't have a computer.",
+                    "answerList": [
+                        "Lucy doesn't have a computer.",
+                        "Lucy does not have a computer."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / take the bus at night)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't take the bus at night.",
+                    "answerList": [
+                        "I don't take the bus at night.",
+                        "I do not take the bus at night."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(David / not / travel much)"
+                },
+                {
+                    "type": "input",
+                    "answer": "David doesn't travel much.",
+                    "answerList": [
+                        "David doesn't travel much.",
+                        "David does not travel much."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(we / not / have any children)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We don't have any children.",
+                    "answerList": [
+                        "We don't have any children.",
+                        "We do not have any children."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / study Biology)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't study Biology.",
+                    "answerList": [
+                        "You don't study Biology.",
+                        "You do not study Biology."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(Julie / not / listen to much music)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Julie doesn't listen to much music.",
+                    "answerList": [
+                        "Julie doesn't listen to much music.",
+                        "Julie does not listen to much music."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / live close to our house)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't live close to our house.",
+                    "answerList": [
+                        "They don't live close to our house.",
+                        "They do not live close to our house."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / not / work abroad)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't work abroad.",
+                    "answerList": [
+                        "She doesn't work abroad.",
+                        "She does not work abroad."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / own a bicycle)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't own a bicycle.",
+                    "answerList": [
+                        "You don't own a bicycle.",
+                        "You do not own a bicycle."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / get up early)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't get up early.",
+                    "answerList": [
+                        "I don't get up early.",
+                        "I do not get up early."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / not / have a car)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They don't have a car.",
+                    "answerList": [
+                        "They don't have a car.",
+                        "They do not have a car."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / not / come home late)"
+                },
+                {
+                    "type": "input",
+                    "answer": "He doesn't come home late.",
+                    "answerList": [
+                        "He doesn't come home late.",
+                        "He does not come home late."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(I / not / like travelling by plane)"
+                },
+                {
+                    "type": "input",
+                    "answer": "I don't like travelling by plane.",
+                    "answerList": [
+                        "I don't like travelling by plane.",
+                        "I do not like travelling by plane."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / not / come from Africa)"
+                },
+                {
+                    "type": "input",
+                    "answer": "You don't come from Africa.",
+                    "answerList": [
+                        "You don't come from Africa.",
+                        "You do not come from Africa."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(She / not / have any brothers or sisters)"
+                },
+                {
+                    "type": "input",
+                    "answer": "She doesn't have any brothers or sisters.",
+                    "answerList": [
+                        "She doesn't have any brothers or sisters.",
+                        "She does not have any brothers or sisters."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

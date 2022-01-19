@@ -1,0 +1,196 @@
+{
+    "title": "Nouns Exercise 1",
+    "description": "Write down the nouns from the sentences.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I love red cars."
+                },
+                {
+                    "type": "input",
+                    "answer": "cars",
+                    "answerList": [
+                        "cars"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John and Mary went to the supermarket and bought eggs and cheese."
+                },
+                {
+                    "type": "input",
+                    "answer": "John",
+                    "answerList": [
+                        "John",
+                        "Mary",
+                        "supermarket",
+                        "eggs",
+                        "cheese"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We had pizza for lunch."
+                },
+                {
+                    "type": "input",
+                    "answer": "pizza",
+                    "answerList": [
+                        "pizza",
+                        "lunch"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They never told me that they had so much money."
+                },
+                {
+                    "type": "input",
+                    "answer": "money",
+                    "answerList": [
+                        "money"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She's writing an essay on democracy."
+                },
+                {
+                    "type": "input",
+                    "answer": "essay",
+                    "answerList": [
+                        "essay",
+                        "democracy"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He had a brilliant idea."
+                },
+                {
+                    "type": "input",
+                    "answer": "idea",
+                    "answerList": [
+                        "idea"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The British Library is near King's Cross Station."
+                },
+                {
+                    "type": "input",
+                    "answer": "British Library",
+                    "answerList": [
+                        "British Library",
+                        "King's Cross Station"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He has three brothers and ten nieces and nephews."
+                },
+                {
+                    "type": "input",
+                    "answer": "brothers",
+                    "answerList": [
+                        "brothers",
+                        "nieces",
+                        "nephews"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Could you pass the salt?"
+                },
+                {
+                    "type": "input",
+                    "answer": "salt",
+                    "answerList": [
+                        "salt"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She travelled to Tokyo and Shanghai."
+                },
+                {
+                    "type": "input",
+                    "answer": "Tokyo",
+                    "answerList": [
+                        "Tokyo",
+                        "Shanghai"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

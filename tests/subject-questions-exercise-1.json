@@ -1,0 +1,366 @@
+{
+    "title": "Subject and Object Questions 1",
+    "description": "Make object or subject questions.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car is in the garage (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What is in the garage?",
+                    "answerList": [
+                        "What is in the garage?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie loves ice cream (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What does Julie love?",
+                    "answerList": [
+                        "What does Julie love?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie loves ice cream (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who loves ice cream?",
+                    "answerList": [
+                        "Who loves ice cream?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food was on the table (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Where was the food?",
+                    "answerList": [
+                        "Where was the food?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The food was on the table (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What was on the table?",
+                    "answerList": [
+                        "What was on the table?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The student is from Colombia (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is the student from?",
+                    "answerList": [
+                        "Where is the student from?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The student is from Colombia (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who is from Colombia?",
+                    "answerList": [
+                        "Who is from Colombia?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David has lost his wallet (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What has David lost?",
+                    "answerList": [
+                        "What has David lost?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "David has lost his wallet (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who has lost his wallet?",
+                    "answerList": [
+                        "Who has lost his wallet?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke read the textbook (object qiuestion)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What did Luke read?",
+                    "answerList": [
+                        "What did Luke read?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Luke read the textbook (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who read the textbook?",
+                    "answerList": [
+                        "Who read the textbook?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The caterpillar became a butterfly (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What did the caterpillar become?",
+                    "answerList": [
+                        "What did the caterpillar become?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The caterpillar became a butterfly (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What became a butterfly?",
+                    "answerList": [
+                        "What became a butterfly?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher is living in Istanbul (object qiestion)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is the teacher living?",
+                    "answerList": [
+                        "Where is the teacher living?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teacher is living in Istanbul (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who is living in Istanbul?",
+                    "answerList": [
+                        "Who is living in Istanbul?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "William has visited Spain (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Where has William visited?",
+                    "answerList": [
+                        "Where has William visited?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "William has visited Spain (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who has visited Spain?",
+                    "answerList": [
+                        "Who has visited Spain?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teenagers enjoyed the party (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "What did the teenagers enjoy?",
+                    "answerList": [
+                        "What did the teenagers enjoy?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The teenagers enjoyed the party (subject question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Who enjoyed the party?",
+                    "answerList": [
+                        "Who enjoyed the party?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The car is in the garage (object question)."
+                },
+                {
+                    "type": "input",
+                    "answer": "Where is the car?",
+                    "answerList": [
+                        "Where is the car?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}

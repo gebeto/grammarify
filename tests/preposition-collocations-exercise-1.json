@@ -1,0 +1,666 @@
+{
+    "title": "Preposition Collocations 1",
+    "description": "Put in the correct preposition",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She paid for lunch"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "advance, so we don't need to pay now."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to the wrong house"
+                },
+                {
+                    "type": "input",
+                    "answer": "by",
+                    "answerList": [
+                        "by"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "mistake."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please make sure that you're"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "time for the class."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I was walking to the station and"
+                },
+                {
+                    "type": "input",
+                    "answer": "by",
+                    "answerList": [
+                        "by"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "chance I saw the glove that I'd lost on the ground."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I love eating out in London."
+                },
+                {
+                    "type": "input",
+                    "answer": "For",
+                    "answerList": [
+                        "For"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "instance, one of my favourite restaurants has amazing Japanese food."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I think the cat is"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "danger on that high roof."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I picked up the laptop and"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "my surprise it fell apart in my hands."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I have a lot"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "common with my cousin. We both like many of the same things."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If the baby starts to cry, pick her up"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "once."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Did you forget your purse"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "purpose so you wouldn't have to pay?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It's best to arrive"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "foot because there is nowhere to park."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What do a whale and a dolphin have"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "common?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He added salt instead of sugar"
+                },
+                {
+                    "type": "input",
+                    "answer": "by",
+                    "answerList": [
+                        "by"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "mistake."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What's your favourite thing to do?"
+                },
+                {
+                    "type": "input",
+                    "answer": "For",
+                    "answerList": [
+                        "For"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "instance, do you like sport?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The book was"
+                },
+                {
+                    "type": "input",
+                    "answer": "out of",
+                    "answerList": [
+                        "out of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "reach on a high shelf."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I want to go to Germany"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a change. I've never been there."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please let me know"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "advance if you can't come to the meeting."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She often goes to school"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "foot."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Do you always brush your teeth before bed"
+                },
+                {
+                    "type": "input",
+                    "answer": "without",
+                    "answerList": [
+                        "without"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "fail?"
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The little girl broke the toy"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "purpose because she was so angry."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Please come"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "once. We have a big problem."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She worked very hard and"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "last she managed to pass the exam."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We need to be"
+                },
+                {
+                    "type": "input",
+                    "answer": "on",
+                    "answerList": [
+                        "on"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "time or my grandmother will start to get anxious."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It feels like owning a house is"
+                },
+                {
+                    "type": "input",
+                    "answer": "out of",
+                    "answerList": [
+                        "out of"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "reach. I'll never be able to do it."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We thought about it a lot and"
+                },
+                {
+                    "type": "input",
+                    "answer": "at",
+                    "answerList": [
+                        "at"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "last we decided to buy a new flat."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We watched a film"
+                },
+                {
+                    "type": "input",
+                    "answer": "for",
+                    "answerList": [
+                        "for"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "a change. Usually we read."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She was really"
+                },
+                {
+                    "type": "input",
+                    "answer": "in",
+                    "answerList": [
+                        "in"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "danger for a few minutes in the rough sea, but luckily a lifeguard saw her."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to the bookshop and"
+                },
+                {
+                    "type": "input",
+                    "answer": "by",
+                    "answerList": [
+                        "by"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "chance I found a really interesting book about Switzerland."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He walked into the kitchen and"
+                },
+                {
+                    "type": "input",
+                    "answer": "to",
+                    "answerList": [
+                        "to"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "his surprise there was food all over the floor."
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": false,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She drinks a litre of water every day"
+                },
+                {
+                    "type": "input",
+                    "answer": "without",
+                    "answerList": [
+                        "without"
+                    ],
+                    "verb": ""
+                },
+                {
+                    "type": "text",
+                    "value": "fail."
+                }
+            ]
+        }
+    ]
+}

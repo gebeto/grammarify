@@ -1,0 +1,186 @@
+{
+    "title": "Participle Clauses 1",
+    "description": "Make a reduced relative clause. These sentences all need an active clause.",
+    "questions": [
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We broke the computer (the computer belongs to my father)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We broke the computer belonging to my father.",
+                    "answerList": [
+                        "We broke the computer belonging to my father."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man is in the garden (the man is wearing a blue jumper)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The man wearing a blue jumper is in the garden.",
+                    "answerList": [
+                        "The man wearing a blue jumper is in the garden."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We found a doctor (the doctor works at a hospital in Madrid)"
+                },
+                {
+                    "type": "input",
+                    "answer": "We found a doctor working at a hospital in Madrid.",
+                    "answerList": [
+                        "We found a doctor working at a hospital in Madrid."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "People will not be allowed to enter (people have arrived late)"
+                },
+                {
+                    "type": "input",
+                    "answer": "People arriving late will not be allowed to enter.",
+                    "answerList": [
+                        "People arriving late will not be allowed to enter."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Don't wake the baby (the baby is sleeping in the next room)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Don't wake the baby sleeping in the next room.",
+                    "answerList": [
+                        "Don't wake the baby sleeping in the next room."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Who is that boy (that boy is walking in the forest)?"
+                },
+                {
+                    "type": "input",
+                    "answer": "Who is that boy walking in the forest?",
+                    "answerList": [
+                        "Who is that boy walking in the forest?"
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The man is over there (the man wants coffee)"
+                },
+                {
+                    "type": "input",
+                    "answer": "The man wanting coffee is over there.",
+                    "answerList": [
+                        "The man wanting coffee is over there."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Those books were mine (those books had been lying on the table)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Those books lying on the table were mine.",
+                    "answerList": [
+                        "Those books lying on the table were mine."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julia is on the train (the train is arriving at Platform 3)"
+                },
+                {
+                    "type": "input",
+                    "answer": "Julia is on the train arriving at Platform 3.",
+                    "answerList": [
+                        "Julia is on the train arriving at Platform 3."
+                    ],
+                    "verb": ""
+                }
+            ]
+        },
+        {
+            "isQuestion": false,
+            "isTwoPart": true,
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They called a lawyer (the lawyer lived nearby)"
+                },
+                {
+                    "type": "input",
+                    "answer": "They called a lawyer living nearby.",
+                    "answerList": [
+                        "They called a lawyer living nearby."
+                    ],
+                    "verb": ""
+                }
+            ]
+        }
+    ]
+}
