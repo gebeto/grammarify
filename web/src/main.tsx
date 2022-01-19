@@ -1,7 +1,7 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
 import { QueryClient, QueryClientProvider } from 'react-query'
-import { Quiz } from './Quiz';
+import { Quiz } from './Components/Quiz';
 
 import './styles.css';
 

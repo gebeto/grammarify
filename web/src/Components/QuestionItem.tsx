@@ -1,5 +1,5 @@
 import React from 'react';
-import { QuestionPartType, Question } from './types';
+import { QuestionPartType, Question } from '../types';
 
 
 export const QuestionItem: React.FC<{ question: Question }> = ({ question }) => {

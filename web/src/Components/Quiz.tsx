@@ -1,7 +1,7 @@
 import React from 'react';
 import { useQuery } from 'react-query';
-import { fetchQuizPage } from './api';
-import { QuizPage } from './types';
+import { fetchQuizPage } from '../api';
+import { QuizPage } from '../types';
 import { QuestionItem } from './QuestionItem';
 
 
