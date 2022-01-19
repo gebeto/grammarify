@@ -5,6 +5,12 @@ import json
 import os
 
 
+ROOT_PATH = "data"
+INDEX_PATH = f"{ROOT_PATH}/index.json"
+CONTENTS_PATH = f"{ROOT_PATH}/contents.json"
+FILE_PATH = lambda key: f"{ROOT_PATH}/{key}.json"
+
+
 class MyParser:
 	def __init__(self):
 		self.items = []
@@ -25,7 +31,7 @@ def get_all_pages():
 
 def load_all_pages():
 	pages = get_all_pages()
-	json.dump(pages, open("tests/index.json", "w"), indent=4)
+	json.dump(pages, open(INDEX_PATH, "w"), indent=4)
 
 
 def get_page_title(url):
@@ -48,21 +54,21 @@ def get_page_data(url):
 
 
 def parse_tests():
-	urls = json.load(open("tests/index.json"))
+	urls = json.load(open(INDEX_PATH))
 	for url in urls:
 		filename = get_page_title(url)
 		data = get_page_data(url)
 		if data:
 			print(filename)
-			json.dump(data, open(f"tests/{filename}.json", "w"), indent=4)
+			json.dump(data, open(FILE_PATH(filename), "w"), indent=4)
 
 
 def generate_contents():
-	urls = json.load(open("tests/index.json"))
+	urls = json.load(open(INDEX_PATH))
 	result = []
 	for url in urls:
 		filename = get_page_title(url)
-		filepath = f"tests/{filename}.json"
+		filepath = FILE_PATH(filename)
 		if os.path.exists(filepath):
 			data = json.load(open(filepath))
 			result.append({
@@ -70,6 +76,6 @@ def generate_contents():
 				"title": data["title"],
 				"description": data["description"],
 			})
-	json.dump(result, open("tests/contents.json", "w"), indent=4)
+	json.dump(result, open(CONTENTS_PATH, "w"), indent=4)
 
 generate_contents()
