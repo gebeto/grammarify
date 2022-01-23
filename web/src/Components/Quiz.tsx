@@ -5,7 +5,7 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import { fetchQuizPage } from '../api';
 import { QuizPage } from '../types';
-import { QuestionItem, QuestionBody } from './QuestionItem';
+import { Questions } from './Questions';
 
 
 export const Quiz = () => {
@@ -15,10 +15,7 @@ export const Quiz = () => {
   return (
     <Box p={2}>
       <Typography variant="h3">{data?.title}</Typography>
-      <QuestionItem steps={data?.questions.map((question, index) => ({
-        label: data?.title,
-        description: <QuestionBody key={index} question={question} />,
-      }))} />
+      <Questions title={data?.title!} questions={data?.questions!} />
     </Box>
   )
 }

@@ -3,7 +3,13 @@ import TextField from '@mui/material/TextField';
 import { QuestionPartType, Question } from '../../types';
 
 
-export const QuestionBody: React.FC<{ question: Question }> = ({ question }) => {
+export type QuestionBodyProps = {
+  question: Question;
+  onSuccess: () => void;
+};
+
+
+export const QuestionBody: React.FC<QuestionBodyProps> = ({ question, onSuccess }) => {
   const [state, setState] = React.useState<'ok' | 'error'>();
 
   const handleEnter = (e: any) => {
@@ -13,7 +19,11 @@ export const QuestionBody: React.FC<{ question: Question }> = ({ question }) => 
       if (data.type === QuestionPartType.input) {
         const value = e.target.value.toLowerCase()
         if (data.answerList.some(s => s.toLowerCase() === value)) {
-          setState('ok');
+          if (state === 'ok') {
+            onSuccess();
+          } else {
+            setState('ok');
+          }
         } else {
           setState('error');
         }

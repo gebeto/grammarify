@@ -7,12 +7,19 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
+import { Question } from '../../types';
+import { QuestionBody } from './QuestionBody';
 
 
-export const QuestionItem: React.VFC<any> = ({ steps }) => {
+export type QuestionsProps = {
+  title: string;
+  questions: Question[];
+};
+
+
+export const Questions: React.VFC<QuestionsProps> = ({ title, questions }) => {
   const theme = useTheme();
   const [activeStep, setActiveStep] = React.useState(0);
-  const maxSteps = steps.length;
 
   const handleNext = () => {
     setActiveStep((prevActiveStep) => prevActiveStep + 1);
@@ -21,6 +28,18 @@ export const QuestionItem: React.VFC<any> = ({ steps }) => {
   const handleBack = () => {
     setActiveStep((prevActiveStep) => prevActiveStep - 1);
   };
+
+  const steps = questions.map((question, index) => ({
+    label: title,
+    description: (
+      <QuestionBody
+        key={index}
+        onSuccess={handleNext}
+        question={question}
+      />
+    ),
+  }));
+  const maxSteps = steps.length;
 
   return (
     <Box sx={{ flexGrow: 1 }}>
