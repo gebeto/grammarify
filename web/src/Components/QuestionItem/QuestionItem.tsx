@@ -1,43 +1,82 @@
-import React from 'react';
-import TextField from '@mui/material/TextField';
-import { QuestionPartType, Question } from '../../types';
+import * as React from 'react';
+import Box from '@mui/material/Box';
+import { useTheme } from '@mui/material/styles';
+import MobileStepper from '@mui/material/MobileStepper';
+import Paper from '@mui/material/Paper';
+import Typography from '@mui/material/Typography';
+import Button from '@mui/material/Button';
+import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
+import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
 
 
-export const QuestionItem: React.FC<{ question: Question }> = ({ question }) => {
-  // need to use formik here
-  const [state, setState] = React.useState<'ok' | 'error'>();
+export const QuestionItem: React.VFC<any> = ({ steps }) => {
+  const theme = useTheme();
+  const [activeStep, setActiveStep] = React.useState(0);
+  const maxSteps = steps.length;
 
-  const handleEnter = (e: any) => {
-    if (e.code === 'Enter') {
-      const id = e.target.id;
-      const data = question.parts[id];
-      if (data.type === QuestionPartType.input) {
-        const value = e.target.value.toLowerCase()
-        if (data.answerList.some(s => s.toLowerCase() === value)) {
-          setState('ok');
-        } else {
-          setState('error');
-        }
-      }
-    }
-  }
+  const handleNext = () => {
+    setActiveStep((prevActiveStep) => prevActiveStep + 1);
+  };
+
+  const handleBack = () => {
+    setActiveStep((prevActiveStep) => prevActiveStep - 1);
+  };
 
   return (
-    <div className={`question-${state}`} onKeyUp={handleEnter}>
-      {question.parts.map((part, index) => {
-        if (part.type === QuestionPartType.text) {
-          return (
-            <span key={index} id={index.toString()}>{part.value}{' '}</span>
-          );
-        } else if (part.type === QuestionPartType.input) {
-          return (
-            <span>
-              <TextField size="small" variant="standard" key={index} id={index.toString()} placeholder={part.answer} />{' '}
-            </span>
-          );
+    <Box sx={{ flexGrow: 1 }}>
+      <Paper
+        square
+        elevation={0}
+        sx={{
+          display: 'flex',
+          alignItems: 'center',
+          height: 50,
+          pl: 2,
+          bgcolor: 'background.default',
+        }}
+      >
+        <Typography>{steps[activeStep].label}</Typography>
+      </Paper>
+      <Box sx={{
+        height: 'calc(100vh - 56px - 16px - 64px - 50px - 32px - 16px - 16px)',
+        width: '100%',
+        p: 2,
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center'
+      }}>
+        {steps[activeStep].description}
+      </Box>
+      <MobileStepper
+        variant="text"
+        steps={maxSteps}
+        position="static"
+        activeStep={activeStep}
+        nextButton={
+          <Button
+            size="small"
+            onClick={handleNext}
+            disabled={activeStep === maxSteps - 1}
+          >
+            Next
+            {theme.direction === 'rtl' ? (
+              <KeyboardArrowLeft />
+            ) : (
+              <KeyboardArrowRight />
+            )}
+          </Button>
         }
-        return null;
-      })}
-    </div>
+        backButton={
+          <Button size="small" onClick={handleBack} disabled={activeStep === 0}>
+            {theme.direction === 'rtl' ? (
+              <KeyboardArrowRight />
+            ) : (
+              <KeyboardArrowLeft />
+            )}
+            Back
+          </Button>
+        }
+      />
+    </Box>
   );
-};
+}

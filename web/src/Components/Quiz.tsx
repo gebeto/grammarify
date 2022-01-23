@@ -5,22 +5,20 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import { fetchQuizPage } from '../api';
 import { QuizPage } from '../types';
-import { QuestionItem } from './QuestionItem';
+import { QuestionItem, QuestionBody } from './QuestionItem';
 
 
 export const Quiz = () => {
   const { key } = useParams<{ key: string }>();
-  const contents = useQuery<QuizPage>("quiz-page", () => fetchQuizPage(key!));
+  const { data } = useQuery<QuizPage>("quiz-page", () => fetchQuizPage(key!));
 
   return (
     <Box p={2}>
-      <Typography variant="h3">{contents.data?.title}</Typography>
-      <h2>{contents.data?.description}</h2>
-      <div>
-        {contents.data?.questions?.map((part, index) => {
-          return <QuestionItem question={part} key={index} />
-        })}
-      </div>
+      <Typography variant="h3">{data?.title}</Typography>
+      <QuestionItem steps={data?.questions.map((question, index) => ({
+        label: data?.title,
+        description: <QuestionBody key={index} question={question} />,
+      }))} />
     </Box>
   )
 }
