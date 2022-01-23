@@ -2,6 +2,7 @@ import ReactDOM from 'react-dom';
 import React from 'react';
 import { QueryClient, QueryClientProvider } from 'react-query'
 import { Quiz } from './Components/Quiz';
+import { Contents } from './Components/Contents';
 
 import './styles.css';
 
@@ -19,7 +20,7 @@ function Root() {
   return (
     <QueryClientProvider client={queryClient}>
       <React.Suspense fallback="Loading...">
-        <Quiz />
+        <Contents />
       </React.Suspense>
     </QueryClientProvider>
    )

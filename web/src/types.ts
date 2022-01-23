@@ -33,3 +33,10 @@ export type QuizPage = {
   description: string;
   questions: Question[];
 }
+
+
+export type ContentsResponse = {
+  key: string;
+  title: string;
+  description: string;
+}[];
