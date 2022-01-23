@@ -1,15 +1,13 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
+import CssBaseline from '@mui/material/CssBaseline';
 import { QueryClient, QueryClientProvider } from 'react-query';
-import {
-  HashRouter,
-  Routes,
-  Route
-} from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import { Quiz } from './Components/Quiz';
 import { Contents } from './Components/Contents';
 
 import './styles.css';
+import { AppBar } from './Components/AppBar';
 
 
 const queryClient = new QueryClient({
@@ -24,6 +22,8 @@ const queryClient = new QueryClient({
 function Root() {
   return (
     <QueryClientProvider client={queryClient}>
+      <CssBaseline />
+      <AppBar />
       <HashRouter>
         <React.Suspense fallback="Loading...">
           <Routes>

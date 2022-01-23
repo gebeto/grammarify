@@ -1,4 +1,5 @@
 import React from 'react';
+import TextField from '@mui/material/TextField';
 import { QuestionPartType, Question } from '../../types';
 
 
@@ -31,7 +32,7 @@ export const QuestionItem: React.FC<{ question: Question }> = ({ question }) => 
         } else if (part.type === QuestionPartType.input) {
           return (
             <span>
-              <input key={index} id={index.toString()} placeholder={part.answer} />{' '}
+              <TextField size="small" variant="standard" key={index} id={index.toString()} placeholder={part.answer} />{' '}
             </span>
           );
         }
