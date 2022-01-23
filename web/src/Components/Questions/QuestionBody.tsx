@@ -1,7 +1,8 @@
 import React from 'react';
 import TextField from '@mui/material/TextField';
-import Alert from '@mui/material/Alert';
-import Box from '@mui/material/Box';
+import InputAdornment from '@mui/material/InputAdornment';
+import Tooltip from '@mui/material/Tooltip';
+import HelpIcon from '@mui/icons-material/Help';
 import { QuestionPartType, Question } from '../../types';
 import { QuestionAlert, QuestionAlertState } from './QuestionAlert';
 
@@ -35,7 +36,7 @@ export const QuestionBody: React.FC<QuestionBodyProps> = ({ question, onSuccess 
   }
 
   return (
-    <div className={`question-${state}`} onKeyUp={handleEnter}>
+    <div onKeyPress={handleEnter}>
       {question.parts.map((part, index) => {
         if (part.type === QuestionPartType.text) {
           return (
@@ -50,7 +51,15 @@ export const QuestionBody: React.FC<QuestionBodyProps> = ({ question, onSuccess 
                 variant="standard"
                 key={index}
                 id={index.toString()}
-                placeholder={part.answer}
+                InputProps={{
+                  endAdornment: (
+                    <InputAdornment position="end">
+                      <Tooltip title={part.answerList.join(', ')}>
+                        <HelpIcon fontSize="small" />
+                      </Tooltip>
+                    </InputAdornment>
+                  ),
+                }}
                 inputProps={{
                   sx: {
                     pb: 0,
