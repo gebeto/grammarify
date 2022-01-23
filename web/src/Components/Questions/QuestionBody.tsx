@@ -1,6 +1,9 @@
 import React from 'react';
 import TextField from '@mui/material/TextField';
+import Alert from '@mui/material/Alert';
+import Box from '@mui/material/Box';
 import { QuestionPartType, Question } from '../../types';
+import { QuestionAlert, QuestionAlertState } from './QuestionAlert';
 
 
 export type QuestionBodyProps = {
@@ -10,7 +13,7 @@ export type QuestionBodyProps = {
 
 
 export const QuestionBody: React.FC<QuestionBodyProps> = ({ question, onSuccess }) => {
-  const [state, setState] = React.useState<'ok' | 'error'>();
+  const [state, setState] = React.useState<QuestionAlertState>();
 
   const handleEnter = (e: any) => {
     if (e.code === 'Enter') {
@@ -19,13 +22,13 @@ export const QuestionBody: React.FC<QuestionBodyProps> = ({ question, onSuccess 
       if (data.type === QuestionPartType.input) {
         const value = e.target.value.toLowerCase()
         if (data.answerList.some(s => s.toLowerCase() === value)) {
-          if (state === 'ok') {
+          if (state === QuestionAlertState.success) {
             onSuccess();
           } else {
-            setState('ok');
+            setState(QuestionAlertState.success);
           }
         } else {
-          setState('error');
+          setState(QuestionAlertState.error);
         }
       }
     }
@@ -59,6 +62,8 @@ export const QuestionBody: React.FC<QuestionBodyProps> = ({ question, onSuccess 
         }
         return null;
       })}
+
+      <QuestionAlert state={state} />
     </div>
   );
 };
