@@ -9,6 +9,7 @@ import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
 import { Question } from '../../types';
 import { QuestionBody } from './QuestionBody';
+import { useQuery } from 'react-query';
 
 
 export type QuestionsProps = {
@@ -16,6 +17,14 @@ export type QuestionsProps = {
   questions: Question[];
 };
 
+
+export const DogImage = () => {
+  const { data } = useQuery<{ message: string }>('doggy', () => fetch("https://dog.ceo/api/breeds/image/random").then(res => res.json()))
+
+  return (
+    <img src={data?.message} height="300" />
+  );
+}
 
 export const Questions: React.VFC<QuestionsProps> = ({ title, questions }) => {
   const theme = useTheme();
@@ -54,7 +63,7 @@ export const Questions: React.VFC<QuestionsProps> = ({ title, questions }) => {
           bgcolor: 'background.default',
         }}
       >
-        <Typography>{steps[activeStep].label}</Typography>
+        <Typography>{steps[activeStep]?.label}</Typography>
       </Paper>
       <Box sx={{
         height: 'calc(100vh - 56px - 16px - 64px - 50px - 32px - 16px - 16px)',
@@ -64,7 +73,7 @@ export const Questions: React.VFC<QuestionsProps> = ({ title, questions }) => {
         alignItems: 'center',
         justifyContent: 'center'
       }}>
-        {steps[activeStep].description}
+        {steps[activeStep]?.description || <DogImage />}
       </Box>
       <MobileStepper
         variant="text"
