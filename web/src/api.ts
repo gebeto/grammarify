@@ -8,9 +8,9 @@ async function getJson<T extends unknown>(url: string) {
 }
 
 
-export const fetchQuizPage = () =>
-	getJson<QuizPage>("https://raw.githubusercontent.com/gebeto/grammarify/main/data/a-little-a-few-exercise-1.json?token=GHSAT0AAAAAABQDMZOXFXTQYDEFTIRR7AZQYPWXEIA");
+export const fetchQuizPage = (key: string) =>
+	getJson<QuizPage>(`https://raw.githubusercontent.com/gebeto/grammarify/main/data/${key}.json`);
 
 
 export const fetchContents = () =>
-	getJson<ContentsResponse>("https://raw.githubusercontent.com/gebeto/grammarify/main/data/contents.json?token=GHSAT0AAAAAABQDMZOX4MVU3STCTFXNPB7SYPWXFEQ");
+	getJson<ContentsResponse>("https://raw.githubusercontent.com/gebeto/grammarify/main/data/contents.json");

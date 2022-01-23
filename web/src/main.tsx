@@ -1,6 +1,11 @@
 import ReactDOM from 'react-dom';
 import React from 'react';
-import { QueryClient, QueryClientProvider } from 'react-query'
+import { QueryClient, QueryClientProvider } from 'react-query';
+import {
+  HashRouter,
+  Routes,
+  Route
+} from "react-router-dom";
 import { Quiz } from './Components/Quiz';
 import { Contents } from './Components/Contents';
 
@@ -19,9 +24,14 @@ const queryClient = new QueryClient({
 function Root() {
   return (
     <QueryClientProvider client={queryClient}>
-      <React.Suspense fallback="Loading...">
-        <Contents />
-      </React.Suspense>
+      <HashRouter>
+        <React.Suspense fallback="Loading...">
+          <Routes>
+            <Route path="/" element={<Contents />} />
+            <Route path="/:key" element={<Quiz />} />
+          </Routes>
+        </React.Suspense>
+      </HashRouter>
     </QueryClientProvider>
    )
 }
