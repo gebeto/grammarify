@@ -1,7 +1,7 @@
 import { ContentsResponse, QuizPage } from './types';
 
 
-async function getJson<T extends unknown>(url: string) {
+export async function getJson<T extends unknown>(url: string) {
 	const response = await fetch(url);
 	const json = await response.json() as T;
 	return json;

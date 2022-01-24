@@ -9,7 +9,7 @@ import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
 import { Question } from '../../types';
 import { QuestionBody } from './QuestionBody';
-import { useQuery } from 'react-query';
+import { DogImage } from './DogImage';
 
 
 export type QuestionsProps = {
@@ -17,14 +17,6 @@ export type QuestionsProps = {
   questions: Question[];
 };
 
-
-export const DogImage = () => {
-  const { data } = useQuery<{ message: string }>('doggy', () => fetch("https://dog.ceo/api/breeds/image/random").then(res => res.json()))
-
-  return (
-    <img src={data?.message} height="300" />
-  );
-}
 
 export const Questions: React.VFC<QuestionsProps> = ({ title, questions }) => {
   const theme = useTheme();
