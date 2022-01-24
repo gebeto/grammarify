@@ -6,8 +6,7 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import { Quiz } from './Components/Quiz';
 import { Contents } from './Components/Contents';
 
-import './styles.css';
-import { AppBar } from './Components/AppBar';
+import { Test } from './Components/Test';
 
 
 const queryClient = new QueryClient({
@@ -23,12 +22,12 @@ function Root() {
   return (
     <QueryClientProvider client={queryClient}>
       <CssBaseline />
-      <AppBar />
       <HashRouter>
         <React.Suspense fallback="Loading...">
           <Routes>
             <Route path="/" element={<Contents />} />
-            <Route path="/:key" element={<Quiz />} />
+            <Route path="/quiz/:key" element={<Quiz />} />
+            <Route path="/test" element={<Test />} />
           </Routes>
         </React.Suspense>
       </HashRouter>

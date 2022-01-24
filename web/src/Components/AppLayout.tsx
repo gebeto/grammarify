@@ -45,7 +45,6 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
   color: 'inherit',
   '& .MuiInputBase-input': {
     padding: theme.spacing(1, 1, 1, 0),
-    // vertical padding + font size from searchIcon
     paddingLeft: `calc(1em + ${theme.spacing(4)})`,
     transition: theme.transitions.create('width'),
     width: '100%',
@@ -56,9 +55,15 @@ const StyledInputBase = styled(InputBase)(({ theme }) => ({
 }));
 
 
-export const AppBar = () => {
+export type AppLayoutProps = {
+  title?: string;
+  onSearch?: (term: string) => void;
+}
+
+
+export const AppLayout: React.FC<AppLayoutProps> = ({ children, title, onSearch }) => {
   return (
-    <>
+    <Box>
       <MUIAppBar position="fixed">
         <Toolbar>
           <IconButton
@@ -76,17 +81,17 @@ export const AppBar = () => {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' } }}
           >
-            Grammarify
+            {title || 'Grammraify'}
           </Typography>
-          <Search>
+          {onSearch && <Search>
             <SearchIconWrapper>
               <SearchIcon />
             </SearchIconWrapper>
             <StyledInputBase
               placeholder="Search…"
-              inputProps={{ 'aria-label': 'search' }}
+              onChange={e => onSearch(e.target.value)}
             />
-          </Search>
+          </Search>}
           <Box sx={{ flexGrow: 1 }} />
           <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
             <IconButton size="large" aria-label="show 4 new mails" color="inherit">
@@ -107,6 +112,7 @@ export const AppBar = () => {
         </Toolbar>
       </MUIAppBar>
       <Toolbar />
-    </>
+      {children}
+    </Box>
   );
 }

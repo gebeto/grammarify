@@ -6,6 +6,7 @@ import Typography from '@mui/material/Typography';
 import { fetchQuizPage } from '../api';
 import { QuizPage } from '../types';
 import { Questions } from './Questions';
+import { AppLayout } from './AppLayout';
 
 
 export const Quiz = () => {
@@ -13,9 +14,11 @@ export const Quiz = () => {
   const { data } = useQuery<QuizPage>("quiz-page", () => fetchQuizPage(key!));
 
   return (
-    <Box p={2}>
-      <Typography variant="h3">{data?.title}</Typography>
-      <Questions title={data?.title!} questions={data?.questions!} />
-    </Box>
+    <AppLayout title={data?.title}>
+      <Box p={2}>
+        <Typography variant="h3">{data?.title}</Typography>
+        <Questions title={data?.title!} questions={data?.questions!} />
+      </Box>
+    </AppLayout>
   )
 }

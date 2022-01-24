@@ -10,6 +10,8 @@ import ListItemAvatar from '@mui/material/ListItemAvatar';
 import Avatar from '@mui/material/Avatar';
 import Typography from '@mui/material/Typography';
 
+import { AppLayout } from '../AppLayout';
+
 import { fetchContents } from '../../api';
 import { ContentsResponse } from '../../types';
 
@@ -30,21 +32,32 @@ export const ListItemLink = (props: any) => {
 
 
 export const Contents: React.VFC = () => {
+  const [search, setSearch] = React.useState('');
   const { data } = useQuery<ContentsResponse>('contents', fetchContents);
 
+  const items = React.useMemo(() => {
+    const term = search.toLowerCase();
+    return data?.filter(i => i.title.toLowerCase().includes(term))
+  }, [search, data])
+
   return (
-    <List>
-      {data?.map((item, index) => (
-        <ListItemLink key={item.key} alignItems="flex-start" to={`/${item.key}`}>
-          <ListItemAvatar>
-            <Avatar>{index}</Avatar>
-          </ListItemAvatar>
-          <ListItemText
-            primary={item.title}
-            secondary={item.description}
-          />
-        </ListItemLink>
-      ))}
-    </List>
+    <AppLayout
+      title="Grammarify"
+      onSearch={setSearch}
+    >
+      <List>
+        {items?.map((item, index) => (
+          <ListItemLink key={item.key} alignItems="flex-start" to={`/quiz/${item.key}`}>
+            <ListItemAvatar>
+              <Avatar>{index}</Avatar>
+            </ListItemAvatar>
+            <ListItemText
+              primary={item.title}
+              secondary={item.description}
+            />
+          </ListItemLink>
+        ))}
+      </List>
+    </AppLayout>
   );
 }
