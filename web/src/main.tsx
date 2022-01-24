@@ -33,7 +33,7 @@ function Root() {
         </React.Suspense>
       </HashRouter>
     </QueryClientProvider>
-   )
+  );
 }
 
 
