@@ -7,8 +7,6 @@ import { Quiz } from './Components/Quiz';
 import { Contents } from './Components/Contents';
 import { AppLayout } from './Components/AppLayout';
 
-import { Test } from './Components/Test';
-
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -28,7 +26,6 @@ function Root() {
           <Routes>
             <Route path="/" element={<Contents />} />
             <Route path="/quiz/:key" element={<Quiz />} />
-            <Route path="/test" element={<Test />} />
           </Routes>
         </React.Suspense>
       </HashRouter>
