@@ -12,6 +12,8 @@ import SearchIcon from '@mui/icons-material/Search';
 import MailIcon from '@mui/icons-material/Mail';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 
+import { useNavigate } from 'react-router-dom';
+
 
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
@@ -62,6 +64,8 @@ export type AppLayoutProps = {
 
 
 export const AppLayout: React.FC<AppLayoutProps> = ({ children, title, onSearch }) => {
+  const navigate = useNavigate();
+
   return (
     <Box>
       <MUIAppBar position="fixed">
@@ -72,6 +76,7 @@ export const AppLayout: React.FC<AppLayoutProps> = ({ children, title, onSearch 
             color="inherit"
             aria-label="open drawer"
             sx={{ mr: 2 }}
+            onClick={() => navigate('/')}
           >
             <MenuIcon />
           </IconButton>
