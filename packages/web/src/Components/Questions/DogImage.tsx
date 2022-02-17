@@ -1,6 +1,6 @@
 import React from 'react';
 import { useQuery } from 'react-query';
-import { getJson } from '../../api';
+import { getJson } from '@grammarify/data-parser';
 
 
 type DoggyResponse = { message: string };

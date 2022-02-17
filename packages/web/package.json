@@ -1,6 +1,6 @@
 {
-  "name": "grammarify",
-  "version": "0.0.0",
+  "name": "@grammarify/web",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

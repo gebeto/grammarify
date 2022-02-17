@@ -12,7 +12,7 @@ import Typography from '@mui/material/Typography';
 
 import { AppLayout } from '../AppLayout';
 
-import { fetchContents } from '../../api';
+import { fetchContents } from '@grammarify/data-parser';
 import { ContentsResponse } from '../../types';
 
 

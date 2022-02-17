@@ -3,7 +3,7 @@ import { useQuery } from 'react-query';
 import { useParams } from 'react-router-dom';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-import { fetchQuizPage } from '../api';
+import { fetchQuizPage } from '@grammarify/data-parser';
 import { QuizPage } from '../types';
 import { Questions } from './Questions';
 import { AppLayout } from './AppLayout';

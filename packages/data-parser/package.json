@@ -1,0 +1,9 @@
+{
+  "name": "@grammarify/data-parser",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "./src/index.ts",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}

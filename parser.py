@@ -5,7 +5,7 @@ import json
 import os
 
 
-ROOT_PATH = "data"
+ROOT_PATH = "packages/data-parser/data"
 INDEX_PATH = f"{ROOT_PATH}/index.json"
 CONTENTS_PATH = f"{ROOT_PATH}/contents.json"
 FILE_PATH = lambda key: f"{ROOT_PATH}/{key}.json"
